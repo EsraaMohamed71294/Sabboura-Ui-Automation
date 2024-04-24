@@ -1,0 +1,6069 @@
+{
+    "data": [
+   
+  { "key": "AccessDenied" ,
+    "value":  "تم رفض الدخول."
+},
+   
+  { "key": "Actions" ,
+    "value":  "الإجراءات"
+},
+   
+  { "key": "Activities" ,
+    "value":  "الأنشطة"
+},
+   
+  { "key": "Add" ,
+    "value":  "إضافة"
+},
+   
+  { "key": "AddEducator" ,
+    "value":  "إنشاء معلم"
+},
+   
+  { "key": "AdditionalInformation" ,
+    "value":  "استخدم هذه المساحة لتوفير معلومات إضافية."
+},
+   
+  { "key": "AddMoreQuestions" ,
+    "value":  "أضف المزيد من الأسئلة"
+},
+   
+  { "key": "AddStudent" ,
+    "value":  "إضافة طالب"
+},
+   
+  { "key": "Course" ,
+    "value":  "المنهج"
+},
+   
+  { "key": "CourseContentsMessage" ,
+    "value":  "استخدم نجوى بالتزامن مع كتابك الدراسي المُفضَّل. يوجد أدناه الدروس المقترحة من نجوى لكل قسم من هذا الكتاب الدراسي. هذا المنهج غير تابع لناشريّ الكتاب الدراسي المُشار إليه، ولا تخضع لإشرافهم أو موافقتهم. نجوى علامة تجارية مُسجَّلة لشركة نجوى المحدودة. جميع العلامات التجارية والمُسجَّلة الأخرى ملك لأصحابها."
+},
+   
+  { "key": "CourseKeywords" ,
+    "value":  "الكلمات الأساسية للمنهج"
+},
+   
+  { "key": "Courses" ,
+    "value":  "المناهج"
+},
+   
+  { "key": "AllCourseswithoneCourseperLine" ,
+    "value":  "كل المناهج مع منهج واحد في كل سطر"
+},
+   
+  { "key": "AllCourseswithoneCourseperLineDescription" ,
+    "value":  "This report shows the performance of each course based on the questions students received in assessments related to lessons within each course. It includes data only from assessments that passed their deadlines (i.e., closed)."
+},
+   
+  { "key": "Assessments" ,
+    "value":  "التقييمات"
+},
+   
+  { "key": "AssessmentsReports" ,
+    "value":  "تقارير التقييم"
+},
+   
+  { "key": "AssessmentTitle" ,
+    "value":  "العنوان"
+},
+   
+  { "key": "AssignToClasses" ,
+    "value":  "تعيين للفصول الدراسية"
+},
+   
+  { "key": "AssignToStudents" ,
+    "value":  "تعيين للطلاب"
+},
+   
+  { "key": "AtRowsNumber" ,
+    "value":  "في الصفوف رقم"
+},
+   
+  { "key": "Attach" ,
+    "value":  "إرفاق"
+},
+   
+  { "key": "AverageScore" ,
+    "value":  "متوسط الدرجة"
+},
+   
+  { "key": "B" ,
+    "value":  "ب"
+},
+   
+  { "key": "BulkStudentIgnoreMessage" ,
+    "value":  "تجاهل الصف الأول أو العنوان"
+},
+   
+  { "key": "BulkStudentInitMessage" ,
+    "value":  "يُرجى تحديد العنوان المناسب لكل عمود من الأعمدة في ورقة Excel الخاصة بك. إذا كنت قد استخدمت النموذج الخاص بنا، فعليك أيضًا تجاهل الصف الأول (حيث إنها عناوين الأعمدة)."
+},
+   
+  { "key": "C" ,
+    "value":  "جـ"
+},
+   
+  { "key": "CalendarYear" ,
+    "value":  "العام"
+},
+   
+  { "key": "Cancel" ,
+    "value":  "إلغاء"
+},
+   
+  { "key": "CanNotDeleteGrade" ,
+    "value":  "لا يمكنك حذف هذا الصف الدراسي."
+},
+   
+  { "key": "CantDeleteAssessment" ,
+    "value":  "لا يمكنك حذف هذا التقييم."
+},
+   
+  { "key": "ChooseImageToUpload" ,
+    "value":  "إرفاق"
+},
+   
+  { "key": "ChooseImageToUpload1" ,
+    "value":  "اختيار صورة لرفعها"
+},
+   
+  { "key": "ClassCoursesLinking" ,
+    "value":  "ربط المناهج بالفصل الدراسي"
+},
+   
+  { "key": "ClassCo-TeachersLinking" ,
+    "value":  "ربط المدرسين المساعدين بالفصل الدراسي"
+},
+   
+  { "key": "ClassCode" ,
+    "value":  "الرمز"
+},
+   
+  { "key": "ClassCodeAlphanumericValidation" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "ClassCodeIsRequired" ,
+    "value":  "رمز الفصل مفقود."
+},
+   
+  { "key": "ClassCodeLengthValidation" ,
+    "value":  "يجب أن يتراوح رمز الفصل بين 1 و20 حرفًا."
+},
+   
+  { "key": "ClassCodemustnotstartorendwithComa" ,
+    "value":  "يجب ألَّا يبدأ رمز الفصل ولا ينتهي بفاصلة."
+},
+   
+  { "key": "ClassCreatedMessage" ,
+    "value":  "تم إنشاء الفصل بنجاح."
+},
+   
+  { "key": "ClassDeletedMessage" ,
+    "value":  "تم حذف الفصل بنجاح. تم حذف كل شيء مرتبط بهذا الفصل."
+},
+   
+  { "key": "Classes" ,
+    "value":  "الفصول الدراسية"
+},
+   
+  { "key": "Classes1" ,
+    "value":  "الفصول الدراسية"
+},
+   
+  { "key": "ClassHasUsers" ,
+    "value":  "لا يمكنك حذف هذا الفصل. يجب أن تحذف الطلاب المُعيَّنين له أولًا."
+},
+   
+  { "key": "ClassID" ,
+    "value":  "كود الفصل الدراسي"
+},
+   
+  { "key": "ClassIdIsAlreadyExistInAnotherGrade" ,
+    "value":  "رمز الفصل موجود بالفعل في صف دراسي آخر."
+},
+   
+  { "key": "ClassLinking" ,
+    "value":  "ليس لديك أيُّ فصول دراسية حتى الآن. للربط، عليك إنشاء فصل أولًا."
+},
+   
+  { "key": "ClassName" ,
+    "value":  "العنوان"
+},
+   
+  { "key": "ClassStudentsLinking" ,
+    "value":  "ربط الطلاب بالفصل الدراسي"
+},
+   
+  { "key": "ClassTeacherLinking" ,
+    "value":  "ربط المدرسين بالفصل الدراسي‎"
+},
+   
+  { "key": "ClassTitle" ,
+    "value":  "عنوان الفصل"
+},
+   
+  { "key": "ClassUpdatedMessage" ,
+    "value":  "حُدِّث الفصل بنجاح."
+},
+   
+  { "key": "Co-Teachers" ,
+    "value":  "المدرِّسون المساعدون"
+},
+   
+  { "key": "ColumnsOrderSpecificationsMessage" ,
+    "value":  "يُرجى تحديد الأعمدة التي تحتوي على الأسماء الأولى والأسماء الأخيرة والدرجات والفصول الدراسية والأرقام التعريفية للطلاب."
+},
+   
+  { "key": "ConfigureContentRestrictionTitle" ,
+    "value":  "Configure Content Restriction"
+},
+   
+  { "key": "ConfirmNewPassword" ,
+    "value":  "‏تأكيد كلمة المرور الجديدة"
+},
+   
+  { "key": "ConfirmPassword" ,
+    "value":  "‏تأكيد كلمة المرور"
+},
+   
+  { "key": "ConfirmPasswordnotMatch" ,
+    "value":  "كلمتا المرور غير متطابقتين. يُرجى إعادة المحاولة."
+},
+   
+  { "key": "Content" ,
+    "value":  "المحتوى"
+},
+   
+  { "key": "Contentconfiguration" ,
+    "value":  "Content configuration"
+},
+   
+  { "key": "Copyright" ,
+    "value":  "حقوق الطبع والنشر &amp;copy {0} نجوى"
+},
+   
+  { "key": "Correct" ,
+    "value":  "صحيح"
+},
+   
+  { "key": "CorrectAnswer" ,
+    "value":  "الإجابة الصحيحة هي:"
+},
+   
+  { "key": "CorrectPerStudent" ,
+    "value":  "الإجابات الصحيحة لكل طالب"
+},
+   
+  { "key": "Country" ,
+    "value":  "البلد"
+},
+   
+  { "key": "CourseID" ,
+    "value":  "الرقم التعريفي للمنهج"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line" ,
+    "value":  "A Specific Course-Class with one Lesson per Line"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Description" ,
+    "value":  "This is a report about the course {0} with one lesson per line."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line" ,
+    "value":  "A Specific Course-Class with one Student per Line"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Description" ,
+    "value":  "This is a report about the course {0} with one student per line."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line" ,
+    "value":  "A Specific Course-Student with one Lesson per Line"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Description" ,
+    "value":  "This is a report about the course {0} with one lesson per line."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line" ,
+    "value":  "A Specific Course-Lesson with one Student per Line"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Description" ,
+    "value":  "This is a report about the course {0} with one student per line."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line" ,
+    "value":  "Courses Performance Specific Course One Class Per Line"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Description" ,
+    "value":  "This is a report about the course {0} with one class per line."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line" ,
+    "value":  "Courses Performance Specific Course One Lesson Per Line"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Description" ,
+    "value":  "This report shows the performance of each lesson based on the questions students received in assessments within the course specified below. It includes data only from assessments that passed their deadlines (i.e., closed)."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line" ,
+    "value":  "Courses Performance Specific Course One Student Per Line"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Studnet_Per_Line_Description" ,
+    "value":  "This is a report about the course {0} with one student per line."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line" ,
+    "value":  "طالب محدَّد في المنهج مع درس واحد في كل سطر."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line_Description" ,
+    "value":  "This is a report about the course {0} with one lesson per line."
+},
+   
+  { "key": "CourseTitle" ,
+    "value":  "عنوان المنهج"
+},
+   
+  { "key": "CreateAssessment" ,
+    "value":  "إنشاء تقييم"
+},
+   
+  { "key": "CreateClass" ,
+    "value":  "إنشاء فصل دراسي"
+},
+   
+  { "key": "CreateClassFirst" ,
+    "value":  "إنشاء فصل دراسي"
+},
+   
+  { "key": "CreateGrade" ,
+    "value":  "إنشاء صف دراسي"
+},
+   
+  { "key": "CreateNewClass" ,
+    "value":  "إنشاء فصل"
+},
+   
+  { "key": "CreateNewYear" ,
+    "value":  "إنشاء صف دراسي"
+},
+   
+  { "key": "CreatePassword" ,
+    "value":  "‏إنشاء كلمة مرور"
+},
+   
+  { "key": "CreationDate" ,
+    "value":  "تاريخ الإنشاء"
+},
+   
+  { "key": "D" ,
+    "value":  "د"
+},
+   
+  { "key": "Dashboard" ,
+    "value":  "لوحة المعلومات"
+},
+   
+  { "key": "Day" ,
+    "value":  "اليوم"
+},
+   
+  { "key": "Delete" ,
+    "value":  "حذف"
+},
+   
+  { "key": "DeleteConfirmMessage" ,
+    "value":  "هل أنت متأكِّد أنَّك تريد الحذف؟"
+},
+   
+  { "key": "DeleteStudentConfirmMessage" ,
+    "value":  "هل أنت متأكِّد من أنَّك تريد حذف هذا الحساب؟"
+},
+   
+  { "key": "DeletedClassMessage" ,
+    "value":  "هل أنت متأكِّد أنَّك تريد الحذف؟"
+},
+   
+  { "key": "deleteGradeConfirmMessage" ,
+    "value":  "هل أنت متأكِّد أنَّك تريد الحذف؟"
+},
+   
+  { "key": "DeleteWaningMessage" ,
+    "value":  "بمجرد الحذف، لن تتمكَّن من استعادته."
+},
+   
+  { "key": "Download" ,
+    "value":  "تنزيل"
+},
+   
+  { "key": "DueDate" ,
+    "value":  "تاريخ التسليم"
+},
+   
+  { "key": "DueDateToPortalTimeValidation" ,
+    "value":  "يجب أن يكون تاريخ أو وقت التسليم لاحقًا لتاريخ ووقت البوابة."
+},
+   
+  { "key": "DuplicateClassID" ,
+    "value":  "هذا الرمز مستخدَم بالفعل. يُرجى اختيار رمز آخَر."
+},
+   
+  { "key": "DuplicateClassIDAndTitle" ,
+    "value":  "الرمز والعنوان مستخدَمان بالفعل. يُرجى اختيار رمز وعنوان آخَرين."
+},
+   
+  { "key": "DuplicateClassTitle" ,
+    "value":  "هذا العنوان مستخدَم بالفعل. يُرجى اختيار عنوان آخَر."
+},
+   
+  { "key": "DuplicateEducatorEmail" ,
+    "value":  "هذا البريد الإلكتروني مستخدَم بالفعل. يُرجى اختيار بريد إلكتروني آخَر."
+},
+   
+  { "key": "Duplicatefirstandlastnamecombinations" ,
+    "value":  "الاسم الأول والاسم الأخير مكررة. يرجى إدخال اسم مختلف."
+},
+   
+  { "key": "DuplicateGradeID" ,
+    "value":  "هذا الرمز مستخدَم بالفعل. يُرجى اختيار رمز آخَر."
+},
+   
+  { "key": "DuplicateGradeIDAndTitle" ,
+    "value":  "الرمز والعنوان مستخدَمان بالفعل. يُرجى اختيار رمز وعنوان آخَرين."
+},
+   
+  { "key": "DuplicateGradeTitle" ,
+    "value":  "هذا العنوان مستخدَم بالفعل. يُرجى اختيار عنوان آخَر."
+},
+   
+  { "key": "DuplicateStudentID" ,
+    "value":  "هذا الرقم التعريفي موجود بالفعل. يُرجى إدخال رقم تعريفي آخَر."
+},
+   
+  { "key": "DurationTimeValidation" ,
+    "value":  "يجب ألا تتجاوز مدة الاختبار إجمالي زمن التقييم (الفرق بين تاريخ التسليم وتاريخ البدء)"
+},
+   
+  { "key": "DurationValidation" ,
+    "value":  "يُرجَى إدخال رقم صحيح."
+},
+   
+  { "key": "E" ,
+    "value":  "هـ"
+},
+   
+  { "key": "Edit" ,
+    "value":  "تعديل"
+},
+   
+  { "key": "EditAssessment" ,
+    "value":  "تعديل التقييم"
+},
+   
+  { "key": "EditAssessmentStep1" ,
+    "value":  "تعديل التقييم • الخطوة 1 من 3: إضافة معلومات عامة"
+},
+   
+  { "key": "EditClass" ,
+    "value":  "تعديل الفصل الدراسي"
+},
+   
+  { "key": "EditEducator" ,
+    "value":  "تعديل المعلِّم"
+},
+   
+  { "key": "EditPortal" ,
+    "value":  "تعديل"
+},
+   
+  { "key": "EditStudent" ,
+    "value":  "تعديل الطالب"
+},
+   
+  { "key": "EditYear" ,
+    "value":  "تعديل الصف الدراسي"
+},
+   
+  { "key": "EducatorCreatedMessage" ,
+    "value":  "تم إنشاء حساب المعلم بنجاح. قد يستغرق الأمر بضعة دقائق كي يدخل التغيير حيز التنفيذ."
+},
+   
+  { "key": "EducatorFailedToUpdateMessage" ,
+    "value":  "فشل تحديث بيانات المعلِّم. يُرجى إعادة المحاولة."
+},
+   
+  { "key": "EducatorFirstName" ,
+    "value":  "الاسم الأول"
+},
+   
+  { "key": "EducatorLastName" ,
+    "value":  "الاسم الأخير"
+},
+   
+  { "key": "Educators" ,
+    "value":  "المعلمون"
+},
+   
+  { "key": "EducatorUpdatedMessage" ,
+    "value":  "تم تحديث بيانات المعلِّم بنجاح. قد يستغرق الأمر بضعة دقائق كي يدخل التغيير حيز التنفيذ."
+},
+   
+  { "key": "Email" ,
+    "value":  "البريد الإلكتروني"
+},
+   
+  { "key": "Email/Username" ,
+    "value":  "البريد الإلكتروني/اسم المستخدم"
+},
+   
+  { "key": "EmailAddress" ,
+    "value":  "البريد الإلكتروني"
+},
+   
+  { "key": "EmailSendMessage" ,
+    "value":  "إذا كان البريد الإلكتروني الذي أدخلته مرتبطًا ببوابة المدرسة، فستُرسَل رسالة بريد إلكتروني إليك تتضمَّن إرشادات إعادة تعيين كلمة السر."
+},
+   
+  { "key": "EmailValidationMessage" ,
+    "value":  "يُرجى إدخال عنوان بريد إلكتروني صالح."
+},
+   
+  { "key": "Exams" ,
+    "value":  "الامتحانات"
+},
+   
+  { "key": "ExamsKeywords" ,
+    "value":  "Exams Keywords"
+},
+   
+  { "key": "ExpiryTime" ,
+    "value":  "وقت انتهاء الاختبار"
+},
+   
+  { "key": "Explainer" ,
+    "value":  "شارح"
+},
+   
+  { "key": "Explainers" ,
+    "value":  "الشوارح"
+},
+   
+  { "key": "F" ,
+    "value":  "و"
+},
+   
+  { "key": "Failed" ,
+    "value":  "فشل"
+},
+   
+  { "key": "FirstName" ,
+    "value":  "الاسم الأول"
+},
+   
+  { "key": "FirstNameIsRequired" ,
+    "value":  "هذا الحقل مطلوب."
+},
+   
+  { "key": "FirstNameLengthValidation" ,
+    "value":  "‏يجب أن يكون طول الاسم الأول من 1 إلى 50 حرفًا."
+},
+   
+  { "key": "FirstNameValidation" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "ForgotPassword" ,
+    "value":  "هل نسيت كلمة المرور؟"
+},
+   
+  { "key": "G" ,
+    "value":  "ز"
+},
+   
+  { "key": "GoHome" ,
+    "value":  "الانتقال إلى الصفحة الرئيسية"
+},
+   
+  { "key": "GradeCreatedMessage" ,
+    "value":  "تمت إضافة الصف الدراسي بنجاح."
+},
+   
+  { "key": "GradeDeletedMessage" ,
+    "value":  "تم حذف الصف الدراسي بنجاح."
+},
+   
+  { "key": "GradeID" ,
+    "value":  "كود الصف الدراسي"
+},
+   
+  { "key": "GradeUpdatedMessage" ,
+    "value":  "تم تحديث الصف الدراسي بنجاح."
+},
+   
+  { "key": "Homepage" ,
+    "value":  "‏الصفحة الرئيسية"
+},
+   
+  { "key": "ID" ,
+    "value":  "الرقم التعريفي"
+},
+   
+  { "key": "Incorrect" ,
+    "value":  "غير صحيح"
+},
+   
+  { "key": "IncorrectPerStudent" ,
+    "value":  "الإجابات الخاطئة لكل طالب"
+},
+   
+  { "key": "InsertDataIntoExcel" ,
+    "value":  "ملف فارغ! يُرجى ملء النموذج وإعادة تحميل الملف."
+},
+   
+  { "key": "InternalServerError" ,
+    "value":  "خطأ داخلي في الخادم. ‏يُرجى المحاولة مرة أخرى لاحقًا."
+},
+   
+  { "key": "InvalidFileExtension" ,
+    "value":  "تنسيق الملف غير صالح. تنسيق ملفات .xlsx هو التنسيق المدعوم فقط."
+},
+   
+  { "key": "InvalidFileFormat" ,
+    "value":  "تنسيق الملف غير صالح."
+},
+   
+  { "key": "InvalidGradeId" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "InvalidMail" ,
+    "value":  "يُرجى إدخال عنوان بريد إلكتروني صالح."
+},
+   
+  { "key": "InvalidMailForAddEducator" ,
+    "value":  "يُرجَى إدخال عنوان بريد إلكتروني صحيح."
+},
+   
+  { "key": "InvalidNumberOfUploadedColumns" ,
+    "value":  "يجب أن يطابق عدد الأعمدة العدد الموجود في النموذج."
+},
+   
+  { "key": "InvalidPassword" ,
+    "value":  "كلمة المرور غير صحيحة. يُرجى إعادة المحاولة."
+},
+   
+  { "key": "Language" ,
+    "value":  "اللغة"
+},
+   
+  { "key": "LanguageNotSupported" ,
+    "value":  "لا تدعم بوابتك هذه اللغة. إذا أردت عرض هذه الصفحة باللغة المحددة، يُرجَى زيارة الموقع www.nagwa.com أثناء تسجيل الخروج."
+},
+   
+  { "key": "LastName" ,
+    "value":  "الاسم الأخير"
+},
+   
+  { "key": "LastNameIsRequired" ,
+    "value":  "هذا الحقل مطلوب."
+},
+   
+  { "key": "LastNameLengthValidation" ,
+    "value":  "يجب أن يكون طول اسم العائلة من 1 إلى 50 حرفًا."
+},
+   
+  { "key": "LastNameValidation" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "LengthValidationMessage" ,
+    "value":  "يجب أن يكون عدد حروف هذا الحقل ما بين {0} إلى {1} حرفًا."
+},
+   
+  { "key": "Lesson" ,
+    "value":  "درس"
+},
+   
+  { "key": "LessonID" ,
+    "value":  "الرقم التعريفي للدرس"
+},
+   
+  { "key": "Lessons" ,
+    "value":  "الدروس"
+},
+   
+  { "key": "LessonsInUse" ,
+    "value":  "الدروس قيد الاستخدام"
+},
+   
+  { "key": "LessonsKeywords" ,
+    "value":  "Lessons Keywords"
+},
+   
+  { "key": "LessonTitle" ,
+    "value":  "عنوان الدرس"
+},
+   
+  { "key": "MailNotFound" ,
+    "value":  "لا يمكننا العثور على هذا البريد الإلكتروني في السجل الخاص بنا. يُرجى استخدام بريد إلكتروني آخَر."
+},
+   
+  { "key": "MailNotVerified" ,
+    "value":  "لم يتم التحقق من صحة هذا الحساب بعد."
+},
+   
+  { "key": "MaxDurationValidation" ,
+    "value":  "مدة الاختبار طويلة جدًّا."
+},
+   
+  { "key": "MaxlengthValidationMessage" ,
+    "value":  "يُرجى إدخال ما لا يزيد على {0} من الحروف."
+},
+   
+  { "key": "MinDurationValidation" ,
+    "value":  "يجب ألا تقل مدة الاختبار عن دقيقة واحدة."
+},
+   
+  { "key": "MinlengthValidationMessage" ,
+    "value":  "يُرجى إدخال {0} من الحروف على الأقل."
+},
+   
+  { "key": "Minutes" ,
+    "value":  "من الدقائق"
+},
+   
+  { "key": "Month" ,
+    "value":  "‏الشهر"
+},
+   
+  { "key": "Multiple" ,
+    "value":  "متعدد"
+},
+   
+  { "key": "MyAccount" ,
+    "value":  "حسابي"
+},
+   
+  { "key": "NagwaMission" ,
+    "value":  "نجوى شركة ناشئة في مجال تكنولوجيا التعليم تهدف إلى مساعدة المعلِّمين في التعليم، ومساعدة الطلاب في التعلُّم."
+},
+   
+  { "key": "NewAssessment" ,
+    "value":  "تقييم جديد"
+},
+   
+  { "key": "NewAssessmentAddGeneralInfo" ,
+    "value":  "تقييم جديد • الخطوة ١ من ٣: إضافة معلومات عامة"
+},
+   
+  { "key": "NewAssessmentAddQuestions" ,
+    "value":  "• الخطوة 2 من 3: إضافة أسئلة"
+},
+   
+  { "key": "NewAssessmentStep3" ,
+    "value":  "تقييم جديد • الخطوة 3 من 3: معاينة وإرسال تقييم"
+},
+   
+  { "key": "NewClass" ,
+    "value":  "فصل دراسي جديد"
+},
+   
+  { "key": "NewEducator" ,
+    "value":  "معلِّم جديد"
+},
+   
+  { "key": "NewGrade" ,
+    "value":  "صفٌّ دراسيٌّ جديد"
+},
+   
+  { "key": "NewPassword" ,
+    "value":  "كلمة المرور الجديدة"
+},
+   
+  { "key": "NewStudent" ,
+    "value":  "طالب جديد"
+},
+   
+  { "key": "NewYear" ,
+    "value":  "صفٌّ دراسيٌّ جديد"
+},
+   
+  { "key": "Next" ,
+    "value":  "التالي"
+},
+   
+  { "key": "Next20Classes" ,
+    "value":  "الفصول الدراسية العشرون التالية"
+},
+   
+  { "key": "NextStep" ,
+    "value":  "الخطوة التالية"
+},
+   
+  { "key": "NoCoursesyet" ,
+    "value":  "لا يوجد مناهج متاحة حتى الآن."
+},
+   
+  { "key": "NoAttachedFile" ,
+    "value":  "لا يوجد ملف مرفق."
+},
+   
+  { "key": "noCommaMessage" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "NoContent" ,
+    "value":  "لقد ضللت الطريق. ليس لديك صلاحية الوصول إلى هذه الصفحة."
+},
+   
+  { "key": "NoEducatorFound" ,
+    "value":  "ليس لديك معلِّمون حتى الآن."
+},
+   
+  { "key": "NoExamsFound" ,
+    "value":  "لا توجد امتحانات."
+},
+   
+  { "key": "Nokeywordfiltration" ,
+    "value":  "No keyword filtration"
+},
+   
+  { "key": "NoResultsFound" ,
+    "value":  "لا تُوجد نتائج."
+},
+   
+  { "key": "NoSearchResults" ,
+    "value":  "لا تُوجد نتائج."
+},
+   
+  { "key": "noSpaceForPasswordMessage" ,
+    "value":  "يجب ألا تبدأ كلمة السر الخاصة بك أو تنتهي بمسافة فارغة."
+},
+   
+  { "key": "noSpacesMessage" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "NoYearsForEducatorClassAlignmentsLinking" ,
+    "value":  "لا تُوجد صفوف دراسية حتى الآن. يُرجى الاتصال بمسئول البوابة لإنشاء صف دراسي أولًا؛ لتتمكَّن من إنشاء فصل دراسي."
+},
+   
+  { "key": "NumberOfQuestions" ,
+    "value":  "عدد الأسئلة"
+},
+   
+  { "key": "of" ,
+    "value":  "من"
+},
+   
+  { "key": "Individual" ,
+    "value":  "واحد تلو الآخر"
+},
+   
+  { "key": "PageNotExist" ,
+    "value":  "الصفحة التي تحاول الوصول إليها غير موجودة."
+},
+   
+  { "key": "PageNotFound" ,
+    "value":  "الصفحة غير موجودة"
+},
+   
+  { "key": "Password" ,
+    "value":  "كلمة المرور"
+},
+   
+  { "key": "PickLesson" ,
+    "value":  "اختر درسًا من اليمين وستظهر لك الأسئلة المرتبطة بهذا الدرس هُنا."
+},
+   
+  { "key": "PortalEducators" ,
+    "value":  "المعلِّمون"
+},
+   
+  { "key": "PortalFailedToUpdateMessage" ,
+    "value":  "فشل تحديث بيانات البوابة. يُرجى إعادة المحاولة."
+},
+   
+  { "key": "PortalId" ,
+    "value":  "معرِّف البوابة"
+},
+   
+  { "key": "PortalInfo" ,
+    "value":  "معلومات عن البوابة"
+},
+   
+  { "key": "PortalLogo" ,
+    "value":  "شعار البوابة"
+},
+   
+  { "key": "PortalName" ,
+    "value":  "اسم البوابة"
+},
+   
+  { "key": "PortalStudents" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "PortalStudentsList" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "PortalUpdatedMessage" ,
+    "value":  "تم تحديث بيانات البوابة بنجاح."
+},
+   
+  { "key": "Preview" ,
+    "value":  "معاينة"
+},
+   
+  { "key": "Previous" ,
+    "value":  "‏السابق"
+},
+   
+  { "key": "Previous100" ,
+    "value":  "100 السابقة"
+},
+   
+  { "key": "Previous20Classes" ,
+    "value":  "الفصول الدراسية العشرون السابقة"
+},
+   
+  { "key": "Process" ,
+    "value":  "معالجة"
+},
+   
+  { "key": "Q" ,
+    "value":  "س"
+},
+   
+  { "key": "Question" ,
+    "value":  "السؤال"
+},
+   
+  { "key": "Questions" ,
+    "value":  "الأسئلة"
+},
+   
+  { "key": "QuestionsPerStudent" ,
+    "value":  "الأسئلة لكل طالب"
+},
+   
+  { "key": "QuestionVideos" ,
+    "value":  "فيديوهات الأسئلة"
+},
+   
+  { "key": "QuizDescribtion" ,
+    "value":  "(سيُسمَح للطلاب بحل التقييمات خلال المدة الزمنية المتاحة.)"
+},
+   
+  { "key": "QuizDuration" ,
+    "value":  "مدة الاختبار"
+},
+   
+  { "key": "Read" ,
+    "value":  "قراءة"
+},
+   
+  { "key": "RecommendedLessons" ,
+    "value":  "الدروس الموصى بها"
+},
+   
+  { "key": "RelatedLessons" ,
+    "value":  "دروس ذات صلة"
+},
+   
+  { "key": "Remove" ,
+    "value":  "حذف"
+},
+   
+  { "key": "Reports" ,
+    "value":  "التقارير"
+},
+   
+  { "key": "RequiredValidationMessage" ,
+    "value":  "هذا الحقل مطلوب."
+},
+   
+  { "key": "ResetPassword" ,
+    "value":  "‏إعادة تعيين كلمة المرور"
+},
+   
+  { "key": "ResetPasswordConfirmMessage" ,
+    "value":  "هل أنت متأكد من أنك تريد إعادة تعيين كلمة مرور الطالب؟"
+},
+   
+  { "key": "ResetPasswordConfirmMessageTitle" ,
+    "value":  "‏إعادة تعيين كلمة المرور"
+},
+   
+  { "key": "ResetPasswordRequest" ,
+    "value":  "‏طلب إعادة تعيين كلمة المرور"
+},
+   
+  { "key": "ResetStudentPasswordMessage" ,
+    "value":  "الآن، سيتمكن الطالب من تعيين كلمة مرور جديدة في المرة التالية التي يقوم فيها بتسجيل الدخول."
+},
+   
+  { "key": "RestrictedContent" ,
+    "value":  "محتوى مُقيَّد"
+},
+   
+  { "key": "RightsReserved" ,
+    "value":  "جميع الحقوق محفوظة"
+},
+   
+  { "key": "SameItemSelection" ,
+    "value":  "هذا العنوان مستخدَم بالفعل. يُرجى اختيار عنوان آخَر."
+},
+   
+  { "key": "SampleQuestionVideos" ,
+    "value":  "نماذج فيديوهات الأسئلة"
+},
+   
+  { "key": "Save" ,
+    "value":  "حفظ"
+},
+   
+  { "key": "SaveAsDraft" ,
+    "value":  "حفظ في مسودة"
+},
+   
+  { "key": "Score" ,
+    "value":  "الدرجة"
+},
+   
+  { "key": "Search" ,
+    "value":  "‏بحث"
+},
+   
+  { "key": "SearchForLessons" ,
+    "value":  "بحث عن دروس"
+},
+   
+  { "key": "SearchingResults" ,
+    "value":  "بحث عن نتائج"
+},
+   
+  { "key": "SearchorForLessonsTitle" ,
+    "value":  "ابحث عن الدروس هنا، وابدأ بإضافة الأسئلة لتقييمك."
+},
+   
+  { "key": "SearchResults" ,
+    "value":  "‏نتائج البحث"
+},
+   
+  { "key": "Select" ,
+    "value":  "تحديد"
+},
+   
+  { "key": "SelectAllSubjects" ,
+    "value":  "Select all subjects"
+},
+   
+  { "key": "SelectSubject" ,
+    "value":  "Select the subjects you would like to include in this portal"
+},
+   
+  { "key": "SelectTitles" ,
+    "value":  "تحديد عناوين"
+},
+   
+  { "key": "Send" ,
+    "value":  "إرسال"
+},
+   
+  { "key": "SendAsQuiz" ,
+    "value":  "إرسال كاختبار"
+},
+   
+  { "key": "SetKeywords" ,
+    "value":  "Set keywords to limit the content in this portal."
+},
+   
+  { "key": "ShowMore" ,
+    "value":  "إظهار المزيد"
+},
+   
+  { "key": "SignIn" ,
+    "value":  "تسجيل الدخول"
+},
+   
+  { "key": "SignInPasswordValidation" ,
+    "value":  "‏يجب أن يكون طول كلمة المرور 6 أحرف على الأقل."
+},
+   
+  { "key": "SignOut" ,
+    "value":  "تسجيل الخروج"
+},
+   
+  { "key": "Skipped" ,
+    "value":  "تم تخطيها"
+},
+   
+  { "key": "SkippedPerStudent" ,
+    "value":  "الأسئلة التي تخطَّاها كل طالب"
+},
+   
+  { "key": "SolutionVideoQuestion" ,
+    "value":  "فيديوهات الحل"
+},
+   
+  { "key": "SolutionVideos" ,
+    "value":  "فيديوهات الحل"
+},
+   
+  { "key": "SomeThingWentWrong" ,
+    "value":  "حدث خطأٌ. يُرجى إعادة المحاولة."
+},
+   
+  { "key": "StartDate" ,
+    "value":  "تاريخ البدء"
+},
+   
+  { "key": "StartDateToDueDate" ,
+    "value":  "يجب أن يكون تاريخ أو وقت التسليم لاحقًا لتاريخ البدء."
+},
+   
+  { "key": "StartDateToPortalTimeValidation" ,
+    "value":  "يجب أن يكون تاريخ أو وقت البدء لاحقًا أو مساويًا لتاريخ ووقت البوابة."
+},
+   
+  { "key": "Status" ,
+    "value":  "الحالة"
+},
+   
+  { "key": "String" ,
+    "value":  "تم حذف الفصل بنجاح. تم حذف كل شيء مرتبط بهذا الفصل."
+},
+   
+  { "key": "Student's Code" ,
+    "value":  "رمز الطالب"
+},
+   
+  { "key": "StudentAddedSuccessfullyMessage" ,
+    "value":  "تم إنشاء حساب الطالب بنجاح. قد يستغرق الأمر بضعة دقائق كي يدخل التغيير حيز التنفيذ."
+},
+   
+  { "key": "StudentAssessmentPerformanceReportEmpty" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "StudentID" ,
+    "value":  "الرقم التعريفي للطالب"
+},
+   
+  { "key": "StudentIdIsRequired" ,
+    "value":  "هذا الحقل مطلوب."
+},
+   
+  { "key": "StudentIdLengthValidation" ,
+    "value":  "يجب أن يكون طول الرقم التعريفي الخاص بالطالب من 1 إلى 20 حرفًا."
+},
+   
+  { "key": "StudentIdsAlreadyExist" ,
+    "value":  "هذا الرقم التعريفي الخاص بالطالب موجود بالفعل."
+},
+   
+  { "key": "StudentIdValidation" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "StudentName" ,
+    "value":  "اسم الطالب"
+},
+   
+  { "key": "Students" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "StudentUpdatedMessage" ,
+    "value":  "تم تحديث بيانات الطالب بنجاح. قد يستغرق الأمر بضعة دقائق كي يدخل التغيير حيز التنفيذ."
+},
+   
+  { "key": "Subject" ,
+    "value":  "المادة"
+},
+   
+  { "key": "TableOfContents" ,
+    "value":  "جدول المحتويات"
+},
+   
+  { "key": "Teacher" ,
+    "value":  "المدرِّس"
+},
+   
+  { "key": "TemplateSheet" ,
+    "value":  "الملف النموذجي"
+},
+   
+  { "key": "ThereAreNoClassesYetForAdmin" ,
+    "value":  "ليس لديك أي فصول دراسية حتى الآن. ابدء إنشاء فصول دراسية الآن!"
+},
+   
+  { "key": "ThereAreNoClassesYetForEducator" ,
+    "value":  "ليس لديك أي فصول دراسية حتى الآن. ابدء إنشاء فصول دراسية الآن!"
+},
+   
+  { "key": "ThereAreNoLessons" ,
+    "value":  "لا تُوجد دروس متاحة."
+},
+   
+  { "key": "ThereAreNoStudents" ,
+    "value":  "ليس لديك أي طلاب حتى الآن. ابدء إضافة الطلاب الآن!"
+},
+   
+  { "key": "ThereAreNovideos" ,
+    "value":  "لا تُوجد فيديوهات متاحة حتى الآن."
+},
+   
+  { "key": "ThereAreNoWorksheets" ,
+    "value":  "لا تُوجد أوراق تدريبية متاحة حتى الآن."
+},
+   
+  { "key": "ThereAreNoYears" ,
+    "value":  "لا تُوجد صفوف دراسية حتى الآن. ابدأ في إنشاء صفوف دراسية الآن!"
+},
+   
+  { "key": "ThereAreNoYearsYetForAdmin" ,
+    "value":  "يجب عليك إنشاء صفوف دراسية أولًا قبل إنشاء فصل دراسي."
+},
+   
+  { "key": "ThereAreNoYearsYetForEducator" ,
+    "value":  "لا تُوجد صفوف دراسية حتى الآن. يُرجى الاتصال بمسئول البوابة لإنشاء سنوات دراسية أولًا قبل إنشاء فصل دراسي."
+},
+   
+  { "key": "ThereIsNoAllCourseswithoneCourseperLineReports" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoAssessmentsReports" ,
+    "value":  "ليس لديك أي تقارير للتقييمات."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_One_Student_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Class_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Lesson_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Student_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoCoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "ThereIsNoExams" ,
+    "value":  "لم تشترك هذه البوابة في أي حزم امتحانات."
+},
+   
+  { "key": "ThereIsNoExplainers" ,
+    "value":  "لا تُوجد شروحات متاحة حتى الآن."
+},
+   
+  { "key": "ThereIsNoWorksheetsReports" ,
+    "value":  "ليس لديك أي تقارير أوراق التدريب."
+},
+   
+  { "key": "TherIsNoAssessments" ,
+    "value":  "ليس لديك تقييمات حتى الآن. أنشئ تقييمًا الآن!"
+},
+   
+  { "key": "Time" ,
+    "value":  "الوقت"
+},
+   
+  { "key": "TimeDuration" ,
+    "value":  "المدة بالدقائق"
+},
+   
+  { "key": "Timezone" ,
+    "value":  "المنطقة الزمنية"
+},
+   
+  { "key": "Title" ,
+    "value":  "العنوان"
+},
+   
+  { "key": "TotalQuestions" ,
+    "value":  "إجمالي الأسئلة"
+},
+   
+  { "key": "Transcript" ,
+    "value":  "نص الفيديو"
+},
+   
+  { "key": "Upload" ,
+    "value":  "تحميل"
+},
+   
+  { "key": "UploadEmptyFile" ,
+    "value":  "ملف فارغ! يُرجى ملء النموذج وإعادة تحميل الملف."
+},
+   
+  { "key": "UploadEmptyRowsInTheFile" ,
+    "value":  "بعض الصفوف غير موجودة. يُرجى ملء الصفوف الفارغة وإعادة تحميل الملف."
+},
+   
+  { "key": "ExcelFile" ,
+    "value":  "ملف Excel"
+},
+   
+  { "key": "UserEmailAddress" ,
+    "value":  "البريد الإلكتروني"
+},
+   
+  { "key": "Username" ,
+    "value":  "اسم المستخدم"
+},
+   
+  { "key": "Users" ,
+    "value":  "المستخدمون"
+}, 
+{ "key": "Staff" ,
+  "value":  "أعضاء هيئة التدريس"
+},  
+{ "key": "role" ,
+  "value":  "الأدوار"
+}, 
+{ "key": "CreateNewStaffMember" ,
+  "value":  "إنشاء عضو هيئة تدريس جديد"
+},
+{ "key": "CreateStudents" ,
+  "value":  "إنشاء طلاب"
+},
+   
+  { "key": "Video" ,
+    "value":  "الفيديو"
+},
+   
+  { "key": "Videos" ,
+    "value":  "الفيديوهات"
+},
+   
+  { "key": "UserGuide" ,
+    "value":  "دليل المستخدم"
+},
+   
+  { "key": "UserGuideSubTitle" ,
+    "value":  "حقق أقصى استفادة من بوابة نجوى!"
+},
+   
+  { "key": "Admins" ,
+    "value":  "المسؤولون الإداريون"
+},
+   
+  { "key": "MetaDescription" ,
+    "value":  "شاهد هذه الفيديوهات لمساعدتك على فهم كيفية اسخدام منتجنا الاستخدام الأمثل."
+},
+   
+  { "key": "NoVideos" ,
+    "value":  "لا توجد أي فيديوهات متاحة ."
+},
+   
+  { "key": "View" ,
+    "value":  "عرض"
+},
+   
+  { "key": "ViewClasses" ,
+    "value":  "عرض الفصول"
+},
+   
+  { "key": "ViewLessons" ,
+    "value":  "عرض الدروس"
+},
+   
+  { "key": "ViewReport" ,
+    "value":  "عرض التقرير"
+},
+   
+  { "key": "ViewReports" ,
+    "value":  "عرض تقارير"
+},
+   
+  { "key": "ViewStudents" ,
+    "value":  "عرض الطلاب"
+},
+   
+  { "key": "VisitNagwacom" ,
+    "value":  "www.nagwa.com"
+},
+   
+  { "key": "Worksheet" ,
+    "value":  "ورقة تدريب"
+},
+   
+  { "key": "Worksheets" ,
+    "value":  "أوراق التدريب"
+},
+   
+  { "key": "WorksheetsReports" ,
+    "value":  "تقارير أوراق التدريب"
+},
+   
+  { "key": "WorksheetTitle" ,
+    "value":  "العنوان"
+},
+   
+  { "key": "Year" ,
+    "value":  "الصف الدراسي"
+},
+   
+  { "key": "YearCode" ,
+    "value":  "الرمز"
+},
+   
+  { "key": "YearCodeIsRequired" ,
+    "value":  "رمز الصف الدراسي مفقود."
+},
+   
+  { "key": "YearCodeLengthValidation" ,
+    "value":  "يجب أن يكون طول رمز الصف الدراسي من 2 إلى 20 حرفًا."
+},
+   
+  { "key": "YearCodeValidation" ,
+    "value":  "يمكنك فقط استخدام الحروف والأرقام والشرطات والشرطات التحتية والنقاط."
+},
+   
+  { "key": "YearName" ,
+    "value":  "العنوان"
+},
+   
+  { "key": "Years" ,
+    "value":  "الصفوف الدراسية"
+},
+   
+  { "key": "YouNeedAccountMessage" ,
+    "value":  "يجب أن يكون لديك حساب للوصول إلى هذه الصفحة. اشترك الآن!"
+},
+   
+  { "key": "ThereAreNoContent" ,
+    "value":  "لا تحتوي بوابتك على محتوًى لعرضه في هذه الصفحة."
+},
+   
+  { "key": "MustUseAdminEmail" ,
+    "value":  "Must use admin email"
+},
+   
+  { "key": "MustUseEducatorEmail" ,
+    "value":  "Must use educator email"
+},
+   
+  { "key": "YourAreNotInTheWhiteList" ,
+    "value":  "Your are not in the white list"
+},
+   
+  { "key": "InvalidEmailOrPassword" ,
+    "value":  "The email or password is incorrect. Please try again."
+},
+   
+  { "key": "CannotRemovetheSubject" ,
+    "value":  "لا يمكنك حذف المادة"
+},
+   
+  { "key": "unlinktheeducatorslinkedtothisclassfirst" ,
+    "value":  "You have to unlink the educators linked to this class first"
+},
+   
+  { "key": "ThereAreNoSubjectYetForEducator" ,
+    "value":  "لا توجد مادة معيَّنَة لك حتى الآن، يُرجى التواصل مع مسئول بوابتك لتعيين مادة لك أولًا قبل إنشاء فصل دراسي."
+},
+   
+  { "key": "UnlinkClassTeacherConfirmationMsg" ,
+    "value":  " بصفته مدرِّسًا لهذا ؟"
+},
+   
+  { "key": "Yes" ,
+    "value":  "نعم"
+},
+   
+  { "key": "NoEducatorMatchClassSubject" ,
+    "value":  "لا يوجد مدرِّسون متخصصون في مادة هذا الفصل حتى الآن."
+},
+   
+  { "key": "UnlinkClassCoTeacherConfirmationMsg" ,
+    "value":  " بصفته مدرِّسًا مساعدًا لهذا الفصل؟"
+},
+   
+  { "key": "UnLinkConfirmationMsg" ,
+    "value":  "هل أنت متأكِّد أنَّك تريد حذف"
+},
+   
+  { "key": "Class" ,
+    "value":  "الفصل الدراسي"
+},
+   
+  { "key": "CreatedBy" ,
+    "value":  "أنشئ بواسطة"
+},
+   
+  { "key": "ClassIdNotExist" ,
+    "value":  "رمز الفصل الدراسي غير موجود"
+},
+   
+  { "key": "GradeIdNotExist" ,
+    "value":  "رمز الصف الدراسي غير موجود"
+},
+   
+  { "key": "StudentsValidationMessage" ,
+    "value":  "لا يمكنك إنشاء تقييم دون تعيين فصل (فصول) أو طالب (طلاب) أولًا."
+},
+   
+  { "key": "CoursesPerformance_Class" ,
+    "value":  "الفصل الدراسي"
+},
+   
+  { "key": "CoursesPerformance_Course" ,
+    "value":  "المنهج"
+},
+   
+  { "key": "CoursesPerformance_Grade" ,
+    "value":  "الصف الدراسي"
+},
+   
+  { "key": "CoursesPerformance_Lessons" ,
+    "value":  "الدروس"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كل درس في المنهج المحدَّد أدناه بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات (تتم تصفية الطلاب حسب الطلاب المعيَّنين للفصل المحدَّد فقط)، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+   
+  
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Title" ,
+    "value":  "تقرير: المنهج » الفصل » درس واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كلِّ طالب في المنهج المحدَّد أدناه بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+   
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Title" ,
+    "value":  "تقرير: المنهج » الفصل » طالب واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى طالبٍ محدَّد في كل درس بالمنهج الموضَّح أدناه بناءً على الأسئلة التي تلقَّاها هذا الطالب في التقييمات، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Title" ,
+    "value":  "تقرير: المنهج » الطالب» درس واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_desc" ,
+    "value":  "يعرض هذا التقرير مستوى كلِّ طالب في المنهج المحدَّد أدناه بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات (تتم تصفية الطلاب حسب الطلاب المعيَّنين للفصل المحدَّد فقط)، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+ 
+  { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Title" ,
+    "value":  "تقرير: المنهج » الفصل » طالب واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كلِّ فصل بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات المتعلِّقة بالدروس في المنهج المحدَّد أدناه، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+ 
+  { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Title" ,
+    "value":  "تقرير: المنهج » فصل واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كلِّ درس بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات بالمنهج المحدَّد أدناه، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+ 
+  { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Title" ,
+    "value":  "تقرير: المنهج » درس واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كلِّ طالب في المنهج المحدَّد أدناه بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+ 
+  { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_Title" ,
+    "value":  "تقرير: المنهج » طالب واحد في كل سطر المنهج"
+},
+   
+  { "key": "CoursesPerformance_Students" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "StudentCode" ,
+    "value":  "رمز الطالب"
+},
+   
+  { "key": "Unanswered" ,
+    "value":  "أسئلة غير مجاب عنها"
+},
+   
+  { "key": "UnansweredPerStudent" ,
+    "value":  "الأسئلة غير المجاب عنها لكل طالب"
+},
+   
+  { "key": "EducatorNotAllowToCreateAssessment" ,
+    "value":  "يجب عليك إنشاء فصل دراسي أولًا قبل إنشاء تقييم."
+},
+   
+  { "key": "All_Courses_One_Course_per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كلِّ منهج بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات المتعلِّقة بالدروس في كلِّ منهج، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+ 
+  { "key": "All_Courses_One_Course_per_Line_Title" ,
+    "value":  "تقرير: كل المناهج » منهج واحد في كل سطر"
+},
+   
+  { "key": "AssessmentPerformance" ,
+    "value":  "أداء التقييم"
+},
+   
+  { "key": "AssessmentPerformanceReports" ,
+    "value":  "تقارير أداء التقييم"
+},
+   
+  { "key": "CoursesPerformance_Classes" ,
+    "value":  "الفصول الدراسية"
+},
+   
+  { "key": "CoursesPerformance_Courses" ,
+    "value":  "المناهج"
+},
+   
+  { "key": "CoursesPerformance_Grades" ,
+    "value":  "الصفوف الدراسية"
+},
+   
+  { "key": "CoursesPerformance_No_of_Classes" ,
+    "value":  "عدد الفصول الدراسية"
+},
+   
+  { "key": "CoursesPerformance_No_of_Lessons" ,
+    "value":  "عدد الدروس"
+},
+   
+  { "key": "CoursesPerformance_No_of_students" ,
+    "value":  "عدد الطلاب"
+},
+   
+  { "key": "CoursesPerformance_No_of_students_In_Class" ,
+    "value":  "عدد الطلاب في الفصل الدراسي"
+},
+   
+  { "key": "CoursesPerformance_Student" ,
+    "value":  "الطالب"
+},
+   
+  { "key": "CoursesPerformance_Total" ,
+    "value":  "الإجمالي"
+},
+   
+  { "key": "NumberofCorrectAnswers" ,
+    "value":  "صحيح"
+},
+   
+  { "key": "NumberofIncorrectAnswers" ,
+    "value":  "غير صحيح"
+},
+   
+  { "key": "NumberofQuestionsinallassessments" ,
+    "value":  "الأسئلة"
+},
+   
+  { "key": "StudentAssessmentPerformanceReport" ,
+    "value":  "كل الطلاب مع طالب واحد في كل سطر"
+},
+   
+  { "key": "StudentAssessmentPerformanceReport_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كلِّ طالب بناءً على الأسئلة التي تلقَّاها في التقييمات، ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+
+  { "key": "Assessment" ,
+    "value":  "تقييم "
+},
+   
+  { "key": "Closed" ,
+    "value":  "مغلق"
+},
+   
+  { "key": "Draft" ,
+    "value":  "مسودة"
+},
+   
+  { "key": "InProgress" ,
+    "value":  "قيد التقدم"
+},
+   
+  { "key": "Opened" ,
+    "value":  "مفتوح"
+},
+   
+  { "key": "Quiz" ,
+    "value":  "اختبار"
+},
+   
+  { "key": "Type" ,
+    "value":  "النوع"
+},
+   
+  { "key": "LanguageTitle" ,
+    "value":  "العربية"
+},
+   
+  { "key": "Grade" ,
+    "value":  "الصف الدراسى"
+},
+   
+  { "key": "ChooseTeacherPlaceholder" ,
+    "value":  "اختر مدرس"
+},
+   
+  { "key": "TeacherLinkMsg" ,
+    "value":  "يمكنك اختيار مدرس واحد فقط"
+},
+   
+  { "key": "ChooseCoTeachersPlaceholder" ,
+    "value":  "اختر المدرسين المساعدين"
+},
+   
+  { "key": "ChooseStudentsPlaceholder" ,
+    "value":  "اختر الطلاب"
+},
+   
+  { "key": "ChooseCoursesPlaceholder" ,
+    "value":  "اختر المناهج..."
+},
+   
+  { "key": "UnlinkAlignmentConfirmationMsg" ,
+    "value":  "هل أنت متأكِّد أنَّك تريد حذف هذا ؟"
+},
+   
+  { "key": "ChooseClassesPlaceholder" ,
+    "value":  "اختيار فصول"
+},
+   
+  { "key": "ChooseSubjectPlaceholder" ,
+    "value":  "اختيار مادة"
+},
+   
+  { "key": "CreateAssessmentTitleForEducator" ,
+    "value":  "Create Assessment"
+},
+   
+  { "key": "MaximumSubjectMsg" ,
+    "value":  "يمكنك اختيار مادة واحدة فقط"
+},
+   
+  { "key": "Done" ,
+    "value":  "تم"
+},
+   
+  { "key": "Subjects" ,
+    "value":  "المواد"
+},
+   
+  { "key": "Questions2" ,
+    "value":  "أسئلة"
+},
+   
+  { "key": "ClassAlignmentAssessmentPerformanceReportsEmpty" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "OK" ,
+    "value":  "موافق"
+},
+   
+  { "key": "SearchLessonsPlaceHolder" ,
+    "value":  "بحث"
+},
+   
+  { "key": "AssessmentDeletedMessage" ,
+    "value":  "تم حذف التقييم"
+},
+   
+  { "key": "Removed" ,
+    "value":  "تم الحذف"
+},
+   
+  { "key": "NagwaLogoName" ,
+    "value":  "logo-ar.svg"
+},
+   
+  { "key": "FileExtensionValidationMessage" ,
+    "value":  "ملف غير صحيح، برجاء إدخال jpg, png, jpeg, svg فقط"
+},
+   
+  { "key": "April" ,
+    "value":  "أبريل"
+},
+   
+  { "key": "August" ,
+    "value":  "أغسطس"
+},
+   
+  { "key": "December" ,
+    "value":  "ديسمبر"
+},
+   
+  { "key": "February" ,
+    "value":  "فبراير"
+},
+   
+  { "key": "January" ,
+    "value":  "يناير"
+},
+   
+  { "key": "July" ,
+    "value":  "يوليو"
+},
+   
+  { "key": "June" ,
+    "value":  "يونيو"
+},
+   
+  { "key": "March" ,
+    "value":  "مارس"
+},
+   
+  { "key": "May" ,
+    "value":  "مايو"
+},
+   
+  { "key": "November" ,
+    "value":  "نوفمبر"
+},
+   
+  { "key": "October" ,
+    "value":  "أكتوبر"
+},
+   
+  { "key": "September" ,
+    "value":  "سبتمبر"
+},
+   
+  { "key": "Close" ,
+    "value":  "إغلاق"
+},
+   
+  { "key": "UnableToEditEducatorSubjectMsg" ,
+    "value":  "لا يمكنك إلغاء تحديد هذه المادة قبل إلغاء ربط أي فصول دراسية أو واجبات أو تقييمات مرتبطة بهذا المعلم أولًا"
+},
+   
+  { "key": "UnableToEditClassSubject" ,
+    "value":  "لا يمكنك تغيير مادة هذا الفصل الدراسي, يرجي إلغاء ربط ايا من المناهج الطلاب ,المدرسين و مساعدين المدرسين"
+},
+   
+  { "key": "ClassSubject" ,
+    "value":  "المادة"
+},
+   
+  { "key": "UnableToEditGradeofClass" ,
+    "value":  "لا يمكنك تغيير الصف الدراسى لهذا الفصل الدراسى"
+},
+   
+  { "key": "UnlinkConfirmationMessage" ,
+    "value":  "هل أنت متأكِّد أنَّك تريد حذف هذا ؟"
+},
+   
+  { "key": "LessonCourse1" ,
+    "value":  "منهج واحد"
+},
+   
+  { "key": "LessonCourse2" ,
+    "value":  "منهجان"
+},
+   
+  { "key": "LessonCourse3" ,
+    "value":  "مناهج"
+},
+   
+  { "key": "LessonCourse4" ,
+    "value":  "منهجًا"
+},
+   
+  { "key": "LessonCourse5" ,
+    "value":  "منهج"
+},
+   
+  { "key": "CoursesPerformance_Lesson" ,
+    "value":  "الدرس"
+},
+   
+  { "key": "Open" ,
+    "value":  "لم يتم البدء"
+},
+   
+  { "key": "Assessment_Report_All_Courses_One_Course_per_Line_" ,
+    "value":  "تقرير التقييمات_كل المناهج_منهج واحد في كل سطر_"
+},
+   
+  { "key": "Assessment_Report_Course_Class_One_Lesson_per_Line_" ,
+    "value":  "تقرير التقييمات_المنهج_درس واحد في كل سطر_"
+},
+   
+  { "key": "Assessment_Report_Course_Class_One_Student_per_Line_" ,
+    "value":  "تقرير التقييمات_المنهج_الفصل_طالب واحد في كل سطر_"
+},
+   
+  { "key": "Assessment_Report_Course_One_Class_per_Line_" ,
+    "value":  "تقرير التقييمات_المنهج_فصل واحد في كل سطر_"
+},
+   
+  { "key": "Assessment_Report_Course_One_Student_per_Line_" ,
+    "value":  "تقرير التقييمات_المنهج_طالب واحد في كل سطر المنهج_"
+},
+   
+  { "key": "Assessment_Report_Course_Student_One_Lesson_per_Line_" ,
+    "value":  "تقرير التقييمات_المنهج_الطالب_درس واحد في كل سطر_"
+},
+   
+  { "key": "Assessment_Report_Lesson_One_Student_per_Line_" ,
+    "value":  "تقرير التقييمات_المنهج_الفصل_طالب واحد في كل سطر_"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Report" ,
+    "value":  "تقرير التقييمات_المنهج_الفصل_درس واحد في كل سطر_"
+},
+   
+  { "key": "StudentAssessmentPerformanceReport_" ,
+    "value":  "كل الطلاب مع طالب واحد في كل سطر_"
+},
+   
+  { "key": "CSV" ,
+    "value":  "CSV"
+},
+   
+  { "key": "All_Courses_One_Course_per_Line_desc_worksheet" ,
+    "value":  "يوضِّح هذا التقرير مستوى الطلاب في كل منهج بناءً على الأسئلة التي تلقَّاها الطلاب في أوراق التدريب ذات الصلة بهذا المنهج."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_desc_worksheet" ,
+    "value":  "الوصف: يوضِّح هذا التقرير مستوى كل طالب في المنهج المحدد أدناه بناءً على الأسئلة التي تلقاها الطلاب في أوراق التدريب ذات الصلة. (تتم تصفية الطلاب حسب الطلاب المعيَّنين للفصل المحدَّد فقط)."
+},
+
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Desc_worksheet" ,
+    "value":  "يوضِّح هذا التقرير مستوى طالب محدد في كل درس بالمنهج المحدد أدناه بناءً على الأسئلة التي تلقاها هذا الطالب في أوراق التدريب ذات الصلة."
+},
+
+  { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_desc_worksheet" ,
+    "value":  "يوضِّح هذا التقرير مستوى كل طالب في الدرس والمنهج المحدد أدناه بناءً على الأسئلة التي تلقاها الطلاب في أوراق التدريب ذات الصلة."
+},
+
+  { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_desc_worksheet" ,
+    "value":  "يوضِّح هذا التقرير مستوى كل فصل بناءً على الأسئلة التي تلقاها الطلاب في أوراق التدريب المتعلقة بالدروس في المنهج المحدد أدناه."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_desc_worksheet" ,
+    "value":  "يوضِّح هذا التقرير مستوى كل درس في المنهج المحدد أدناه بناءً على الأسئلة التي تلقاها الطلاب في أوراق التدريب ذات الصلة."
+},
+
+  { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_desc_worksheet" ,
+    "value":  "الوصف: يوضِّح هذا التقرير مستوى كل طالب في المنهج المحدد أدناه، بناءً على الأسئلة التي تلقاها الطلاب في أوراق التدريب ذات الصلة."
+},
+
+  { "key": "ReportClassCode" ,
+    "value":  "الرمز"
+},
+   
+  { "key": "AllCourseswithoneCourseperLineWorksheets" ,
+    "value":  "تقرير أوراق التدريب: كل المناهج مع منهج واحد في كل سطر‎"
+},
+   
+  { "key": "All_Courses_One_Course_per_Line_Title_worksheet" ,
+    "value":  "تقرير: كل المناهج » منهج واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Desc_worksheet" ,
+    "value":  "يوضِّح هذا التقرير مستوى كل درس في المنهج المحدد أدناه بناءً على الأسئلة التي تلقاها الطلاب في أوراق التدريب ذات الصلة (تتم تصفية الطلاب حسب الطلاب المعيَّنين للفصل المحدَّد فقط)."
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Title_worksheet" ,
+    "value":  "تقرير: المنهج » الفصل » درس واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Title_worksheet" ,
+    "value":  "تقرير: المنهج » الفصل » طالب واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Title_worksheet" ,
+    "value":  "تقرير: المنهج » الطالب » درس واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Title_worksheet" ,
+    "value":  "تقرير: المنهج » الدرس » طالب واحد في كل سطر"
+},
+
+  { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Title_worksheet" ,
+    "value":  "تقرير: المنهج » فصل واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Title_worksheet" ,
+    "value":  "تقرير: المنهج » الدرس » طالب واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_Title_worksheet" ,
+    "value":  "تقرير: المنهج » طالب واحد في كل سطر"
+},
+   
+  { "key": "EssayQuestionHint" ,
+    "value":  "هذا السؤال سيصححه المُعلِّم."
+},
+   
+  { "key": "All_Assessments_One_Assessment_per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى الطلاب في كل التقييمات بناءً على الأسئلة التي تلقَّاها الطلاب في هذه التقييمات."
+},
+
+  { "key": "All_Assessments_One_Assessment_per_Line_Title" ,
+    "value":  "تقرير: كل التقييمات » تقييم واحد في كل سطر"
+},
+   
+  { "key": "All_Assessments_One_Student_per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كل طالب بناءً على الأسئلة التي تلقَّاها الطالب في كل التقييمات."
+},
+
+  { "key": "All_Assessments_One_Student_per_Line_Title" ,
+    "value":  "تقرير: كل التقييمات »  طالب واحد في كل سطر"
+},
+   
+  { "key": "All_Assessments_Specific_Assessment_One_Student_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كل طالب في التقييم المحدد."
+},
+
+  { "key": "All_Assessments_Specific_Assessment_One_Student_Per_Line_Title" ,
+    "value":  "تقرير: التقييم »  طالب واحد في كل سطر"
+},
+   
+  { "key": "All_Assessments_Specific_Student_One_Assessment_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى الطالب المحدد بناءً على الأسئلة التي تلقَّاها الطالب في كل تقييم."
+},
+
+  { "key": "All_Assessments_Specific_Student_One_Assessment_Per_Line_Title" ,
+    "value":  "تقرير: الطالب »  تقييم واحد في كل سطر"
+},
+   
+  { "key": "All_Assessments_with_One_Assessment_per_Line_Title" ,
+    "value":  "كل التقييمات مع تقييم واحد في كل سطر"
+},
+   
+  { "key": "All_Assessments_with_One_Student_per_Line_Title" ,
+    "value":  "كل التقييمات مع  طالب واحد في كل سطر"
+},
+   
+  { "key": "Reports_AssessmentTitle" ,
+    "value":  "عنوان التقييم"
+},
+   
+  { "key": "Reports_StudentName" ,
+    "value":  "اسم الطالب"
+},
+   
+  { "key": "Reports_AssessmentType_Assessment" ,
+    "value":  "تقييم"
+},
+   
+  { "key": "Reports_AssessmentType_Quiz" ,
+    "value":  "اختبار"
+},
+   
+  { "key": "Reports_AssessmentStatus_closed" ,
+    "value":  "مغلق"
+},
+   
+  { "key": "Reports_AssessmentStatus_draft" ,
+    "value":  "مسودة"
+},
+   
+  { "key": "Reports_AssessmentStatus_future" ,
+    "value":  "قيد الانتظار"
+},
+   
+  { "key": "Reports_AssessmentStatus_opened" ,
+    "value":  "قيد التقدم"
+},
+   
+  { "key": "All_Assessments_One_Assessment_per_Line_Download" ,
+    "value":  "تقرير_التقييمات_كل_التقييمات_تقييم واحد_في_كل_سطر"
+},
+   
+  { "key": "All_Assessments_One_Student_per_Line_Download" ,
+    "value":  "تقرير_التقييمات_كل_التقييمات_طالب_واحد_في_كل_سطر"
+},
+   
+  { "key": "All_Assessments_Specific_Assessment_One_Student_Per_Line_Download" ,
+    "value":  "تقرير_التقييمات_التقييم_طالب_واحد_في_كل_سطر"
+},
+   
+  { "key": "All_Assessments_Specific_Student_One_Assessment_Per_Line_Download" ,
+    "value":  "تقرير_التقييمات_الطالب_تقييم_واحد_في_كل_سطر"
+},
+   
+  { "key": "MarkingQuestion" ,
+    "value":  "تصحيح أسئلة الإجابات القصيرة • الخطوة 1 من 2 : معاينة الأسئلة"
+},
+   
+  { "key": "AssessmentId" ,
+    "value":  "الرقم التعريفي للتقييم"
+},
+   
+  { "key": "PendingMarking" ,
+    "value":  "قيد التصحيح"
+},
+   
+  { "key": "Mark" ,
+    "value":  "تصحيح"
+},
+   
+  { "key": "BackToQuestions" ,
+    "value":  "الرجوع إلى الأسئلة"
+},
+   
+  { "key": "MarkStep2Title" ,
+    "value":  "تصحيح أسئلة الاجابات القصيرة • الخطوة 2 من 2: تصحيح السؤال"
+},
+   
+  { "key": "PossibleAnswer" ,
+    "value":  "إجابة مقترحة"
+},
+   
+  { "key": "Question1" ,
+    "value":  "سؤال واحد"
+},
+   
+  { "key": "Question2" ,
+    "value":  "سؤالين"
+},
+   
+  { "key": "Question3" ,
+    "value":  "أسئلة"
+},
+   
+  { "key": "Question4" ,
+    "value":  "سؤالًا"
+},
+   
+  { "key": "Question5" ,
+    "value":  "سؤال"
+},
+   
+  { "key": "ExamAssignments" ,
+    "value":  "الامتحانات المكلف بحلِّها"
+},
+   
+  { "key": "TherIsNoExamAssessments" ,
+    "value":  "ليس لديك اي امتاحانات معينة"
+},
+   
+  { "key": "NewExamAssignment" ,
+    "value":  "تعيين امتحان جديد"
+},
+   
+  { "key": "EducatorNotAllowToCreateExamAssignment" ,
+    "value":  "يجب عليك إنشاء فصل دراسي قبل تكليف امتحان للطلاب."
+},
+   
+  { "key": "Bundle" ,
+    "value":  "الحزمة"
+},
+   
+  { "key": "ExamAssignmentTitle" ,
+    "value":  "عنوان الامتحان"
+},
+   
+  { "key": "ExamPaper" ,
+    "value":  "ورقة الامتحان"
+},
+   
+  { "key": "ModelAnswers" ,
+    "value":  "الإجابة النموذجية"
+},
+   
+  { "key": "ChooseBundle" ,
+    "value":  "اختيار حزمة"
+},
+   
+  { "key": "ChoosePack" ,
+    "value":  "اختيار باقة"
+},
+   
+  { "key": "ChoosePaper" ,
+    "value":  "اختيار امتحان"
+},
+   
+  { "key": "Pack" ,
+    "value":  "المجموعة"
+},
+   
+  { "key": "Paper" ,
+    "value":  "الامتحان"
+},
+   
+  { "key": "YouCanOnlySelect" ,
+    "value":  "يمكنك اختيار مدرس واحد فقط"
+},
+   
+  { "key": "ViewExamAssignment" ,
+    "value":  "عرض الامتحانات المكلف بحلها"
+},
+   
+  { "key": "AssignPaper" ,
+    "value":  "تكليف بحل امتحان"
+},
+   
+  { "key": "NoAnswer" ,
+    "value":  "(لا توجد اجابة)"
+},
+   
+  { "key": "CreateAssignment" ,
+    "value":  "تكليف امتحان جديد"
+},
+   
+  { "key": "EditExamAssignment" ,
+    "value":  "تعديل امتحان مكلف بحلِّه"
+},
+   
+  { "key": "ExamAssignmentDeletedMessage" ,
+    "value":  "Exam Assignment has been Deleted."
+},
+   
+  { "key": "AssignmentDeletedMessage" ,
+    "value":  "لقد تم حُذِف الامتحان المكلَّف بحلِّه."
+},
+   
+  { "key": "TherIsNoExamAssignments" ,
+    "value":  "ليس لديك اي امتاحانات معينة"
+},
+   
+  { "key": "YouCanOnlySelectBundle" ,
+    "value":  "لا يمكنك تحديد سوى حِزمة واحدة."
+},
+   
+  { "key": "YouCanOnlySelectPack" ,
+    "value":  "لا يمكنك تحديد سوى باقة واحدة."
+},
+   
+  { "key": "YouCanOnlySelectPaper" ,
+    "value":  "لا يمكنك تحديد سوى ورقة واحدة."
+},
+   
+  { "key": "YouMustSelectStudentOrClass" ,
+    "value":  "لا يمكنك إنشاء واجب دون تعيين فصل أو فصول، أو طالب أو طلاب، له أولًا.."
+},
+   
+  { "key": "Pack1" ,
+    "value":  "باقة"
+},
+   
+  { "key": "Packs" ,
+    "value":  "باقات"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_" ,
+    "value":  "طالب محدَّد في المنهج مع درس واحد في كل سطر"
+},
+   
+  { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Report_" ,
+    "value":  "تقرير أوراق التدريب_المنهج_الفصل_درس واحد في كل سطر"
+},
+   
+  { "key": "Worksheet_Report_All_Courses_One_Course_per_Line_" ,
+    "value":  "تقرير أوراق التدريب_كل المناهج_منهج واحد في كل سطر"
+},
+   
+  { "key": "Worksheet_Report_Course_Class_One_Lesson_per_Line_" ,
+    "value":  "تقرير أوراق التدريب_المنهج_الفصل_درس واحد في كل سطر"
+},
+   
+  { "key": "Worksheet_Report_Course_Class_One_Student_per_Line_" ,
+    "value":  "تقرير أوراق التدريب_المنهج_الفصل_طالب واحد في كل سطر"
+},
+   
+  { "key": "Worksheet_Report_Course_One_Class_per_Line_" ,
+    "value":  "تقرير أوراق التدريب_المنهج_فصل واحد في كل سطر"
+},
+   
+  { "key": "Worksheet_Report_Course_One_Student_per_Line_" ,
+    "value":  "تقرير أوراق التدريب_المنهج_طالب واحد في كل سطر"
+},
+   
+  { "key": "Worksheet_Report_Course_Student_One_Lesson_per_Line_" ,
+    "value":  "تقرير أوراق التدريب_المنهج_الطالب_درس واحد في كل سطر"
+},
+   
+  { "key": "Worksheet_Report_Lesson_One_Student_per_Line_" ,
+    "value":  "تقرير أوراق التدريب_المنهج_الدرس_طالب واحد في كل سطر"
+},
+   
+  { "key": "AccessDeniedMessage" ,
+    "value":  "غير مصرح لك بعرض هذه الصفحة"
+},
+   
+  { "key": "XLS" ,
+    "value":  "XLS"
+},
+   
+  { "key": "ReportsAssessmentTitle" ,
+    "value":  "عنوان التقييم"
+},
+   
+  { "key": "ReportsTableFormat" ,
+    "value":  "جدول"
+},
+   
+  { "key": "video1" ,
+    "value":  "فيديو واحد"
+},
+   
+  { "key": "video2" ,
+    "value":  "فيديوهان"
+},
+   
+  { "key": "video3" ,
+    "value":  "فيديوهات "
+},
+   
+  { "key": "video4" ,
+    "value":  "فيديو"
+},
+   
+  { "key": "ThereIsNoDataAvailableReports" ,
+    "value":  "لا تتوفر بيانات في الوقت الحالي."
+},
+   
+  { "key": "NoDataForItem" ,
+    "value":  "لا تتوفر بيانات لهذا البند."
+},
+   
+  { "key": "PerStudent" ,
+    "value":  "لكل طالب"
+},
+   
+  { "key": "paper1" ,
+    "value":  "امتحان واحد"
+},
+   
+  { "key": "paper2" ,
+    "value":  "امتحانان "
+},
+   
+  { "key": "paper3" ,
+    "value":  "امتحانات "
+},
+   
+  { "key": "paper4" ,
+    "value":  "امتحان"
+},
+   
+  { "key": "LessonsUsed" ,
+    "value":  "الدروس المستخدمة"
+},
+   
+  { "key": "Analytics" ,
+    "value":  "الإحصاءات‎"
+},
+   
+  { "key": "ReportsChartsFormat" ,
+    "value":  "مخططات"
+},
+   
+  { "key": "UsernameValidation" ,
+    "value":  "يُرجَى إدخال اسم مستخدِم صحيحًا مكوَّنًا من 6 أحرف على الأقل دون مسافات."
+},
+   
+  { "key": "StudentUserNameAlreadyExists" ,
+    "value":  "تم استخدام اسم المستخدم هذا بالفعل. الرجاء اختيار اسم مستخدم آخر."
+},
+   
+  { "key": "NewFile" ,
+    "value":  "ملف جديد"
+},
+   
+  { "key": "Browse" ,
+    "value":  "استعراض"
+},
+   
+  { "key": "Date" ,
+    "value":  "التاريخ"
+},
+   
+  { "key": "DeleteFile" ,
+    "value":  "حذف الملف"
+},
+   
+  { "key": "DroporBrowse" ,
+    "value":  "إفلات الملفات أو الاستعراض"
+},
+   
+  { "key": "EnterNameMsg" ,
+    "value":  "أدخل اسمًا للملف."
+},
+   
+  { "key": "FileIsSharedMsg" ,
+    "value":  "قد يكون هذا الملف تمت مشاركته مع فصول أخرى. هل أنت متأكد من أنك تريد حذفه؟"
+},
+   
+  { "key": "FileLengthMsg" ,
+    "value":  "يجب ألا يتجاوز حجم الملف {0} جيجابايت."
+},
+   
+  { "key": "FileNameLengthMsg" ,
+    "value":  "يجب ألا يتجاوز اسم الملف {0} حرفًا."
+},
+   
+  { "key": "Name" ,
+    "value":  "الاسم"
+},
+   
+  { "key": "NameExistMsg" ,
+    "value":  "يوجد بالفعل ملف بهذا الاسم."
+},
+   
+  { "key": "Owner" ,
+    "value":  "المالك"
+},
+   
+  { "key": "Rename" ,
+    "value":  "إعادة تسمية"
+},
+   
+  { "key": "Size" ,
+    "value":  "الحجم"
+},
+   
+  { "key": "UnAuthorizeToRenameMSg" ,
+    "value":  "غير مُُصرح لك بإعادة تسمية الملف."
+},
+   
+  { "key": "Uploadedby" ,
+    "value":  "تمَّ التحميل بواسطة"
+},
+   
+  { "key": "UploadedbyMe" ,
+    "value":  "تم التحميل بواسطتي"
+},
+   
+  { "key": "UploadEmptyFileMsg" ,
+    "value":  "الملف فارغ."
+},
+   
+  { "key": "UploadFiles" ,
+    "value":  "تحميل ملفات"
+},
+   
+  { "key": "UploadOneTimeMsg" ,
+    "value":  "لا يمكنك تحميل أكثر من مُرفَق في المرة الواحدة."
+},
+   
+  { "key": "DeleteStudentMg" ,
+    "value":  "تم حذف الطالب."
+},
+   
+  { "key": "StudentFailedToDeleteMessage" ,
+    "value":  "فشل حذف بيانات الطالب. يُرجى إعادة المحاولة."
+},
+   
+  { "key": "Action" ,
+    "value":  "الإجراء"
+},
+   
+  { "key": "Files" ,
+    "value":  "ملفات"
+},
+   
+  { "key": "Messages" ,
+    "value":  "المنشورات"
+},
+   
+  { "key": "MYCLASSES" ,
+    "value":  "الفصول الخاصة بي"
+},
+   
+  { "key": "Post" ,
+    "value":  "نشر"
+},
+   
+  { "key": "SharedBy" ,
+    "value":  "تمت المشاركة بواسطة"
+},
+   
+  { "key": "SharedIn" ,
+    "value":  "تمت المشاركة في"
+},
+   
+  { "key": "Unshare" ,
+    "value":  "إلغاء المشاركة"
+},
+   
+  { "key": "SharewithClass" ,
+    "value":  "مشاركة مع الفصل"
+},
+   
+  { "key": "AllStudents" ,
+    "value":  "كل الطلاب"
+},
+   
+  { "key": "ClassWithNoStudentsMsg" ,
+    "value":  "الفصل لا يوجد به أيُّ طلاب."
+},
+   
+  { "key": "MaximumClassMsg" ,
+    "value":  "يمكنك اختيار فصل دراسى واحد فقط"
+},
+   
+  { "key": "YouSelectAllStudents" ,
+    "value":  "لقد اخترت كل الطلاب"
+},
+   
+  { "key": "file1" ,
+    "value":  "ملف واحد"
+},
+   
+  { "key": "file2" ,
+    "value":  "ملفين‎"
+},
+   
+  { "key": "LibraryHeader" ,
+    "value":  "[{0}&amp;#8211;{1} من {2}]"
+},
+   
+  { "key": "File" ,
+    "value":  "ملف"
+},
+   
+  { "key": "Share" ,
+    "value":  "مشاركة"
+},
+   
+  { "key": "ShareMessage" ,
+    "value":  "مشاركة رسالة مع الفصل."
+},
+   
+  { "key": "Shares" ,
+    "value":  "من المشاركات"
+},
+   
+  { "key": "AnsweredAssessments" ,
+    "value":  "التقييمات المجاب عنها"
+},
+   
+  { "key": "AnsweredWorksheets" ,
+    "value":  "أوراق التدريب المجاب عنها"
+},
+   
+  { "key": "Statistics" ,
+    "value":  "الاحصائيات"
+},
+   
+  { "key": "WatchedVideos" ,
+    "value":  "الفيديوهات التي تمت مشاهدتها"
+},
+   
+  { "key": "AddCourses" ,
+    "value":  "إضافة مناهج"
+},
+   
+  { "key": "AddStudents" ,
+    "value":  "إضافة طلاب"
+},
+   
+  { "key": "KB" ,
+    "value":  "كيلوبايت"
+},
+   
+  { "key": "MB" ,
+    "value":  "ميجابايت"
+},
+   
+  { "key": "Student" ,
+    "value":  "طالب"
+},
+   
+  { "key": "Students1" ,
+    "value":  "طلاب"
+},
+   
+  { "key": "MyLibrary" ,
+    "value":  "مكتبتي"
+},
+   
+  { "key": "AddFiles" ,
+    "value":  "إضافة ملفات"
+},
+   
+  { "key": "ChooseFromLibrary" ,
+    "value":  "اختيار من المكتبة"
+},
+   
+  { "key": "SelectClasses" ,
+    "value":  "اختيار فصول"
+},
+   
+  { "key": "DeleteStudent" ,
+    "value":  "حذف"
+},
+   
+  { "key": "WorksheetsQuestions" ,
+    "value":  "أسئلة أوراق التدريب"
+},
+   
+  { "key": "ClassCoTeachers" ,
+    "value":  "المدرسين المساعدين"
+},
+   
+  { "key": "SelectCoTeachers" ,
+    "value":  "Select Co-Teachers"
+},
+   
+  { "key": "NoFilesMsg" ,
+    "value":  "لم يتم العثور على أي ملفات."
+},
+   
+  { "key": "YouDontHaveFile" ,
+    "value":  "لم يتم تحميل أي ملفات بعد."
+},
+   
+  { "key": "GB" ,
+    "value":  "جيجابايت"
+},
+   
+  { "key": "AllFiles" ,
+    "value":  "كل الملفات"
+},
+   
+  { "key": "MyFiles" ,
+    "value":  "ملفاتي"
+},
+   
+  { "key": "StudioVideos" ,
+    "value":  "فيديوهات Studio"
+},
+   
+  { "key": "NoPostsMsg" ,
+    "value":  "لا توجد منشورات بعد لهذا الفصل."
+},
+   
+  { "key": "usedStorage" ,
+    "value":  "تم استخدام {0} ميجابايت من {1} جيجابايت"
+},
+
+  { "key": "AddToLibrary" ,
+    "value":  "إضافة إلى المكتبة"
+},
+   
+  { "key": "StudioVideoHeader" ,
+    "value":  "[{0}&amp;#8211;{1} من {2}]"
+},
+   
+  { "key": "StudioVideoHeader2" ,
+    "value":  "[{0} من {1}]"
+},
+   
+  { "key": "AssessmentsQuestions" ,
+    "value":  "أسئلة التقييمات"
+},
+   
+  { "key": "DeletePostMsg" ,
+    "value":  "هل أنت متأكِّد من أنَّك تريد حذف هذا المنشور؟"
+},
+   
+  { "key": "Deletepost" ,
+    "value":  "حذف منشور"
+},
+   
+  { "key": "Assignments" ,
+    "value":  "التكليفات"
+},
+   
+  { "key": "ViewQuestions" ,
+    "value":  "عرض الأسئلة"
+},
+   
+  { "key": "All_Exams_One_Exams_per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى الطلاب في كل الامتحانات بناءً على الأسئلة التي تلقَّاها الطلاب في هذه الامتحانات."
+},
+
+  { "key": "All_Exams_One_Exam_per_Line_Title" ,
+    "value":  "تقرير: كل الامتحانات» امتحان واحد في كل سطر"
+},
+
+  { "key": "All_Exams_Specific_Student_One_Exam_Per_Line_Title" ,
+    "value":  "تقرير التقييمات: الطالب »  تقييم واحد في كل سطر"
+},
+   
+  { "key": "All_Exams_with_One_Exam_per_Line_Title" ,
+    "value":  "كل الامتحانات مع امتحان واحد في كل سطر"
+},
+   
+  { "key": "All_Exams_with_One_Student_per_Line_Title" ,
+    "value":  "كل الامتحانات مع  طالب واحد في كل سطر"
+},
+   
+  { "key": "ExamTitle" ,
+    "value":  "العنوان"
+},
+   
+  { "key": "Reports_ExamTitle" ,
+    "value":  "عنوان الامتحان "
+},
+   
+  { "key": "Reports_ExamType_ExamAssignment" ,
+    "value":  "ExamAssignment"
+},
+   
+  { "key": "Reports_ExamType_InteractiveExam" ,
+    "value":  "Interactive Exam"
+},
+   
+  { "key": "Duration" ,
+    "value":  "مدة الاختبار"
+},
+   
+  { "key": "MinExamDurationValidation" ,
+    "value":  "Exam Duration shouldn't be empty or  0"
+},
+   
+  { "key": "PDFPaper" ,
+    "value":  "This paper is PDF paper"
+},
+   
+  { "key": "QuestionPaper" ,
+    "value":  "This paper is questions paper"
+},
+   
+  { "key": "All_Exams_Specific_Student_One_Exam_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى الطلاب في كل الامتحانات بناءً على الأسئلة التي تلقَّاها الطلاب في هذه الامتحانات ."
+},
+   
+  { "key": "ExamAssignmentValidationMessage" ,
+    "value":  "لا يمكنك إنشاء امتحان مكلف به دون تعيين فصل (فصول) أو طالب (طلاب) أولًا."
+},
+   
+  { "key": "ExamDurationTimeValidation" ,
+    "value":  "يجب ألا تتجاوز مدة الامتحان المكلف به الفرق بين تاريخ التسليم وتاريخ الان"
+},
+   
+  { "key": "ExamPortalTimeDuration" ,
+    "value":  "يجب ألا تتجاوز مدة الامتحان المكلف به الفرق بين تاريخ التسليم وتاريخ الان "
+},
+   
+  { "key": "AllStudentsHaveSameExamAssignmentMsg" ,
+    "value":  "لا يمكن إنشاء الامتحان المكلف بحله لأن كل الفصول المحددة أو الطلاب المحددين قد تلقوا هذا الامتحان من قبل."
+},
+   
+  { "key": "MaxAssignmentDurationValidation" ,
+    "value":  "مدة الامتحان المكلف به طويلة جدًّا."
+},
+   
+  { "key": "Deletevideo" ,
+    "value":  "حذف الفيديو"
+},
+   
+  { "key": "DeleteVideoMsg" ,
+    "value":  "هل أنت متأكِّد من أنَّك تريد حذف هذا الفيديو؟ بمجرد الحذف، لن تتمكَّن من استعادته."
+},
+   
+  { "key": "MinAssignmentDurationValidation" ,
+    "value":  "يجب ألا تقل مدة االامتحان المكلف به عن دقيقة واحدة."
+},
+   
+  { "key": "Exam" ,
+    "value":  "الامتحان"
+},
+   
+  { "key": "Reports_ExamStatus_closed" ,
+    "value":  "مغلق"
+},
+   
+  { "key": "Reports_ExamStatus_draft" ,
+    "value":  "مسودة"
+},
+   
+  { "key": "Reports_ExamStatus_future" ,
+    "value":  "قيد الانتظار"
+},
+   
+  { "key": "Reports_ExamStatus_opened" ,
+    "value":  "قيد التقدم"
+},
+   
+  { "key": "All_Exams_Specific_Exam_One_Student_Per_Line_Title" ,
+    "value":  "تقرير: الامتحان»  طالب واحد في كل سطر"
+},
+   
+  { "key": "Clear" ,
+    "value":  "مسح"
+},
+   
+  { "key": "AssessmentSearchPlaceholder" ,
+    "value":  "اكتب عنوان التقييم."
+},
+   
+  { "key": "ClassSearchPlaceholder" ,
+    "value":  "اكتب رمز الفصل أو اسمه."
+},
+   
+  { "key": "EducatorSearchPlaceholder" ,
+    "value":  "اكتب اسم المعلم الأول أو الأخير."
+},
+   
+  { "key": "ExamSearchPlaceholder" ,
+    "value":  "اكتب عنوان الحزمة."
+},
+   
+  { "key": "GradeSearchPlaceholder" ,
+    "value":  "اكتب رمز الصف أو اسمه."
+},
+   
+  { "key": "StudentSearchPlaceholder" ,
+    "value":  "اكتب رمز الطالب أو اسمه الأول أو الأخير."
+},
+   
+  { "key": "LastUpdated" ,
+    "value":  "تاريخ آخر تعديل:"
+},
+   
+  { "key": "PrivacyMetadata" ,
+    "value":  "عرض سياسة الخصوصية الخاصة بشركة نجوى."
+},
+   
+  { "key": "TermsMetadata" ,
+    "value":  "عرض الشروط والأحكام الخاصة بشركة نجوى."
+},
+   
+  { "key": "AboutUsTitle" ,
+    "value":  "نبذة عنَّا"
+},
+
+  { "key": "Company" ,
+    "value":  "الشركة"
+},
+   
+  { "key": "PrivacyPolicyPageTitle" ,
+    "value":  "سياسة الخصوصية"
+},
+   
+  { "key": "TermsAndConditionsPageTitle" ,
+    "value":  "الشروط والأحكام"
+},
+   
+  { "key": "nav_apps" ,
+    "value":  "التطبيقات"
+},
+   
+  { "key": "AmazingApps" ,
+    "value":  "تطبيقات نجوى"
+},
+   
+  { "key": "StudyAppDesc" ,
+    "value":  "يمكن للطلاب استخدام تطبيق Nagwa Study  للإجابة عن الأسئلة التي تُصحَح تلقائيًّا، واستكمال التقييمات، ومشاهدة الفيديوهات لتعزيز فهمهم للموضوعات الأساسية."
+},
+   
+  { "key": "StudyAppHeader" ,
+    "value":  "Nagwa Study"
+},
+   
+  { "key": "NagwaStudioAppBody" ,
+    "value":  "يمكن للمعلمين استخدام تطبيق Nagwa Studio لإنشاء فيديوهات تعليمية خاصة بهم باستخدام السبورة الرقمية ومشاركتها مع طلابهم. يُستخدَم تطبيق Nagwa Studio بالتعاون مع بوابة نجوى التعليمية."
+},
+   
+  { "key": "ClassReport_All_Classses_One_Class_Per_Line" ,
+    "value":  "تقرير: كل الفصول مع فصل واحد في كل سطر"
+},
+   
+  { "key": "ClassReport_All_Classses_One_Class_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى كلِّ فصل بناءً على الأسئلة التي تلقَّاها الطلاب في التقييمات. ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+   
+  { "key": "ClassReport_All_Classses_One_Class_Per_Line_Download" ,
+    "value":  "كل_الفصول_مع_فصل_واحد_في_كل_سطر"
+},
+
+  { "key": "ClassReport_AverageScore" ,
+    "value":  "متوسط الدرجة"
+},
+   
+  { "key": "ClassReport_Class" ,
+    "value":  "الفصل"
+},
+   
+  { "key": "ClassReport_ClassCode" ,
+    "value":  "رمز الفصل"
+},
+   
+  { "key": "ClassReport_Classes" ,
+    "value":  "الفصول"
+},
+   
+  { "key": "ClassReport_ClassTitle" ,
+    "value":  "عنوان الفصل"
+},
+   
+  { "key": "ClassReport_Class_Lesson_With_One_Student_Per_Line" ,
+    "value":  "تقرير: الفصل-الدرس » طالب واحد في كل سطر"
+},
+   
+  { "key": "ClassReport_Class_Lesson_With_One_Student_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى الطلاب في دروس محدَّدة تتضمَّن الأسئلة التي تلقَّاها الطلاب في التقييمات. ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+ 
+  { "key": "ClassReport_Class_student_With_One_Lesson_Per_Line" ,
+    "value":  "تقرير: الفصل-الطالب » درس واحد في كل سطر"
+},
+   
+  { "key": "ClassReport_Class_student_With_One_Lesson_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى طالب محدَّد في كل الدروس التي تتضمَّن الأسئلة التي تلقَّاها الطلاب في التقييمات. ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+
+  { "key": "ClassReport_Class_With_One_Lesson_Per_Line" ,
+    "value":  "تقرير: الفصل » درس واحد في كل سطر"
+},
+   
+  { "key": "ClassReport_Class_With_One_Lesson_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى فصل محدَّد في جميع الدروس التي تتضمَّن الأسئلة التي تلقَّاها الطلاب في التقييمات. ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+   
+  { "key": "ClassReport_Class_With_One_Lesson_Per_Line_Download" ,
+    "value":  "الفصل_درس_واحد_في_كل_سطر"
+},
+
+  { "key": "ClassReport_Class_With_One_Student_Per_Line" ,
+    "value":  "تقرير: الفصل » طالب واحد في كل سطر"
+},
+   
+  { "key": "ClassReport_Class_With_One_Student_Per_Line_desc" ,
+    "value":  "يوضِّح هذا التقرير مستوى الطلاب في فصل محدَّد. ويتضمَّن التقرير بيانات مأخوذة من التقييمات التي انقضى موعد تسليمها (أي المغلقة) فقط."
+},
+
+  { "key": "ClassReport_Correct" ,
+    "value":  "الإجابات الصحيحة"
+},
+   
+  { "key": "ClassReport_CorrectPerStudent" ,
+    "value":  "الإجابات الصحيحة لكل طالب"
+},
+   
+  { "key": "ClassReport_FirstName" ,
+    "value":  "الاسم الأول"
+},
+   
+  { "key": "ClassReport_Grade" ,
+    "value":  "الصف الدراسي"
+},
+   
+  { "key": "ClassReport_Grades" ,
+    "value":  "الصفوف الدراسية"
+},
+   
+  { "key": "ClassReport_Incorrect" ,
+    "value":  "الإجابات غير الصحيحة"
+},
+   
+  { "key": "ClassReport_IncorrectPerStudent" ,
+    "value":  "الإجابات غير الصحيحة لكل طالب"
+},
+   
+  { "key": "ClassReport_LastName" ,
+    "value":  "اسم العائلة"
+},
+   
+  { "key": "ClassReport_Lessons" ,
+    "value":  "الدروس"
+},
+   
+  { "key": "ClassReport_LessonTitle" ,
+    "value":  "عنوان الدرس"
+},
+   
+  { "key": "ClassReport_Questions" ,
+    "value":  "الأسئلة"
+},
+   
+  { "key": "ClassReport_QuestionsPerStudent" ,
+    "value":  "الأسئلة لكل طالب"
+},
+   
+  { "key": "ClassReport_StudentCode" ,
+    "value":  "رمز الطالب"
+},
+   
+  { "key": "ClassReport_Students" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "ClassReport_Subject" ,
+    "value":  "المادة"
+},
+   
+  { "key": "ClassReport_Total" ,
+    "value":  "الإجمالي"
+},
+   
+  { "key": "ClassReport_Unanswered" ,
+    "value":  "الأسئلة غير المجاب عنها"
+},
+   
+  { "key": "ClassReport_UnansweredPerStudent" ,
+    "value":  "الأسئلة غير المجاب عنها لكل طالب"
+},
+   
+  { "key": "ClassReport_Unmarked" ,
+    "value":  "الأسئلة غير المصحَّحة"
+},
+   
+  { "key": "ClassReport_ViewLessons" ,
+    "value":  "الدروس"
+},
+   
+  { "key": "ClassReport_ViewStudents" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "ClassReport_Class_Lesson_One_Student_Per_Line_Download" ,
+    "value":  "الفصل_الدرس_طالب_واحد_في_كل_سطر"
+},
+   
+  { "key": "ClassReport_Class_Student_With_One_Lesson_Per_Line_Download" ,
+    "value":  "الفصل_الطالب_درس_واحد_في_كل_سطر"
+},
+   
+  { "key": "ClassReport_Class_With_One_Student_Per_Line_Download" ,
+    "value":  "الفصل_طالب_واحد_في_كل_سطر"
+},
+   
+  { "key": "ClassReport_Lesson" ,
+    "value":  "الدرس"
+},
+   
+  { "key": "ClassReport_Student" ,
+    "value":  "الطالب"
+},
+   
+  { "key": "DeletedFileMsg" ,
+    "value":  "تمت إزالة هذا الملف."
+},
+   
+  { "key": "NoSearchResult" ,
+    "value":  "لا توجد نتائج."
+},
+   
+  { "key": "InvalidFileExtensionMsg" ,
+    "value":  "فشل التحميل. تنسيق هذا الملف غير مدعوم."
+},
+   
+  { "key": "ClassReport_All_Classses_One_Class_Per_Line_Title" ,
+    "value":  "كل الفصول مع فصل واحد في كل سطر"
+},
+   
+  { "key": "Deactivate" ,
+    "value":  "إلغاء التنشيط"
+},
+   
+  { "key": "DeactivateEducatorError" ,
+    "value":  "فشل إلغاء تنشيط هذا المستخدم."
+},
+   
+  { "key": "DeactivateEducatorSuccess" ,
+    "value":  "تم إلغاء تنشيط المعلم بنجاح."
+},
+   
+  { "key": "CannotDeactivateAdminMessage" ,
+    "value":  "لا يمكنك إلغاء تنشيط حساب المسئول الإداري."
+},
+   
+  { "key": "DeactivatedEducatorLoginMessage" ,
+    "value":  "تم إلغاء تنشيط حساب المستخدم."
+},
+   
+  { "key": "DeactivateEducator" ,
+    "value":  "إلغاء تنشيط المعلم"
+},
+   
+  { "key": "DeactivateEducatorConfirmQuestion" ,
+    "value":  "هل تريد بالتأكيد إلغاء تنشيط هذا المعلم؟"
+},
+   
+  { "key": "Deactivated" ,
+    "value":  "معطَّل"
+},
+   
+  { "key": "ViewWall" ,
+    "value":  "عرض صفحة الفصل"
+},
+   
+  { "key": "Profile" ,
+    "value":  "ملف التعريف"
+},
+   
+  { "key": "ContactUSTitle" ,
+    "value":  "الاتصال بنا"
+},
+   
+  { "key": "Contact_AttachFile" ,
+    "value":  "إرفاق ملف"
+},
+   
+  { "key": "Contact_Attachment" ,
+    "value":  "مُرفَق"
+},
+   
+  { "key": "Contact_ContactInformation" ,
+    "value":  "معلومات الاتصال"
+},
+   
+  { "key": "Contact_CustomerServices" ,
+    "value":  "خدمة العملاء"
+},
+   
+  { "key": "Contact_CustomerServicesNumber" ,
+    "value":  "٤٤ ٠ ١٧٥٣ ٨٣٢٢٢٦+"
+},
+   
+  { "key": "Contact_GeneralEnquiries" ,
+    "value":  "استفسارات عامة"
+},
+   
+  { "key": "Contact_GeneralEnquiriesNumber" ,
+    "value":  "٤٤ ٠ ١٧٥٣ ٨٣٢٥٢٢+"
+},
+   
+  { "key": "Contact_Message" ,
+    "value":  "الرسالة"
+},
+   
+  { "key": "Contact_Sales" ,
+    "value":  "مبيعات"
+},
+   
+  { "key": "Contact_SalesNumber" ,
+    "value":  "٤٤ ٠ ١٧٥٣ ٨٧٤٤٤٥+"
+},
+   
+  { "key": "Contact_SendAMessage" ,
+    "value":  "إرسال رسالة"
+},
+   
+  { "key": "ContactUsFileSize" ,
+    "value":  "Attachment should be less than 10MB"
+},
+   
+  { "key": "ContactUsMaximumLengthMessage" ,
+    "value":  "يجب أن يكون طول الرسالة أقل من 2000 حرف."
+},
+   
+  { "key": "ContactUsSucessMessage" ,
+    "value":  "تم إرسال رسالتك بنجاح."
+},
+   
+  { "key": "FailedToContactMessage" ,
+    "value":  "فشل إرسال رسالتك. الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "FileExtensionFormatMessage" ,
+    "value":  "تنسيق الملف غير صالح."
+},
+   
+  { "key": "CreateTutoringSession" ,
+    "value":  "إنشاء"
+},
+   
+  { "key": "Ended" ,
+    "value":  "منتهية"
+},
+   
+  { "key": "Hour" ,
+    "value":  "الساعة"
+},
+   
+  { "key": "Minute" ,
+    "value":  "الدقيقة"
+},
+   
+  { "key": "NewTutoringSession" ,
+    "value":  "حصة جديدة"
+},
+   
+  { "key": "Scheduled" ,
+    "value":  "مجدولة"
+},
+   
+  { "key": "SessionStudentsValidationMessage" ,
+    "value":  "لا يمكنك إنشاء حصة دراسية دون تعيين فصل (فصول) أو طالب (طلاب) أولًا."
+},
+   
+  { "key": "TherIsNoTutoringSessions" ,
+    "value":  "ليس لديك أي حصص "
+},
+   
+  { "key": "TutoringSessionCreated" ,
+    "value":  "تم إنشاء الحصة بنجاح."
+},
+   
+  { "key": "TutoringSessionDeletedMessage" ,
+    "value":  "تم حذف الحصة"
+},
+   
+  { "key": "TutoringSessionDuration" ,
+    "value":  "المدة بالدقائق"
+},
+   
+  { "key": "TutoringSessions" ,
+    "value":  "الحصص"
+},
+   
+  { "key": "TutoringSessionsIndefinite" ,
+    "value":  "حصص"
+},
+   
+  { "key": "TutoringYear" ,
+    "value":  "السنة"
+},
+   
+  { "key": "PracticedWorksheets" ,
+    "value":  " أوراق التدريب التي  تدرَّبت عليها‎ "
+},
+   
+  { "key": "ContactUs_InvalidFileFormat" ,
+    "value":  "تنسيق الملف غير صالح."
+},
+   
+  { "key": "Activate" ,
+    "value":  "تنشيط"
+},
+   
+  { "key": "DeactivateConfirmMessage" ,
+    "value":  "إلغاء تنشيط الصف الدراسي "
+},
+   
+  { "key": "DeactivateWarningMessage" ,
+    "value":  "هل تريد بالتأكيد إلغاء تنشيط هذا الصف الدراسي ؟"
+},
+   
+  { "key": "TheGradeIsActivatedSuccessfully" ,
+    "value":  "تمَّ تنشيط الصف الدراسي بنجاح."
+},
+   
+  { "key": "TheGradeIsDeactivatedSuccessfully" ,
+    "value":  "تمَّ  إلغاء تنشيط الصف الدراسي بنجاح."
+},
+   
+  { "key": "YouCanNotDeactivateGrade" ,
+    "value":  "لا يمكنك إلغاء تنشيط هذا الصف الدراسي. يتعين عليك إلغاء ربط أي فصول أو طلاب أو تقييمات مرتبطة بهذا الصف أولًا."
+},
+   
+  { "key": "Canceled" ,
+    "value":  "تم الإلغاء"
+},
+   
+  { "key": "NewQuestion" ,
+    "value":  "سؤال جديد"
+},
+   
+  { "key": "AddQuestion" ,
+    "value":  "إضافة سؤال"
+},
+   
+  { "key": "AddMCQ_SelectSubject" ,
+    "value":  "اختيار مادة"
+},
+   
+  { "key": "Distractor" ,
+    "value":  "Distractor"
+},
+   
+  { "key": "Key" ,
+    "value":  "Key"
+},
+   
+  { "key": "Stem" ,
+    "value":  "Stem"
+},
+   
+  { "key": "AddingPortalQuestionMessage" ,
+    "value":  "تم إرسال السؤال بنجاح وهو الآن قيد المعالجة."
+},
+   
+  { "key": "FillRequiredData" ,
+    "value":  "برجاء ملء الحقول الناقصة."
+},
+   
+  { "key": "Answers" ,
+    "value":  "الإجابات"
+},
+   
+  { "key": "EnterAValidAnswer" ,
+    "value":  "برجاء ادخال الاجابة الصحيحة"
+},
+   
+  { "key": "InvalidQuestionFormat" ,
+    "value":  "تنسيق السؤال غير صالح. الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "MinimumAnswersSelection" ,
+    "value":  "اختر اجابتين على الاقل"
+},
+   
+  { "key": "YouMustSelectAkey" ,
+    "value":  "يجب اختيار الإجابة الصحيحة"
+},
+   
+  { "key": "InvalidAnswerFormat" ,
+    "value":  "تنسيق الإجابة غير صالح. الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "EnterAtleast2Answers" ,
+    "value":  "برجاء ادخال إجابتين على الاقل"
+},
+   
+  { "key": "DuplicateDistractors" ,
+    "value":  "لا يمكن ادخال نفس القيمة مرتين"
+},
+   
+  { "key": "ChooselessonPlaceholder" ,
+    "value":  "اختر درسًا"
+},
+   
+  { "key": "inputTooShortForLesson" ,
+    "value":  "برجاء إدخال ثلاثة حروف أو أكثر."
+},
+   
+  { "key": "MaximumSelectedlessons" ,
+    "value":  "يمكنك اختيار درس واحد فقط"
+},
+   
+  { "key": "NoQuestionsMsg" ,
+    "value":  "لا يوجد لديك اسئلة."
+},
+   
+  { "key": "searching" ,
+    "value":  "جارى البحث ..."
+},
+   
+  { "key": "TheLesson" ,
+    "value":  "الدرس"
+},
+   
+  { "key": "DefaultVideosSubtitles" ,
+    "value":  "الإعدادات الافتراضية لشريط ترجمة الفيديو"
+},
+   
+  { "key": "SelectDefaultSubtitles" ,
+    "value":  "اختر الإعداد الافتراضي لشريط ترجمة الفيديو."
+},
+   
+  { "key": "LoadingMoreResults" ,
+    "value":  "تحميل المزيد من النتائج"
+},
+   
+  { "key": "ar" ,
+    "value":  "العربية"
+},
+   
+  { "key": "en" ,
+    "value":  "الإنجليزية"
+},
+   
+  { "key": "es" ,
+    "value":  "الإسبانية"
+},
+   
+  { "key": "fr" ,
+    "value":  "الفرنسية"
+},
+   
+  { "key": "No" ,
+    "value":  "لا يوجد"
+},
+   
+  { "key": "pt" ,
+    "value":  "البرتغالية"
+},
+   
+  { "key": "Nodefaultsubtitles" ,
+    "value":  "لا يوجد إعدادات افتراضية لشريط ترجمة الفيديو"
+},
+   
+  { "key": "ClassGrade" ,
+    "value":  "الصف الدراسي"
+},
+   
+  { "key": "ChooseSubjectsPlaceholder" ,
+    "value":  "اختيار مواد"
+},
+   
+  { "key": "Create" ,
+    "value":  "إنشاء"
+},
+   
+  { "key": "CreateStudents" ,
+    "value":  "إنشاء طلاب"
+},
+   
+  { "key": "StudentsAddedSuccessfullyMessage" ,
+    "value":  "تم إنشاء حسابات الطلاب بنجاح. قد يستغرق الأمر بضعة دقائق كي يدخل التغيير حيز التنفيذ."
+},
+   
+  { "key": "ChooseClassPlaceholder" ,
+    "value":  "اختيار فصل"
+},
+   
+  { "key": "MaxGradeMessage" ,
+    "value":  "يمكنك اختيار صف دراسي واحد فقط"
+},
+   
+  { "key": "SelectGradePlaceholder" ,
+    "value":  "اختيار الصف الدراسي"
+},
+   
+  { "key": "SelectStudentsPlaceholder" ,
+    "value":  "اختيار طلاب"
+},
+   
+  { "key": "AddMaterials" ,
+    "value":  "إضافة وسائل تعليمية"
+},
+   
+  { "key": "Image" ,
+    "value":  "صورة"
+},
+   
+  { "key": "Image1" ,
+    "value":  "صورة"
+},
+   
+  { "key": "Image2" ,
+    "value":  "صورتان"
+},
+   
+  { "key": "Images" ,
+    "value":  "صور"
+},
+   
+  { "key": "Materials" ,
+    "value":  "الوسائل التعليمية"
+},
+   
+  { "key": "NoImageMsg" ,
+    "value":  "ليس لديك أي وسائل تعليمية."
+},
+   
+  { "key": "Finish" ,
+    "value":  "إنهاء"
+},
+   
+  { "key": "SelectImages" ,
+    "value":  "اختيار صور"
+},
+   
+  { "key": "SessionImageDeletionMsg" ,
+    "value":  "هل تريد بالتأكيد حذف هذا؟"
+},
+   
+  { "key": "UploadImages" ,
+    "value":  "تحميل صور"
+},
+   
+  { "key": "IncludeOneLetterValidationMessage" ,
+    "value":  "يجب أن يحتوي على حرف أبجدي واحد على الأقل."
+},
+   
+  { "key": "NoSpacesValidationMessage" ,
+    "value":  "يجب ألا يتضمن أي مسافات"
+},
+   
+  { "key": "SpecialCharactersValidationMessage" ,
+    "value":  "مسموح باستخدام الأحرف الخاصة، لكن لا يمكن البدء أو الانتهاء بها."
+},
+   
+  { "key": "EditPortal_Add" ,
+    "value":  "إضافة"
+},
+   
+  { "key": "EditPortal_AddSubject" ,
+    "value":  "إضافة مادة"
+},
+   
+  { "key": "EditPortal_Cancel" ,
+    "value":  "إلغاء"
+},
+   
+  { "key": "EditPortal_CanNotRemoveMsg" ,
+    "value":  "لا يمكنك حذف هذه المادة. يتعيّن عليك إلغاء ربط أي فصول أو مُعلِّمين أو تقييمات مرتبطة بهذه المادة أولًا."
+},
+   
+  { "key": "EditPortal_EditSubject" ,
+    "value":  "تعديل مادة"
+},
+   
+  { "key": "EditPortal_Save" ,
+    "value":  "حفظ"
+},
+   
+  { "key": "EditPortal_SelectDefaultSubtitles" ,
+    "value":  "اختر الإعداد الافتراضي لشريط ترجمة الفييديو."
+},
+   
+  { "key": "EditPortal_SubjectName" ,
+    "value":  "اسم المادة"
+},
+   
+  { "key": "EditPortal_Subjects" ,
+    "value":  "المواد"
+},
+   
+  { "key": "Edit_Portal_Ok" ,
+    "value":  "موافق"
+},
+   
+  { "key": "EditPortal_Ok" ,
+    "value":  "موافق"
+},
+   
+  { "key": "ImagesUploaded" ,
+    "value":  "من الصور تم تحميلها"
+},
+   
+  { "key": "EditPortal_RemoveSubject" ,
+    "value":  "حذف المادة"
+},
+   
+  { "key": "EditPortal_SelectAtLeasrOneSubject" ,
+    "value":  "عليك اختيار مادة واحدة أو أكثر."
+},
+   
+  { "key": "EditPortal_TheSubjectAlreadyExists" ,
+    "value":  "المادة موجودة بالفعل."
+},
+   
+  { "key": "EditPortal_ThisFieldIsRequired" ,
+    "value":  "هذا الحقل مطلوب."
+},
+   
+  { "key": "ExamQuestionVideoMarkScheme" ,
+    "value":  "Mark Scheme"
+},
+   
+  { "key": "ExamQuestionVideoModelAnswer" ,
+    "value":  "Model Answer"
+},
+   
+  { "key": "ExamQuestionVideoStudentPen" ,
+    "value":  "Student Pen"
+},
+   
+  { "key": "ExamQuestionVideoTeacherComments" ,
+    "value":  "Teacher Comments"
+},
+   
+  { "key": "SaveAndAssign" ,
+    "value":  "حفظ وتعيين"
+},
+   
+  { "key": "ChooseGradePlaceholder" ,
+    "value":  "اختر الصف الدراسي..."
+},
+   
+  { "key": "MaximumGradeMsg" ,
+    "value":  "يمكنك اختيار صف دراسي واحد فقط"
+},
+   
+  { "key": "ViewAssignments" ,
+    "value":  "عرض التكليفات"
+},
+   
+  { "key": "ReportsExamTitle" ,
+    "value":  "عنوان الامتحان"
+},
+   
+  { "key": "AddLesson" ,
+    "value":  "إضافة درس"
+},
+   
+  { "key": "EnterTitleErrorMessage" ,
+    "value":  "يجب عليك إدخال عنوان للدرس."
+},
+   
+  { "key": "InvalidModelAnswerFormat" ,
+    "value":  "تنسيق الإجابة غير صالح. الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "LessonCreatedFailureMessage" ,
+    "value":  "فشل إنشاء الدرس. الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "LessonCreatedSuccessMessage" ,
+    "value":  "تم إنشاء الدرس بنجاح."
+},
+   
+  { "key": "LessonDuplicateTitleFailureMessage" ,
+    "value":  "This title already exists. Please enter another one."
+},
+   
+  { "key": "LessonGradesErrorMessage" ,
+    "value":  "لا يمكنك إنشاء الدرس قبل إنشاء الصفوف الدراسية أولًا."
+},
+   
+  { "key": "LessonSubjectErrorMessage" ,
+    "value":  "اختر المادة أولًا."
+},
+   
+  { "key": "LessonTitleLengthErrorMessage" ,
+    "value":  "يجب ألا يتجاوز العنوان 255 حرفًا."
+},
+   
+  { "key": "LessonTitlePlaceHolder" ,
+    "value":  "عنوان الدرس"
+},
+   
+  { "key": "ModelAnswer" ,
+    "value":  "الإجابة النموذجية‎"
+},
+   
+  { "key": "MultipleChoice" ,
+    "value":  "الاختيار من متعدد"
+},
+   
+  { "key": "QuestionType" ,
+    "value":  "نوع السؤال"
+},
+   
+  { "key": "QuestionTypePlaceHolder" ,
+    "value":  "اختر نوع السؤال"
+},
+   
+  { "key": "SelectGradeErrorMessage" ,
+    "value":  "يجب عليك اختيار صف دراسي."
+},
+   
+  { "key": "ShortAnswer" ,
+    "value":  "أسئلة الاجابات القصيرة"
+},
+   
+  { "key": "All" ,
+    "value":  "الكل"
+},
+   
+  { "key": "Failed_QuestionStatus" ,
+    "value":  "فشل الإضافة"
+},
+   
+  { "key": "Succeeded" ,
+    "value":  "تمت الإضافة بنجاح"
+},
+   
+  { "key": "EditAssignment" ,
+    "value":  "تعديل"
+},
+   
+  { "key": "SendAssignment" ,
+    "value":  "ارسال"
+},
+   
+  { "key": "AllStudentsHaveSameAssignmentMsg" ,
+    "value":  "لا يمكن إرسال التقييم لأن كل الفصول المحددة أو الطلاب المحددين قد تلقوا هذا التقييم من قبل."
+},
+   
+  { "key": "AssignAssessment" ,
+    "value":  "تعيين التقييم "
+},
+   
+  { "key": "EditAssignAssessment" ,
+    "value":  "تعديل تعيين التقييم "
+},
+   
+  { "key": "AssessmentAssignmentDeletedMessage" ,
+    "value":  "لم يعد الفصل المحدد/الفصول المحددة و/أو الطالب المحدد/الطلاب المحددون مكلفين بهذا التقييم."
+},
+   
+  { "key": "CantDeleteAssignment" ,
+    "value":  "لا يمكنك حذف هذا الواجب لأنه قد تمّ البدء فيه بالفعل."
+},
+   
+  { "key": "TherIsNoAssignments" ,
+    "value":  "لم تُكلِّف أيًّا من الطلاب بأي تقييمات أو امتحانات أو حصص حتى الآن."
+},
+   
+  { "key": "AssignmentDurationInMinutes" ,
+    "value":  "المدة بالدقائق"
+},
+   
+  { "key": "Assign" ,
+    "value":  "تكليف"
+},
+   
+  { "key": "AssessmentCreatedMessage" ,
+    "value":  "تم إنشاء  التقييم بنجاح."
+},
+   
+  { "key": "AssessmentDeletedMessage2" ,
+    "value":  "تم حذف التقييم بنجاح. تم حذف كل شيء مرتبط بهذا التقييم"
+},
+   
+  { "key": "AssessmentUpdatedMessage" ,
+    "value":  "حُدِّث التقييم بنجاح."
+},
+   
+  { "key": "AssignmentCreatedMessage" ,
+    "value":  "لقد كلَّفت الطالب المحدد/الطلاب المحددين بالتقييم بنجاح."
+},
+   
+  { "key": "AssignmentUpdatedMessage" ,
+    "value":  "لقد كلَّفت الطالب المحدد/الطلاب المحددين بالتقييم بنجاح."
+},
+   
+  { "key": "ClassAssessmentOneStudentPerLine_Class_Assessment_One_Student_Per_Line_Download" ,
+    "value":  "الفصل_التقييم_طالب_واحد_فى_كل_السطر"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_AssessmentTitle" ,
+    "value":  "عنوان التقييم"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_AverageScore" ,
+    "value":  "متوسط الدرجة"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class" ,
+    "value":  "الفصل"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line" ,
+    "value":  "تقرير: الفصل » التقييم » الدرس » طالب واحد في كل سطر"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line_desc" ,
+    "value":  "يوضح هذا التقرير أداء الطلاب في دروس معينة وضِعت منها الأسئلة التي تلقاها الطلاب في التقييمات. وهو لا يتضمن"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line_Download" ,
+    "value":  "الفصل_التقييم_الدرس_طالب_واحد_فى_كل_السطر"
+},
+
+  { "key": "ClassAssessmentReassigningReport_Class_assessment_student_With_One_Lesson_Per_Line" ,
+    "value":  "تقرير: الفصل » التقييم » الطالب » درس واحد في كل سطر"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_assessment_student_With_One_Lesson_Per_Line_desc" ,
+    "value":  "يوضح التقرير أداء طالب معين في جميع الدروس التي تتضمن أسئلة تلقاها الطالب في التقييم. (أي المغلقة)"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_Assessment_Student_With_One_Lesson_Per_Line_Download" ,
+    "value":  "الفصل_التقييمات_الطالب_درس_واحد_فى_كل_السطر"
+},
+ 
+  { "key": "ClassAssessmentReassigningReport_Class_assessment_With_One_Lesson_Per_Line" ,
+    "value":  "تقرير: الفصل » التقييم  » درس واحد في كل سطر"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_assessment_With_One_Lesson_Per_Line_desc" ,
+    "value":  "يوضح التقرير أداء فصل محدد في جميع الدروس التي وضِعت منها الأسئلة التي تلقاها الطلاب في التقييمات. وهو لا يتضمن سوى البيانات الخاصة بالتقييمات التي انقضت المواعيد النهائية لتسليمها. (أي التقييمات المغلقة)"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Lesson_Per_Line_Download" ,
+    "value":  "الفصل_التقييم_درس_واحد_فى_كل_السطر"
+},
+ 
+  { "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Student_Per_Line" ,
+    "value":  "تقرير: الفصل » التقييم » طالب واحد في كل سطر"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Student_Per_Line_desc" ,
+    "value":  "يوضح التقرير أداء الطلاب في تقييم معين وانقضى الموعد النهائي لتسليمه كجزء من الفصل (أي المغلقة)"
+},
+
+  { "key": "ClassAssessmentReassigningReport_Class_With_One_Assessment_Per_Line" ,
+    "value":  "تقرير: الفصل » تقييم واحد في كل سطر"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_With_One_Assessment_Per_Line_desc" ,
+    "value":  "يوضح التقرير أداء فصل معين في التقييمات المعينة لهذا الفصل. وهو لا يتضمن سوى البيانات الخاصة بالتقييمات التي تم تعيينها لهذا الفصل وانقضت المواعيد النهائية المحددة لتسليمها. (أي المغلقة)"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Class_With_One_Assessment_Per_Line_Download" ,
+    "value":  "الفصل_التقييمات_تقييم_واحد_فى_كل_السطر"
+},
+
+  { "key": "ClassAssessmentReassigningReport_Correct" ,
+    "value":  "الإجابات الصحيحة"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_correctperstudent" ,
+    "value":  "الإجابات الصحيحة لكل طالب"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_FirstName" ,
+    "value":  "الاسم الأول"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Grade" ,
+    "value":  "السنة"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Incorrect" ,
+    "value":  "الإجابات غير الصحيحة"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_incorrectperstudent" ,
+    "value":  "الإجابات غير الصحيحة لكل طالب"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_LastName" ,
+    "value":  "اسم العائله"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Lessons" ,
+    "value":  "الدروس"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_LessonTitle" ,
+    "value":  "عنوان الدرس"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_qsperstudent" ,
+    "value":  "الأسئلة لكل طالب"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Questions" ,
+    "value":  "الأسئلة"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_StudentCode" ,
+    "value":  "رمز الطالب"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Students" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Subject" ,
+    "value":  "المادة"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Total" ,
+    "value":  "الإجمالى"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Unanswered" ,
+    "value":  "الأسئلة غير المجاب عنها"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_unansweredperstudent" ,
+    "value":  "الأسئلة غير المجاب عنها لكل طالب"
+},
+   
+  { "key": "ClassAssessmentReassigningReport_Unmarked" ,
+    "value":  "الأسئلة غير المصححة"
+},
+   
+  { "key": "ClassReport_ViewAssessments" ,
+    "value":  "التقييمات"
+},
+   
+  { "key": "CreateAndAssign" ,
+    "value":  "إنشاء وتكليف"
+},
+   
+  { "key": "EditTutoringSession" ,
+    "value":  "تعديل الحصة"
+},
+   
+  { "key": "footerExplainers" ,
+    "value":  "الشوارح"
+},
+   
+  { "key": "SessionDuration" ,
+    "value":  "مدة الحصة"
+},
+   
+  { "key": "LessonPlan" ,
+    "value":  "خطة الدرس"
+},
+   
+  { "key": "LessonPlans" ,
+    "value":  "خطط الدروس"
+},
+   
+  { "key": "Plans" ,
+    "value":  "Plans"
+},
+   
+  { "key": "ThereAreNoLessonPlansContent" ,
+    "value":  "ليس لديك أي خطط دروس حتى الآن."
+},
+   
+  { "key": "droporbrowseImage" ,
+    "value":  "سحب الصورة وإسقاطها أو التصفح"
+},
+   
+  { "key": "InvalidImageFormat" ,
+    "value":  "تنسيق غير صحيح للملف. الرجاء إدراج ملف بتنسيق JPEG أو PNG أو  JPG أو SVG فقط."
+},
+   
+  { "key": "InvalidImageSize" ,
+    "value":  "الحد الأقصى لحجم الملف هو 2 ميجابايت."
+},
+   
+  { "key": "UploadImage" ,
+    "value":  "رفع صورة"
+},
+   
+  { "key": "UploadImageFailMessage" ,
+    "value":  "فشل رفع الصورة. الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "NoFailedQuestions" ,
+    "value":  "ليس لديك أسئلة فشلت معالجتها."
+},
+   
+  { "key": "NoSucceededQuestions" ,
+    "value":  "ليس لديك أسئلة تمت معالجتها بنجاح."
+},
+   
+  { "key": "Change" ,
+    "value":  "تغيير"
+},
+   
+  { "key": "NoClassDetails" ,
+    "value":  "أنت لم تضف أي طلاب أو معلمين لهذا الفصل بعد."
+},
+   
+  { "key": "NoCourseMessage" ,
+    "value":  "أنت لم تضف أي مناهج لهذا الفصل بعد."
+},
+   
+  { "key": "NoEducatorMessage" ,
+    "value":  "أنت لم تضف أي معلمين لهذا الفصل بعد."
+},
+   
+  { "key": "NoStudentMessage" ,
+    "value":  "أنت لم تضف أي طلاب لهذا الفصل بعد."
+},
+   
+  { "key": "TypeCourseName" ,
+    "value":  "اكتب اسم المنهج ."
+},
+   
+  { "key": "TypeEducatorName" ,
+    "value":  "اكتب اسم المعلم."
+},
+   
+  { "key": "TypeStudentCodeorName" ,
+    "value":  "اكتب كود الطالب أو الاسم."
+},
+   
+  { "key": "ViewDetails" ,
+    "value":  "عرض التفاصيل"
+},
+   
+  { "key": "AdminStudentSearchPlaceholder" ,
+    "value":  "اكتب كود الطالب أو الاسم أو اسم المستخدم أو عنوان الفصل."
+},
+   
+  { "key": "Role" ,
+    "value":  "الوظيفة"
+},
+   
+  { "key": "Coteacher" ,
+    "value":  "المدرِّس المساعد"
+},
+   
+  { "key": "AddQuestions_AddNewLesson" ,
+    "value":  "إضافة درس"
+},
+   
+  { "key": "AddQuestions_AllLessons" ,
+    "value":  "كل الدروس"
+},
+   
+  { "key": "AddQuestions_MyLessons" ,
+    "value":  "دروس البوابة"
+},
+   
+  { "key": "AddQuestions_SaveAndFinish" ,
+    "value":  "إضافة و إنهاء"
+},
+   
+  { "key": "AddQuestions_SelectLesson" ,
+    "value":  "اختر درسًا"
+},
+   
+  { "key": "CreateAssessment_BrowseLesson" ,
+    "value":  "استعراض الدروس"
+},
+   
+  { "key": "ActivateEducatorError" ,
+    "value":  "فشل تنشيط هذا المستخدم."
+},
+   
+  { "key": "ActivateEducatorSuccess" ,
+    "value":  "تم تنشيط المعلم بنجاح."
+},
+   
+  { "key": "CannotActivateAdminMessage" ,
+    "value":  "لا يمكنك تنشيط حساب المسئول الإداري."
+},
+   
+  { "key": "DeletePortalQuestionSuccessMessage" ,
+    "value":  "تم حذف السؤال بنجاح."
+},
+   
+  { "key": "DeleteQuestion" ,
+    "value":  "حذف سؤال"
+},
+   
+  { "key": "DeleteQuestionConfirmMsg" ,
+    "value":  "هل أنت متأكد من أنك تريد حذف هذا السؤال؟"
+},
+   
+  { "key": "deleteQuestionWentWrong" ,
+    "value":  "فشل حذف هذا السؤال. يُرجَى المحاولة مجددًا."
+},
+   
+  { "key": "EditQuestionWentWrong" ,
+    "value":  "فشل تعديل هذا السؤال. يُرجَى المحاولة مجددًا."
+},
+   
+  { "key": "FailDeleteQuestionsMsg" ,
+    "value":  "لا يمكنك حذف هذا السؤال لأنه اُستخدِم في تقييمات سابقة."
+},
+   
+  { "key": "FailEditQuestionsMsg" ,
+    "value":  "لا يمكنك تعديل هذا السؤال لأنه اُستخدِم في تقييمات سابقة."
+},
+   
+  { "key": "EditQuestion" ,
+    "value":  "تعديل سؤال"
+},
+   
+  { "key": "EditingPortalQuestionMessage" ,
+    "value":  "تم تعديل السؤال بنجاح."
+},
+   
+  { "key": "SaveAndFinish" ,
+    "value":  "حفظ و إنهاء"
+},
+   
+  { "key": "AllClasses" ,
+    "value":  "كل الفصول"
+},
+   
+  { "key": "Plan" ,
+    "value":  "الخطة"
+},
+   
+  { "key": "assessments_small" ,
+    "value":  "التقييمات"
+},
+   
+  { "key": "Assignments_small" ,
+    "value":  "التكليفات"
+},
+   
+  { "key": "classes_small" ,
+    "value":  "الفصول الدراسية"
+},
+   
+  { "key": "courses_small" ,
+    "value":  "المناهج"
+},
+   
+  { "key": "educators_small" ,
+    "value":  "المعلِّمون"
+},
+   
+  { "key": "ExamAssignments_small" ,
+    "value":  "الامتحانات المكلف بحلِّها"
+},
+   
+  { "key": "explainers_small" ,
+    "value":  "شوارح"
+},
+   
+  { "key": "files_small" ,
+    "value":  "ملفات"
+},
+   
+  { "key": "LessonPlans_small" ,
+    "value":  "خطط الدروس"
+},
+   
+  { "key": "Lessons_small" ,
+    "value":  "الدروس"
+},
+   
+  { "key": "Questions_small" ,
+    "value":  "الأسئلة"
+},
+   
+  { "key": "sessions" ,
+    "value":  "الحصص"
+},
+   
+  { "key": "students_small" ,
+    "value":  "الطلاب"
+},
+   
+  { "key": "videos_small" ,
+    "value":  "الفيديوهات"
+},
+   
+  { "key": "AllQuestions" ,
+    "value":  "كل الأسئلة"
+},
+   
+  { "key": "Worksheets_small" ,
+    "value":  "أوراق التدريب"
+},
+   
+  { "key": "MyQuestions" ,
+    "value":  "أسئلتي"
+},
+   
+  { "key": "file_small" ,
+    "value":  "ملف"
+},
+   
+  { "key": "AssignedBy" ,
+    "value":  "تم التكليف بواسطة"
+},
+   
+  { "key": "AllAssignments" ,
+    "value":  "كل الواجبات"
+},
+   
+  { "key": "MyAssignments" ,
+    "value":  "واجباتي"
+},
+   
+  { "key": "AllAssessments" ,
+    "value":  "كل التقييمات"
+},
+   
+  { "key": "question_small" ,
+    "value":  "السؤال"
+},
+   
+  { "key": "MyAssessments" ,
+    "value":  "تقييماتى"
+},
+   
+  { "key": "LessonPlaylist" ,
+    "value":  "قائمة الدرس"
+},
+   
+  { "key": "ChooseGradesPlaceholder" ,
+    "value":  "اختيار صف دراسي"
+},
+   
+  { "key": "LessonPresentation" ,
+    "value":  "عرض الدرس"
+},
+   
+  { "key": "SubjectGradePairMessage" ,
+    "value":  "يرجى تحديد مادة و صف دراسي."
+},
+   
+  { "key": "LessonExplainer" ,
+    "value":  "شارح"
+},
+   
+  { "key": "NoGradeAssignedToEducator" ,
+    "value":  "لا توجد صفوف للمعلم"
+},
+   
+  { "key": "LessonVideo" ,
+    "value":  "الفيديو"
+},
+   
+  { "key": "NoSubjectAssignedToEducator" ,
+    "value":  "لا توجد مواد دراسية للمعلم "
+},
+   
+  { "key": "LessonWorksheet" ,
+    "value":  "ورقة تدريب"
+},
+   
+  { "key": "AddToMyLibrary" ,
+    "value":  "اضافة الى مكتبتى"
+},
+   
+  { "key": "PaperNotPublishedErrorMsg" ,
+    "value":  "This exam is not available anymore"
+},
+   
+  { "key": "CanNotDeleteSubjectGrade" ,
+    "value":  "لا يمكنك حذف هذه المادة وهذه الدرجة. عليك أولًا إلغاء ارتباط أي فصول أو مدرسين أو تقييمات ترتبط بهذه المادة والدرجة أولًا."
+},
+   
+  { "key": "SubjectGrades" ,
+    "value":  "المادة/السنة"
+},
+   
+  { "key": "SelectGrade" ,
+    "value":  "اختر صف"
+},
+   
+  { "key": "SelectSubjectText" ,
+    "value":  "اختر مادة"
+},
+   
+  { "key": "SubjectGradeValidation" ,
+    "value":  "يرجى تحديد مادة وصف دراسي."
+},
+   
+  { "key": "LibrarySelectGrade" ,
+    "value":  "اختيار صف دراسي"
+},
+   
+  { "key": "LibrarySelectSubject" ,
+    "value":  "اختيار مادة"
+},
+   
+  { "key": "Question_QuestionsList" ,
+    "value":  "سؤال"
+},
+   
+  { "key": "Extend" ,
+    "value":  "مدّ"
+},
+   
+  { "key": "AssessmentExtendedFailed" ,
+    "value":  "فشل مدّ التقييم . الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "AssessmentExtendedSuccessfully" ,
+    "value":  "تم مدّ تاريخ التسليم لـ {0} طلاب من فصل {1} بنجاح."
+},
+   
+  { "key": "ExtendAssessmentDueDate" ,
+    "value":  "مدّ تاريخ تسليم التقييم"
+},
+   
+  { "key": "ExtendDueDateSelectedStudents" ,
+    "value":  "مدّ تاريخ تسليم التقييم للطلاب المحددين."
+},
+   
+  { "key": "MustSelectStudentsFirst" ,
+    "value":  "يجب تحديد طلاب للتمديد أولاً"
+},
+   
+  { "key": "UserNameValidationMessage" ,
+    "value":  "اسم المستخدم: - يجب أن يكون طوله من 1 إلى 50 حرفًا - يجب أن يحتوي على حرف واحد على الأقل - يمكنك فقط استخدام الحروف والأرقام الإنجليزية والشرطات والشرطات التحتية والنقاط باستثناء البداية والنهاية - لا توجد مسافات ويجب أن يتضمن رمز البوابة في النهاية."
+},
+   
+  { "key": "DuplicateUserName" ,
+    "value":  "إسم المستخدم موجود بالفعل. يُرجى إدخال إسم مستخدم  آخَر."
+},
+   
+  { "key": "UserNameIsRequired" ,
+    "value":  "هذا الحقل مطلوب."
+},
+   
+  { "key": "UsernameShouldHaveSuffix" ,
+    "value":  "اسم المستخدم يجب أن يتضمن لاحقة البوابة {0} في نهايته."
+},
+   
+  { "key": "DueDateLessthanOldDueDate" ,
+    "value":  "يجب أن يكون تاريخ أو وقت التسليم لاحقًا لتاريخ التسليم القديم."
+},
+   
+  { "key": "ClickHerePreview" ,
+    "value":  "إعرض التكليفات."
+},
+   
+  { "key": "ShowAll" ,
+    "value":  "إظهار الكل"
+},
+   
+  { "key": "students_classList" ,
+    "value":  "طلاب"
+},
+   
+  { "key": "PortalIsDeactivatedMsg" ,
+    "value":  "Portal Is Deactivated"
+},
+   
+  { "key": "UserIsDeactivatedMsg" ,
+    "value":  "User Is Deactivated"
+},
+   
+  { "key": "ResetEducatorPasswordMessage" ,
+    "value":  "الآن، سيتمكن المعلم من تعيين كلمة مرور جديدة في المرة التالية التي يقوم فيها بتسجيل الدخول."
+},
+   
+  { "key": "ResetPasswordConfirmMessage_Educator" ,
+    "value":  "هل أنت متأكد من أنك تريد إعادة تعيين كلمة مرور المعلم؟"
+},
+   
+  { "key": "ResetEducatorPasswordFail" ,
+    "value":  "فشل إعادة تعيين كلمة المرور للمعلم، حاول مرة أخرى."
+},
+   
+  { "key": "DuplicateClassForSameStudent" ,
+    "value":  "تم إدخال هذا الفصل مرتين لنفس الطالب.‎"
+},
+   
+  { "key": "Playlists" ,
+    "value":  "قوائم التشغيل"
+},
+   
+  { "key": "Playlists_small" ,
+    "value":  "قوائم التشغيل"
+},
+   
+  { "key": "Presentations" ,
+    "value":  "العروض التقديمية"
+},
+   
+  { "key": "Presentations_small" ,
+    "value":  "العروض التقديمية"
+},
+   
+  { "key": "NoArabicValidationMessage" ,
+    "value":  "هذا الحقل لا يمكن ان يكون باللغة العربية."
+},
+   
+  { "key": "LessonMenu" ,
+    "value":  "قائمة الدرس"
+},
+   
+  { "key": "CustomSpecialCharacterValidation" ,
+    "value":  "يجب أن يُكتَب بأحرف لاتينية وغير مسموح سوى باستخدام الشرطة والشرطة السفلية والنقطة"
+},
+   
+  { "key": "MaxSubjectValidationMessage" ,
+    "value":  "الحد الأقصى لعدد المواد هو {0}. لإضافة المزيد، برجاء الترقية للمستوى الأعلى."
+},
+   
+  { "key": "MaxEducatorValidationMessage" ,
+    "value":  "الحد الأقصى لعدد المدرسين هو {0}. لإضافة المزيد، برجاء الترقية للمستوى الأعلى."
+},
+   
+  { "key": "OnePeriodStudentsActivity" ,
+    "value":  "الطلاب النشطون خلال"
+},
+   
+  { "key": "ThereIsNoActivitiesReports" ,
+    "value":  "لا توجد تقارير أنشطة بعد."
+},
+   
+  { "key": "AllPeriodStudentsActivity" ,
+    "value":  "الطلاب النشطون خلال كل شهر تقويمي"
+},
+   
+  { "key": "DownloadSheetWithErrors" ,
+    "value":  "لقد اكتشفنا وجود بعض الأخطاء. يُرجى &lt;a href={0}&gt;تنزيل الصفحة&lt;/a&gt;  لإصلاح الأخطاء ثم إعادة رفعها مرة أخرى."
+},
+   
+  { "key": "LoginPageSettings" ,
+    "value":  "إعدادات الموقع"
+},
+   
+  { "key": "LoginSettingSuccessMsg" ,
+    "value":  "تم تحديث بيانات البوابة بنجاح."
+},
+   
+  { "key": "URLNotValid" ,
+    "value":  "عنوان URL ليس صحيحاً."
+},
+   
+  { "key": "EditStudents" ,
+    "value":  "تعديل بيانات الطلاب"
+},
+   
+  { "key": "GeneralVideo" ,
+    "value":  "فيديو"
+},
+   
+  { "key": "LessonVideos" ,
+    "value":  "فيديو الدرس"
+},
+   
+  { "key": "PopVideo" ,
+    "value":  "علوم مبسطة"
+},
+   
+  { "key": "QuestionVideo" ,
+    "value":  "فيديو السؤال"
+},
+   
+  { "key": "CreatedQuestions" ,
+    "value":  "الأسئلة التي تم إنشاؤها"
+},
+   
+  { "key": "Educatorname" ,
+    "value":  "اسم المُعلِّم"
+},
+   
+  { "key": "EducatorsUsageReports" ,
+    "value":  "تقرير استخدام المعلم"
+},
+   
+  { "key": "Posts" ,
+    "value":  "المنشورات"
+},
+   
+  { "key": "SubjectGradePairs" ,
+    "value":  "أزواج المواد-الصفوف الدراسية"
+},
+   
+  { "key": "ThereIsNoEducators" ,
+    "value":  "لا تحتوي بوابتك على محتوًى لعرضه في هذه الصفحة."
+},
+   
+  { "key": "UploadedLibraryfiles" ,
+    "value":  "ملفات المكتبة التي تم تحميلها"
+},
+   
+  { "key": "UploadedLibraryvideos" ,
+    "value":  "فيديوهات المكتبة التي تم تحميلها"
+},
+   
+  { "key": "UploadedStudiovideos" ,
+    "value":  "فيديوهات Studio التي تم تحميلها"
+},
+   
+  { "key": "Usedquestions" ,
+    "value":  "الأسئلة المستخدمة"
+},
+   
+  { "key": "ImageAttachmentsCount" ,
+    "value":  "عدد مرفقات الصور"
+},
+   
+  { "key": "School" ,
+    "value":  "المدرسة"
+},
+   
+  { "key": "SessionsCount" ,
+    "value":  "عدد الحصص"
+},
+   
+  { "key": "SessionsUsageReports" ,
+    "value":  "تقرير استخدام الحصة"
+},
+   
+  { "key": "StudentsCount" ,
+    "value":  "عدد الطلاب"
+},
+   
+  { "key": "ThereIsNoSessions" ,
+    "value":  "لا تحتوي بوابتك على محتوًى لعرضه في هذه الصفحة."
+},
+   
+  { "key": "TotalActualDuration" ,
+    "value":  "إجمالي المدة الفعلية لكل الحصص"
+},
+   
+  { "key": "TotalPresetDuration" ,
+    "value":  "إجمالي المدة المُعيّنة مسبقًا لكل الحصص"
+},
+   
+  { "key": "JoinedStudentsCount" ,
+    "value":  "عدد الطلاب المُنضمين"
+},
+   
+  { "key": "ServiceProvider" ,
+    "value":  "مزود الخدمة"
+},
+   
+  { "key": "SessionActualTotalDuration" ,
+    "value":  "إجمالي المدة الفعلية للحصص"
+},
+   
+  { "key": "SessionDurationPreset" ,
+    "value":  "التعيين المسبق لمدة الحصة"
+},
+   
+  { "key": "SessionID" ,
+    "value":  "الرقم التعريفي للحصة"
+},
+   
+  { "key": "SessionStartTime" ,
+    "value":  "وقت بدء الحصة"
+},
+   
+  { "key": "SessionsUsageDetailsReports" ,
+    "value":  "تفاصيل استخدام الحصص لكل مستخدم"
+},
+   
+  { "key": "SessionTitle" ,
+    "value":  "عنوان الحصة"
+},
+   
+  { "key": "StudentsCount1" ,
+    "value":  "Students count"
+},
+   
+  { "key": "ViewAttendance" ,
+    "value":  "عرض الحضور"
+},
+   
+  { "key": "ActualSessionDuration" ,
+    "value":  "مدة الحصة الفعلية"
+},
+   
+  { "key": "DurationPercentageSpentbyStudentFromTheSession" ,
+    "value":  "نسبة (%) المدة التي قضاها الطلاب في الحصة من إجمالي وقت الحصة"
+},
+   
+  { "key": "EducatorID" ,
+    "value":  "الرقم التعريفي للمُعلِّم"
+},
+   
+  { "key": "PresetSessionDuration" ,
+    "value":  "مدة الحصة المُعيَّنة مسبقًا لكل طالب"
+},
+   
+  { "key": "StudentFirstName" ,
+    "value":  "الاسم الأول للطالب"
+},
+   
+  { "key": "StudentLastName" ,
+    "value":  "الاسم الأخير للطالب"
+},
+   
+  { "key": "StudentSessionJoinDateTime" ,
+    "value":  "تاريخ/وقت انضمام الطلاب إلى الحصص"
+},
+   
+  { "key": "StudentUsername" ,
+    "value":  "اسم المُستخدم الخاص بالطالب"
+},
+   
+  { "key": "TotalDurationSpentbyStudentInSession" ,
+    "value":  "إجمالي المدة التي قضاها الطلاب في الحصة"
+},
+   
+  { "key": "SessionsAttendanceReports" ,
+    "value":  "حضور الحصة"
+},
+   
+  { "key": "StudentsCountinSessions" ,
+    "value":  "عدد الطلاب في الحصص"
+},
+   
+  { "key": "DescriptionLengthValidation" ,
+    "value":  "يجب أن يكون عدد حروف الوصف ما بين {0} إلى {1} حرفًا."
+},
+   
+  { "key": "LibraryVideos" ,
+    "value":  "الفيديوهات"
+},
+   
+  { "key": "sessionsSection" ,
+    "value":  "الحصص"
+},
+   
+  { "key": "ActivitiesCount" ,
+    "value":  "عدد الطلاب النشطين"
+},
+   
+  { "key": "EndMonth" ,
+    "value":  "End Month"
+},
+   
+  { "key": "StartMonth" ,
+    "value":  "Start Month"
+},
+   
+  { "key": "EndOfPeriod" ,
+    "value":  "نهاية الفترة"
+},
+   
+  { "key": "StartOfPeriod" ,
+    "value":  "بدء الفترة"
+},
+   
+  { "key": "AssessmentQuestion" ,
+    "value":  "سؤال تقييمي"
+},
+   
+  { "key": "AssessmentVariation" ,
+    "value":  "سؤال متشابه"
+},
+   
+  { "key": "PortalQuestion" ,
+    "value":  "سؤال بوابة"
+},
+   
+  { "key": "PracticeQuestion" ,
+    "value":  "سؤال تدريبي"
+},
+   
+  { "key": "DisplayColumns" ,
+    "value":  "عرض الأعمدة"
+},
+   
+  { "key": "Deletecomment" ,
+    "value":  "حذف التعليق"
+},
+   
+  { "key": "DeleteCommentMsg" ,
+    "value":  "هل أنت متأكد من أنك تريد حذف هذا التعليق؟"
+},
+   
+  { "key": "DeleteCommentErrorMsg" ,
+    "value":  "تم حذف هذا التعليق."
+},
+   
+  { "key": "Comments" ,
+    "value":  "تعليقات"
+},
+   
+  { "key": "PressEscTo" ,
+    "value":  "اضغط على Esc  "
+},
+   
+  { "key": "ToCancel" ,
+    "value":  "للإلغاء."
+},
+   
+  { "key": "ViewMoreComments" ,
+    "value":  "عرض مزيد من التعليقات"
+},
+   
+  { "key": "WriteComment" ,
+    "value":  "اكتب تعليقًا."
+},
+   
+  { "key": "WriteYourComment" ,
+    "value":  "اكتب تعليقك"
+},
+   
+  { "key": "WriteYourCommentHere" ,
+    "value":  "اكتب تعليقك هنا."
+},
+   
+  { "key": "DeleteLessonConfirmation" ,
+    "value":  "هل أنت متأكد من أنك تريد حذف هذا الدرس؟"
+},
+   
+  { "key": "DeleteLessonValidation" ,
+    "value":  "يجب أن تحذف الأسئلة أولًا قبل حذف الدرس."
+},
+   
+  { "key": "EditLesson" ,
+    "value":  "تعديل الدرس"
+},
+   
+  { "key": "LessonName" ,
+    "value":  "اسم الدرس"
+},
+   
+  { "key": "RemoveLesson" ,
+    "value":  "حذف الدرس"
+},
+   
+  { "key": "MyLessons" ,
+    "value":  "دروسي"
+},
+   
+  { "key": "EditLessonTitleSuccess" ,
+    "value":  "تم تعديل عنوان الدرس بنجاح."
+},
+   
+  { "key": "LessonDuplicationValidation" ,
+    "value":  "يوجد بالفعل درس بنفس العنوان. يُرجَى إدخال عنوان آخر"
+},
+   
+  { "key": "EditLessonSuccessMessage" ,
+    "value":  "تم تعديل عنوان الدرس بنجاح."
+},
+   
+  { "key": "EditLessonWentWrong" ,
+    "value":  "‏حدث خطأٌ ما أثناء التعديل. ‏يُرجَى إعادة المحاولة."
+},
+   
+  { "key": "DeleteLessonSuccessMessage" ,
+    "value":  "تم حذف هذا الدرس بنجاح."
+},
+   
+  { "key": "CourseMenu" ,
+    "value":  "قائمة المناهج"
+},
+   
+  { "key": "AllPeriodStudentsActivity_description" ,
+    "value":  "يعرض هذا التقرير عدد الطلاب النشطين خلال كل شهر تقويمي."
+},
+   
+  { "key": "AlertMessageInPortalExpired" ,
+    "value":  "ستنتهي صلاحية اشتراكك خلال {0} من الأيام."
+},
+   
+  { "key": "and" ,
+    "value":  "و"
+},
+   
+  { "key": "OnePeriodStudentsActivity_description" ,
+    "value":  "يعرض هذا التقرير تفاصيل الطلاب النشطين خلال"
+},
+   
+  { "key": "LastActiveDate" ,
+    "value":  "تاريخ آخر نشاط"
+},
+   
+  { "key": "AlertMessageAdminExceedGracePeriod" ,
+    "value":  "لمواصلة استخدام البوابة والتطبيقات، يُرجَى تجديد اشتراكك هنا."
+},
+   
+  { "key": "AlertMessageEducatorExceedGracePeriod" ,
+    "value":  "تم إلغاء تنشيط البوابة . الرجاء الاتصال بمسئول البوابة لديك"
+},
+   
+  { "key": "PendingMarkingPerStudent" ,
+    "value":  "الأسئلة غير المصحَّحة لكل طالب"
+},
+   
+  { "key": "GetYourPortalNow" ,
+    "value":  "احصل على بوابتك الآن"
+},
+   
+  { "key": "AdditionalQuestionsAndVariationsCount" ,
+    "value":  "يتضمن هذا الدرس {0} سؤالًا إضافيًا و {1} نوعًا مختلفًا من الأسئلة الإضافية للمشتركين."
+},
+   
+  { "key": "AdditionalQuestionsCount" ,
+    "value":  "يتضمن هذا الدرس {0} سؤالًا إضافيًا للمشتركين."
+},
+   
+  { "key": "AdditionalQuestionVariationsCount" ,
+    "value":  "يتضمن هذا الدرس {0} نوعًا مختلفًا من الأسئلة الإضافية للمشتركين."
+},
+   
+  { "key": "AlertMessageInExceededGracePeriod" ,
+    "value":  "تم إلغاء تنشيط البوابة بسبب انتهاء صلاحية الاشتراك. الرجاء الاتصال بمسئول البوابة لديك."
+},
+   
+  { "key": "AlertMessageInGracePeriod" ,
+    "value":  "انتهت صلاحية اشتراكك. سيتم إلغاء تنشيط البوابة خلال {0} من الأيام"
+},
+   
+  { "key": "AllGrades" ,
+    "value":  "كل الصفوف الدراسية"
+},
+   
+  { "key": "AllSubjects" ,
+    "value":  "كل المواد"
+},
+   
+  { "key": "usedStorageInGB" ,
+    "value":  "تم استخدام {0} جيجابايت من {1} جيجابايت"
+},
+   
+  { "key": "ConnectVideos" ,
+    "value":  "فيديوهات Connect"
+},
+   
+  { "key": "AlertMessageInLastDayPortalExpired" ,
+    "value":  "ستنتهي صلاحية اشتراكك اليوم."
+},
+   
+  { "key": "AlertRenewal" ,
+    "value":  "اضغط هنا لتجديد الاشتراك"
+},
+   
+  { "key": "AllLessons" ,
+    "value":  "كل الدروس"
+},
+   
+  { "key": "ClearFilter" ,
+    "value":  "مسح عامل التصفية"
+},
+   
+  { "key": "LessonPlans_Footer" ,
+    "value":  "الخطط"
+},
+   
+  { "key": "AlertMessageLastDayInGracePeriod" ,
+    "value":  "انتهت صلاحية الاشتراك. سيُلغَى تنشيط البوابة اليوم."
+},
+   
+  { "key": "SuccessTitle" ,
+    "value":  "تم بنجاح!"
+},
+   
+  { "key": "Lesson1" ,
+    "value":  "درسًا واحدًا"
+},
+   
+  { "key": "Lesson2" ,
+    "value":  "درسين"
+},
+   
+  { "key": "Lesson3" ,
+    "value":  "دروس"
+},
+   
+  { "key": "Lesson4" ,
+    "value":  "درسًا"
+},
+   
+  { "key": "Lesson5" ,
+    "value":  "درس"
+},
+   
+  { "key": "LessonExplainer1" ,
+    "value":  "شارح واحد"
+},
+   
+  { "key": "LessonExplainer2" ,
+    "value":  "شارحين"
+},
+   
+  { "key": "LessonExplainer3" ,
+    "value":  "شوارح"
+},
+   
+  { "key": "LessonExplainer4" ,
+    "value":  "شارحًا"
+},
+   
+  { "key": "LessonExplainer5" ,
+    "value":  "شارح"
+},
+   
+  { "key": "LessonPlan1" ,
+    "value":  "خطة درس واحدة"
+},
+   
+  { "key": "LessonPlan2" ,
+    "value":  "خطتي درس"
+},
+   
+  { "key": "LessonPlan3" ,
+    "value":  "خطط دروس"
+},
+   
+  { "key": "LessonPlan4" ,
+    "value":  "خطة درس"
+},
+   
+  { "key": "LessonPlan5" ,
+    "value":  "خطة درس"
+},
+   
+  { "key": "LessonPlaylist1" ,
+    "value":  "قائمة تشغيل واحدة"
+},
+   
+  { "key": "LessonPlaylist2" ,
+    "value":  "قائمتا تشغيل"
+},
+   
+  { "key": "LessonPlaylist3" ,
+    "value":  "قوائم تشغيل"
+},
+   
+  { "key": "LessonPlaylist4" ,
+    "value":  "قائمة تشغيل"
+},
+   
+  { "key": "LessonPlaylist5" ,
+    "value":  "قائمة تشغيل"
+},
+   
+  { "key": "LessonPresentation1" ,
+    "value":  "عرض تقديمي واحد"
+},
+   
+  { "key": "LessonPresentation2" ,
+    "value":  "عرضان تقديميان"
+},
+   
+  { "key": "LessonPresentation3" ,
+    "value":  "عروض تقديمية"
+},
+   
+  { "key": "LessonPresentation4" ,
+    "value":  "عرضًا تقديميًّا"
+},
+   
+  { "key": "LessonPresentation5" ,
+    "value":  "عرض تقديمي"
+},
+   
+  { "key": "LessonWorksheet1" ,
+    "value":  "ورقة تدريب واحدة"
+},
+   
+  { "key": "LessonWorksheet2" ,
+    "value":  "ورقتي تدريب"
+},
+   
+  { "key": "LessonWorksheet3" ,
+    "value":  "أوراق تدريب"
+},
+   
+  { "key": "LessonWorksheet4" ,
+    "value":  "ورقة تدريب"
+},
+   
+  { "key": "LessonWorksheet5" ,
+    "value":  "ورقة تدريب"
+},
+   
+  { "key": "LessonVideo1" ,
+    "value":  "فيديو واحد"
+},
+   
+  { "key": "LessonVideo2" ,
+    "value":  "فيديوهين"
+},
+   
+  { "key": "LessonVideo3" ,
+    "value":  "فيديوهات"
+},
+   
+  { "key": "LessonVideo4" ,
+    "value":  "فيديو"
+},
+   
+  { "key": "LessonVideo5" ,
+    "value":  "فيديو"
+},
+
+  { "key": "PostNotFound" ,
+    "value":  "تم حذف هذا المنشور."
+},
+   
+  { "key": "Marks" ,
+    "value":  "الدرجات"
+},
+   
+  { "key": "TotalMarks" ,
+    "value":  "إجمالي الدرجات"
+},
+   
+  { "key": "MaxDigits" ,
+    "value":  "لا يمكنك إضافة أكثر من رقمين."
+},
+   
+  { "key": "SignedUpStudents" ,
+    "value":  "الطلاب المشتركون"
+},
+   
+  { "key": "Mobile" ,
+    "value":  "رقم الهاتف"
+},
+   
+  { "key": "GroupsClasses" ,
+    "value":  "المجموعات/الفصول"
+},
+   
+  { "key": "Signed_Up_Students_" ,
+    "value":  "الطلاب_المشتركون_"
+},
+   
+  { "key": "SignedUpDate" ,
+    "value":  "تاريخ التسجيل"
+},
+   
+  { "key": "ThereAreNoSignedUpStudents" ,
+    "value":  "ليس لديك أي طلاب مشتركون حتى الآن. "
+},
+   
+  { "key": "SocialAccountUrlNotValid" ,
+    "value":  "الحساب على مواقع التواصل الاجتماعي ليس صحيحاً."
+},
+   
+  { "key": "String2" ,
+    "value":  "انتهت صلاحية اشتراكك. سيتم إلغاء تنشيط البوابة اليوم"
+},
+   
+  { "key": "EditMarks" ,
+    "value":  "تعديل الدرجات"
+},
+   
+  { "key": "ErrorMsg_MarkGraterThanFullMark" ,
+    "value":  "يتجاوز ذلك الدرجة القصوى."
+},
+   
+  { "key": "GreaterThanZero" ,
+    "value":  "يجب أن تكون درجة السؤال أكبر من صفر."
+},
+   
+  { "key": "AlertMessageInIDayGracePeriod" ,
+    "value":  "انتهت صلاحية اشتراكك. سيتم إلغاء تنشيط البوابة خلال {0} يوم"
+},
+   
+  { "key": "StudentFailedToUpdateMessage" ,
+    "value":  "فشل تحديث بيانات الطالب. يُرجى إعادة المحاولة."
+},
+   
+  { "key": "UnRegisteredUserMsg" ,
+    "value":  "لست مشتركًا في هذه الخدمة. للاشتراك، يُرجَى التواصل معنا عبر Success@nagwa.com."
+},
+   
+  { "key": "EditAssessmentStep3" ,
+    "value":  "تعديل التقييم • الخطوة 3 من 3: معاينة وإرسال تقييم"
+},
+   
+  { "key": "ErrorMsg_NegativeNumbersAndLetters" ,
+    "value":  "تنسيق غير صالح. يُرجَى المحاولة مجددًا."
+},
+   
+  { "key": "MustBeNumber" ,
+    "value":  "يجب أن تكون الدرجة عددًا صحيحًا."
+},
+   
+  { "key": "class1" ,
+    "value":  "فصل دراسي واحد"
+},
+   
+  { "key": "class2" ,
+    "value":  "فصلين دراسيين"
+},
+   
+  { "key": "class3" ,
+    "value":  "فصول دراسية"
+},
+   
+  { "key": "class4" ,
+    "value":  "فصلًا دراسيًّا"
+},
+   
+  { "key": "class5" ,
+    "value":  "فصل دراسي"
+},
+   
+  { "key": "educator1" ,
+    "value":  "معلِّم واحد"
+},
+   
+  { "key": "educator2" ,
+    "value":  "معلِّمين"
+},
+   
+  { "key": "educator3" ,
+    "value":  "معلِّمين"
+},
+   
+  { "key": "educator4" ,
+    "value":  "معلِّمًا"
+},
+   
+  { "key": "educator5" ,
+    "value":  "معلِّم"
+},
+   
+  { "key": "student1" ,
+    "value":  "طالب واحد"
+},
+   
+  { "key": "student2" ,
+    "value":  "طالبين"
+},
+   
+  { "key": "student3" ,
+    "value":  "طلاب"
+},
+   
+  { "key": "student4" ,
+    "value":  "طالبًا"
+},
+   
+  { "key": "student5" ,
+    "value":  "طالب"
+},
+   
+  { "key": "assessment1" ,
+    "value":  "تقييم واحد"
+},
+   
+  { "key": "assessment2" ,
+    "value":  "تقييمين"
+},
+   
+  { "key": "assessment3" ,
+    "value":  "تقييمات"
+},
+   
+  { "key": "assessment4" ,
+    "value":  "تقييمًا"
+},
+   
+  { "key": "assessment5" ,
+    "value":  "تقييم"
+},
+   
+  { "key": "file3" ,
+    "value":  "ملفات"
+},
+   
+  { "key": "file4" ,
+    "value":  "ملفًّا"
+},
+   
+  { "key": "file5" ,
+    "value":  "ملف5"
+},
+   
+  { "key": "session1" ,
+    "value":  "حصة واحدة"
+},
+   
+  { "key": "session2" ,
+    "value":  "حصتين"
+},
+   
+  { "key": "session3" ,
+    "value":  "حصص"
+},
+   
+  { "key": "session4" ,
+    "value":  "حصة"
+},
+   
+  { "key": "session5" ,
+    "value":  "حصة"
+},
+   
+  { "key": "SignedUpStudent1" ,
+    "value":  "طالب واحد مشترك"
+},
+   
+  { "key": "SignedUpStudent2" ,
+    "value":  "طالبين مشتركين"
+},
+   
+  { "key": "SignedUpStudent3" ,
+    "value":  "طلاب مشتركين"
+},
+   
+  { "key": "SignedUpStudent4" ,
+    "value":  "طالبًا مشتركًا"
+},
+   
+  { "key": "SignedUpStudent5" ,
+    "value":  "طالب مشترك"
+},
+   
+  { "key": "PickThisFrame" ,
+    "value":  "اختر هذا الإطار"
+},
+   
+  { "key": "SelectFrameThumbnail" ,
+    "value":  "حدد إطارًا لإضافته كصورة مصغّرة للفيديو الخاص بك."
+},
+   
+  { "key": "SelectThumbnail" ,
+    "value":  "حدد صورة مصغّرة"
+},
+   
+  { "key": "Thumbnail" ,
+    "value":  "صورة مصغّرة"
+},
+   
+  { "key": "MustChooseThumbnail" ,
+    "value":  "يُرجَى اختيار صورة مصغّرة للفيديو الخاص بك."
+},
+   
+  { "key": "EditThumbnail" ,
+    "value":  "تعديل الصورة المصغّرة"
+},
+   
+  { "key": "ExceedLimit" ,
+    "value":  "يجب ألا تتجاوز الدرجة 99.99."
+},
+   
+  { "key": "IntegerOnly" ,
+    "value":  "يجب أن يكون إجمالي الدرجات عددًا صحيحًا"
+},
+   
+  { "key": "TwoDecimalsMax" ,
+    "value":  "يجب ألا يتجاوز العدد رقمين عشريين."
+},
+   
+  { "key": "AverageMark" ,
+    "value":  "متوسط الدرجات"
+},
+   
+  { "key": "StudentMark" ,
+    "value":  "درجة الطالب"
+},
+   
+  { "key": "TotalMark" ,
+    "value":  "الدرجة النهائية"
+},
+   
+  { "key": "ExtendConfirmationMessage" ,
+    "value":  "مدّ فترة التقييم إلى ما بعد تاريخ التسليم المحدد سابقًا سيؤدي إلى إعادة ضبط تقرير التقييم"
+},
+   
+  { "key": "Confirm" ,
+    "value":  "تأكيد"
+},
+   
+  { "key": "ExamAssignment" ,
+    "value":  "امتحان"
+},
+   
+  { "key": "ExamAssignment1" ,
+    "value":  "امتحان واحد"
+},
+   
+  { "key": "ExamAssignment2" ,
+    "value":  "امتحانان"
+},
+   
+  { "key": "ExamAssignment3" ,
+    "value":  "امتحانات"
+},
+   
+  { "key": "ExamAssignment4" ,
+    "value":  "امتحانًا"
+},
+   
+  { "key": "ExamAssignment5" ,
+    "value":  "امتحان"
+},
+   
+  { "key": "MessageLimitQuestion" ,
+    "value":  "الحد الأقصى لعدد الأسئلة ​. لإضافة المزيد، يُرجَى التواصل مع مسؤول بوابتك للترقية لمستوى أعلى"
+},
+   
+  { "key": "MessageLimitQuestion1" ,
+    "value":  "الحد الأقصي لعدد الأسئلة هو {0}"
+},
+   
+  { "key": "MessageLimitQuestion2" ,
+    "value":  "لإضافة المزيد، يُرجَى التواصل مع مسؤول بوابتك للترقية لمستوى أعلى."
+},
+   
+  { "key": "Notice" ,
+    "value":  "تنويه"
+},
+   
+  { "key": "questionMarkValidation" ,
+    "value":  "تحقق من هذا السؤال: "
+},
+   
+  { "key": "questionsMarksValidation" ,
+    "value":  "تحقق من هذه الأسئلة: "
+},
+   
+  { "key": "AssessmentReport_Unmarked" ,
+    "value":  "الأسئلة غير المصحَّحة"
+},
+   
+  { "key": "NoFilesFound" ,
+    "value":  "لم يتم العثور على أي ملفات."
+},
+   
+  { "key": "AssessmentTotalMark" ,
+    "value":  "إجمالي درجات التقييم"
+},
+   
+  { "key": "StudentListReport" ,
+    "value":  "قائمة الطلاب"
+},
+   
+  { "key": "FileDeletedMsg" ,
+    "value":  "تم حذف الملف بواسطة المالك."
+},
+   
+  { "key": "Flashcards" ,
+    "value":  "البطاقات التعليمية"
+},
+   
+  { "key": "flashcard1" ,
+    "value":  "بطاقة تعليمية واحدة"
+},
+   
+  { "key": "flashcard2" ,
+    "value":  "بطاقتان تعليميتان"
+},
+   
+  { "key": "flashcard3" ,
+    "value":  " بطاقات تعليمية"
+},
+   
+  { "key": "flashcard4" ,
+    "value":  "بطاقة تعليمية"
+},
+   
+  { "key": "flashcard5" ,
+    "value":  "بطاقة تعليمية"
+},
+   
+  { "key": "StudentScore" ,
+    "value":  "الدرجة"
+},
+   
+  { "key": "TotalAssessments" ,
+    "value":  "الدرجة النهائية"
+},
+   
+  { "key": "remainingInstance1" ,
+    "value":  "نوعًا واحدًا مختلفًا"
+},
+   
+  { "key": "remainingInstance2" ,
+    "value":  "نوعين مختلفين"
+},
+   
+  { "key": "remainingInstance3" ,
+    "value":  "انواع مختلفة"
+},
+   
+  { "key": "remainingInstance4" ,
+    "value":  "نوعًا مختلفًا"
+},
+   
+  { "key": "remainingInstance5" ,
+    "value":  "نوع مختلف"
+},
+   
+  { "key": "RemainingInstancesMessage" ,
+    "value":  "يتضمن هذا الدرس {0} من الأسئلة الإضافية للمشتركين."
+},
+   
+  { "key": "remainingQuestion1" ,
+    "value":  "سؤالًا واحدًا إضافيًّا"
+},
+   
+  { "key": "remainingQuestion2" ,
+    "value":  "سؤالين إضافيين"
+},
+   
+  { "key": "remainingQuestion3" ,
+    "value":  "أسئلة إضافية"
+},
+   
+  { "key": "remainingQuestion4" ,
+    "value":  "سؤالًا إضافيًّا"
+},
+   
+  { "key": "remainingQuestion5" ,
+    "value":  "سؤال إضافي"
+},
+   
+  { "key": "RemainingQuestionsInstancesMessage" ,
+    "value":  "يتضمن هذا الدرس {0} و {1} من الأسئلة الإضافية للمشتركين."
+},
+   
+  { "key": "RemainingQuestionsMessage" ,
+    "value":  "يتضمن هذا الدرس {0} للمشتركين."
+},
+   
+  { "key": "StudentsList_FirstNameDescription" ,
+    "value":  "Personal name of each student"
+},
+   
+  { "key": "StudentsList_GradeDescription" ,
+    "value":  "The grade in which each student is enrolled in"
+},
+   
+  { "key": "StudentsList_LastActiveDateDescription" ,
+    "value":  "The last date that a student was active"
+},
+   
+  { "key": "StudentsList_LastNameDescription" ,
+    "value":  "Family name of each student"
+},
+   
+  { "key": "StudentsList_StudentCodeDescription" ,
+    "value":  "Generated codes given to each student"
+},
+   
+  { "key": "StudentsList_UserNameDescription" ,
+    "value":  "Usernames given to students by their teacher"
+},
+   
+  { "key": "ExamsFreeTierSubsctiptionMsg" ,
+    "value":  "يمكنك الوصول إلى باقة امتحانات واحدة فقط. ويوجد {0} من الباقات الإضافية للمشتركين. يُرجَى الاتصال بمسؤول البوابة لديك للترقية إلى مستوى أعلى."
+},
+   
+  { "key": "StudentListReportDescription" ,
+    "value":  "يعرض هذا التقرير معلومات مُفصَّلة عن كل طالب."
+},
+   
+  { "key": "AddQuestions_SelectPortalLesson" ,
+    "value":  "اختيار دروس البوابة"
+},
+   
+  { "key": "BrowseNagwaLesson" ,
+    "value":  "تصفح دروس Nagwa"
+},
+   
+  { "key": "BrowsePortalLesson" ,
+    "value":  "تصفح دروس البوابة"
+},
+   
+  { "key": "SearchForNagwaLessons" ,
+    "value":  "بحث عن دروس نجوى"
+},
+   
+  { "key": "CalendarMonth" ,
+    "value":  "الشهر التقويمي"
+},
+   
+  { "key": "PaymentStatus" ,
+    "value":  "حالة الدفع"
+},
+   
+  { "key": "Wallet" ,
+    "value":  "محفظة"
+},
+   
+  { "key": "Amount" ,
+    "value":  "المبلغ"
+},
+   
+  { "key": "Description" ,
+    "value":  "الوصف"
+},
+   
+  { "key": "Fawry" ,
+    "value":  "فوري"
+},
+   
+  { "key": "FawryLocations" ,
+    "value":  "يمكن أن تحصل مواقع خدمة فوري على رسم خدمة. المبالغ المدفوعة عن طريق فوري غير قابلة للاسترداد."
+},
+   
+  { "key": "GenerateFawryCode" ,
+    "value":  "تكوين كود فوري"
+},
+   
+  { "key": "MyWallet" ,
+    "value":  "محفظتي"
+},
+   
+  { "key": "PayAtFawry" ,
+    "value":  "ادفع {0} من الجنيهات المصرية في أحد مواقع دفع فوري."
+},
+   
+  { "key": "PaymentIsProcessing" ,
+    "value":  "Payment is processing. Please do not refresh the page."
+},
+   
+  { "key": "ReceiveSMS" ,
+    "value":  "ستتلقى رسالة نصية قصيرة تتضمن الرقم المرجعي لخدمة فوري وكود الخدمة."
+},
+   
+  { "key": "ReferenceNumber" ,
+    "value":  "الرقم المرجعي:"
+},
+   
+  { "key": "ServiceCode" ,
+    "value":  "كود الخدمة:"
+},
+   
+  { "key": "ThereAreNoTransactions" ,
+    "value":  "لم تقم بإجراء أي معاملات بعد."
+},
+   
+  { "key": "TopUp" ,
+    "value":  "إعادة التعبئة"
+},
+   
+  { "key": "TotalBalance" ,
+    "value":  "الرصيد الإجمالي"
+},
+   
+  { "key": "TransactionAmount" ,
+    "value":  "مبلغ المعاملة"
+},
+   
+  { "key": "TransactionDate" ,
+    "value":  "تاريخ المعاملة"
+},
+   
+  { "key": "WalletTransactions" ,
+    "value":  "Wallet Transactions"
+},
+   
+  { "key": "AtFawryLocation" ,
+    "value":  "في أحد مواقع دفع فوري."
+},
+   
+  { "key": "Pay" ,
+    "value":  "ادفع"
+},
+   
+  { "key": "Transaction" ,
+    "value":  "معاملة"
+},
+   
+  { "key": "Transactions" ,
+    "value":  "معاملات"
+},
+   
+  { "key": "Transactions_small" ,
+    "value":  "معاملة"
+},
+   
+  { "key": "YouMadeDeposit" ,
+    "value":  "لقد أودعت {0} {1}"
+},
+   
+  { "key": "FawryFailureMsg" ,
+    "value":  "فشل تكوين الرقم التعريفي لمعاملتك. الرجاء المحاولة مرة أخرى في وقت لاحق."
+},
+   
+  { "key": "PlusThreePound" ,
+    "value":  "+ مصاريف خدمة فوري"
+},
+   
+  { "key": "transaction1" ,
+    "value":  "معاملة واحدة"
+},
+   
+  { "key": "transaction2" ,
+    "value":  "معاملتان"
+},
+   
+  { "key": "transaction3" ,
+    "value":  "معاملات"
+},
+   
+  { "key": "EGP" ,
+    "value":  "جنيه مصري"
+},
+   
+  { "key": "NextTransaction" ,
+    "value":  "التالية"
+},
+   
+  { "key": "NextTransaction1" ,
+    "value":  "المعاملة التالية"
+},
+   
+  { "key": "NextTransaction2" ,
+    "value":  "المعاملتان التاليتان"
+},
+   
+  { "key": "NextTransaction3" ,
+    "value":  "معاملات التالية"
+},
+   
+  { "key": "NextTransaction4" ,
+    "value":  "معاملة التالية"
+},
+   
+  { "key": "PreviousTransaction" ,
+    "value":  "السابقة"
+},
+   
+  { "key": "PreviousTransaction1" ,
+    "value":  "المعاملة السابقة"
+},
+   
+  { "key": "PreviousTransaction2" ,
+    "value":  "المعاملتان السابقتان"
+},
+   
+  { "key": "PreviousTransaction3" ,
+    "value":  "معاملات السابقة"
+},
+   
+  { "key": "PreviousTransaction4" ,
+    "value":  "معاملة السابقة"
+},
+   
+  { "key": "BackToWallet" ,
+    "value":  "عودة إلى المحفظة"
+},
+   
+  { "key": "CardNumber" ,
+    "value":  "رقم البطاقة"
+},
+   
+  { "key": "CardVerificationCode" ,
+    "value":  "رمز التحقق من البطاقة (CVC)"
+},
+   
+  { "key": "CreditCard" ,
+    "value":  "البطاقة الائتمانية"
+},
+   
+  { "key": "CreditFailureMsg" ,
+    "value":  "فشل تكوين الرقم التعريفي لمعاملتك. الرجاء المحاولة مرة أخرى في وقت لاحق."
+},
+   
+  { "key": "ExpiryDate" ,
+    "value":  "تاريخ انتهاء الصلاحية"
+},
+   
+  { "key": "ExpiryMonth" ,
+    "value":  "Month"
+},
+   
+  { "key": "ExpiryYear" ,
+    "value":  "Year"
+},
+   
+  { "key": "Recharge" ,
+    "value":  "إعادة تعبئة"
+},
+   
+  { "key": "RechargeSuccessMessage" ,
+    "value":  "تم شحن محفظتك بنجاح. تحديث رصيد المحفظة يمكن أن يستغرق القليل من الوقت."
+},
+   
+  { "key": "NoSubjectMessage" ,
+    "value":  "لم يتم تعيين أي مادة لك حتى الآن. اتصل بمسئول البوابة كي يتم تعيين مادة أولًا."
+},
+   
+  { "key": "CheckoutErrorMessage" ,
+    "value":  "حدث خطأ ما، يُرجَى المحاولة مجددًا."
+},
+   
+  { "key": "ActivateAll" ,
+    "value":  "تنشيط الكل"
+},
+   
+  { "key": "DeactivateAll" ,
+    "value":  "الغاء تنشيط الكل"
+},
+   
+  { "key": "Configuration" ,
+    "value":  "تكوين البوابة"
+},
+   
+  { "key": "Code" ,
+    "value":  "رمز"
+},
+   
+  { "key": "MyInfo" ,
+    "value":  "معلوماتي"
+},
+   
+  { "key": "MyPortal" ,
+    "value":  "بوابتي"
+},
+   
+  { "key": "MyWebsite" ,
+    "value":  "موقعي"
+},
+   
+  { "key": "ChooseLogo" ,
+    "value":  "اختيار شعار"
+},
+   
+  { "key": "TimezoneSpace" ,
+    "value":  "المنطقة الزمنية"
+},
+   
+  { "key": "NoGradesActiveMsg" ,
+    "value":  "عليك تنشيط الصف الدراسي أولًا."
+},
+   
+  { "key": "NoGradesAndSubjectsActiveMsg" ,
+    "value":  "عليك تنشيط الصف الدراسي وإضافة مادة أولًا."
+},
+   
+  { "key": "NoSubjectsActiveMsg" ,
+    "value":  "عليك إضافة مادة أولًا."
+},
+   
+  { "key": "ActivateAllWaningMessage" ,
+    "value":  "هل أنت مُتأكِّد من أنك تريد تنشيط كلِّ الحسابات؟"
+},
+   
+  { "key": "DeactivateAllWaningMessage" ,
+    "value":  "هل أنت مُتأكِّد من أنك تريد الغاء تنشيط كلِّ الحسابات؟"
+},
+   
+  { "key": "ActivateDeactivateAllSuccessMessage" ,
+    "value":  "تمَّ! يُرجَى الانتظار لحظات قبل تحديث الصفحة."
+},
+   
+  { "key": "ActivateDeactivateAllErrorMessage" ,
+    "value":  "فشل. الرجاء المحاولة مرة أخرى."
+},
+   
+  { "key": "ActivateAllWaningTitle" ,
+    "value":  "تنشيط الحسابات"
+},
+   
+  { "key": "DeactivateAllWaningTitle" ,
+    "value":  "إلغاء تنشيط الحسابات"
+},
+   
+  { "key": "AddNew" ,
+    "value":  "إنشاء مادة جديدة"
+},
+   
+  { "key": "CanNotDeleteSubject" ,
+    "value":  "CanNotDeleteSubject"
+},
+   
+  { "key": "SubjectCreatedMessage" ,
+    "value":  "تم إنشاء مادتك بنجاح."
+},
+   
+  { "key": "SubjectDeletedMessage" ,
+    "value":  "تم حذف مادتك بنجاح."
+},
+   
+  { "key": "SubjectUpdatedMessage" ,
+    "value":  "تم تعديل مادتك بنجاح."
+},
+   
+  { "key": "NextTransaction5" ,
+    "value":  "معاملة التالية"
+},
+   
+  { "key": "PreviousTransaction5" ,
+    "value":  "معاملة السابقة"
+},
+   
+  { "key": "PhoneNumber" ,
+    "value":  "رقم الهاتف"
+},
+   
+  { "key": "PhoneNumberPlaceHolder" ,
+    "value":  "أدخل رقم هاتفك"
+},
+   
+  { "key": "EditAccountFailedMessage" ,
+    "value":  "فشل تحديث بيانات البوابة. يُرجَى إعادة المحاولة."
+},
+   
+  { "key": "NoSpecialOrAlphabeticCharacters" ,
+    "value":  "الرجاء إدخال رقم هاتف صحيح."
+},
+   
+  { "key": "AdminFundedPortal" ,
+    "value":  "بوابة مُموَّلة من المسئول"
+},
+   
+  { "key": "AdminFundedPortalMsg" ,
+    "value":  "اشحن المحفظة قبل أن يسجِّل الطلاب الدخول لأول مرة، يتطلب ذلك دفع {0} لكل طالب."
+},
+   
+  { "key": "PortalPaymentType" ,
+    "value":  "نوع الدفع للبوابة"
+},
+   
+  { "key": "StudentFundedPortal" ,
+    "value":  "بوابة مُموَّلة من الطالب"
+},
+   
+  { "key": "StudentFundedPortalMsg" ,
+    "value":  "اسمح لكل طالب أن يدفع المبلغ المطلوب للحصول على إذن الوصول بشكل فردي، وهو {0} لكل طالب."
+},
+   
+  { "key": "SwitchTypeMessage" ,
+    "value":  "التغيير الذي أجريته في طريقة الدفع سيدخل حيز التنفيذ اعتبارًا من الشهر المقبل، وخطة الدفع النشطة في الوقت الحالي هي {0}."
+},
+   
+  { "key": "SwitchTypeWarringMessage" ,
+    "value":  "هل أنت متأكد من أنك تريد تغيير طريقة الدفع؟"
+},
+   
+  { "key": "EUR" ,
+    "value":  "يورو"
+},
+   
+  { "key": "GBP" ,
+    "value":  "جنيه إسترليني"
+},
+   
+  { "key": "INR" ,
+    "value":  "روبيه هندي"
+},
+   
+  { "key": "USD" ,
+    "value":  "دولار أمريكي"
+},
+   
+  { "key": "YouCanFollowUp" ,
+    "value":  "يمكنك متابعة كلِّ الإيداعات أو عمليَّات السحب من محفظتك."
+},
+   
+  { "key": "PaymentWasUnsuccessful" ,
+    "value":  "فشلت عملية الدفع ولم يتم خصم المبلغ من بطاقتك."
+},
+   
+  { "key": "ClassRoom_AddNewClassroom" ,
+    "value":  "إنشاء مجموعة طلاب"
+},
+   
+  { "key": "ClassRoom_ClassroomCode" ,
+    "value":  "الرمز"
+},
+   
+  { "key": "ClassRoom_ClassroomCoordinator" ,
+    "value":  "مشرف الحضور"
+},
+{ "key": "attendance_supervisor_role" ,
+  "value": "attendance_supervisor_role"
+},
+   
+  { "key": "ClassRoom_ClassroomTitle" ,
+    "value":  "الاسم"
+},
+   
+  { "key": "ClassRoom_CreateTheClassRoomWithinEachGrade" ,
+    "value":  "مجموعات الطلاب"
+},
+   
+  { "key": "ClassRoom_NoClassRoomFound" ,
+    "value":  "لا توجد أي مجموعات طلاب بعد."
+},
+   
+  { "key": "ClassRoom_ChooseCoordinatorPlaceholder" ,
+    "value":  "مشرف الحضور"
+},
+   
+  { "key": "ClassRoom_CreatedMessage" ,
+    "value":  "تم إنشاء مجموعة الطلاب بنجاح."
+},
+   
+  { "key": "ClassRoom_EditClassroom" ,
+    "value":  "تعديل مجموعة الطلاب"
+},
+   
+  { "key": "ClassRoom_UpdatedMessage" ,
+    "value":  "حُدِّثت مجموعة الطلاب بنجاح."
+},
+   
+  { "key": "Classrooms" ,
+    "value":  "مجموعات الطلاب"
+},
+   
+  { "key": "Classroom_AssignEducator" ,
+    "value":  "تعيين معلمين"
+},
+   
+  { "key": "ClassRoom_CanNotRemoveMsg" ,
+    "value":  "يجب عليك إزالة الطلاب أولًا قبل حذف مجموعة الطلاب."
+},
+   
+  { "key": "Classroom_Classes" ,
+    "value":  "الفصول"
+},
+   
+  { "key": "ClassRoomLinkWithSubjectTitle" ,
+    "value":  "ربط الموادِّ الدراسيَّة بمجموعات الطلاب"
+},
+   
+  { "key": "Classroom_ClassesEmpty" ,
+    "value":  "ليس لديك أي فصول دراسية حتى الآن."
+},
+   
+  { "key": "Classroom_ClassSearchPlaceHolder" ,
+    "value":  "اكتب اسم مجموعة الطلاب."
+},
+   
+  { "key": "ClassRoom_DeletedMessage" ,
+    "value":  "تم حذف مجموعة الطلاب بنجاح. تم حذف كل شيء مرتبط بمجموعة الطلاب."
+},
+   
+  { "key": "Classroom_Students" ,
+    "value":  "طلاب"
+},
+   
+  { "key": "Classroom_StudentSearchPlaceHolder" ,
+    "value":  "اكتب رمز الطالب أو الاسم."
+},
+   
+  { "key": "Classroom_StudentsEmpty" ,
+    "value":  "ليس لديك أيُّ طلاب هنا حتى الآن. ابدأ بإضافة الطلاب الآن!"
+},
+   
+  { "key": "ClassRoom_ClassroomFieldsRequired" ,
+    "value":  "برجاء ملء الحقول الناقصة."
+},
+   
+{ "key": "ClassRoom_ClassroomTitleLength" ,
+  "value":  "لا بد أن يتراوح الاسم من 2 حرف ل 22 حرفًا."
+},
+
+  { "key": "ClassRoom_ClassroomUdClassroomIdLength" ,
+  "value":  "لا بد أن يتراوح الرمز من 1 حرف ل 20 حرفًا."
+},
+   
+  { "key": "Classroom" ,
+    "value":  "مجموعة الطلاب"
+},
+   
+  { "key": "SelectClassroom" ,
+    "value":  "اختر مجموعة الطلاب "
+},
+   
+  { "key": "LinkSubjectswithGrades" ,
+    "value":  "ربط الموادِّ الدراسيَّة بالصفوف الدراسيَّة"
+},
+   
+  { "key": "NoActiveGradeSubjectMsg" ,
+    "value":  "عليك تنشيط الصف الدراسي وإضافة مادة أولًا."
+},
+   
+  { "key": "LinkSubjectWithGrades" ,
+    "value":  "تم ربط المواد بالصفوف بنجاح"
+},
+   
+  { "key": "ClassRoom_NoGradesAreActivated" ,
+    "value":  "عليك تنشيط الصف الدراسي أولًا."
+},
+   
+  { "key": "AllClassroom" ,
+    "value":  "كل مجموعات الطلاب"
+},
+   
+  { "key": "AllClassrooms" ,
+    "value":  "كل مجموعات الطلاب"
+},
+   
+  { "key": "CannotDeleteSubjectLinkedToGrade" ,
+    "value":  "لا يمكنك حذف هذه المادة. عليك إلغاء ارتباط أي فصول أو مدرسين أو تقييمات بهذه المادة أولًا."
+},
+   
+  { "key": "LinkSubjectSuccessMessage" ,
+    "value":  "تم حفظ تعديلاتك بنجاح."
+},
+
+  { "key": "GradesSubject" ,
+    "value":  "السنة/المادة"
+},
+   
+  { "key": "CannotDeleteSubjectAttachectoClass" ,
+    "value":  "لا يمكنك حذف هذه المادة. عليك إلغاء ارتباط أي مدرسين أو طلاب بهذه المادة أولًا."
+},
+   
+  { "key": "ClassRoomLinkWithSubjectSuccess" ,
+    "value":  "تم حفظ تعديلاتك بنجاح."
+},
+   
+  { "key": "LinkSubjectGradeNoGrades" ,
+    "value":  "عليك إنشاء مجموعة طلاب وإضافة مادة أولًا."
+},
+   
+  { "key": "Classroom_AddStudents" ,
+    "value":  "إضافة طلاب"
+},
+   
+  { "key": "Classroom_ClassroomStudentCode" ,
+    "value":  "رمز الطالب"
+},
+   
+  { "key": "ClassRoom_FieldLength" ,
+    "value":  "يجب أن يكون الرمز والاسم فريدين، ويتكوَّنان من 20 حرفًا."
+},
+   
+  { "key": "Classroom_TransferStudent" ,
+    "value":  "تحويل"
+},
+   
+  { "key": "AddNewGroup" ,
+    "value":  "إنشاء مجموعة جديدة"
+},
+
+  { "key": "EditGroup" ,
+    "value":  "تعديل المجموعة"
+},
+
+  { "key": "GroupName" ,
+    "value":  "اسم المجموعة"
+},
+
+  { "key": "NewGroup" ,
+    "value":  "مجموعة جديدة"
+},
+   
+  { "key": "SubjectGroups" ,
+    "value":  "مجموعات المواد"
+},
+
+  { "key": "Classroom_ChooseCoTeachersPlaceholder" ,
+    "value":  "تعيين مدرِِّّس مساعد"
+},
+   
+  { "key": "Classroom_ChooseTeacherPlaceholder" ,
+    "value":  "تعيين مدرِّس"
+},
+
+  { "key": "BulkStudentsClassroom" ,
+    "value":  "To upload multiple students, download our &lt;a href={0}&gt;template sheet&lt;/a&gt; and add your students' first and last names, the code for their year groups (as set in 'Years'), classroom code (as set in 'Classroom'), and unique student IDs. "
+},
+   
+  { "key": "Admission" ,
+    "value":  "التقديم"
+},
+   
+  { "key": "ClassRoom_InvalidTitleOrCode" ,
+    "value":  "لا بد أن يكون الرمز أو الاسم فريدًًا."
+},
+{ "key": "FlexibleClasses" ,
+  "value":  "الفصول المرنة"
+},
+{
+  "key": "CreateFlexibleClass",
+  "value": "إنشاء فصل مَرِن"
+
+},
+{
+  "key": "Classroom_CreatedSuccessfully",
+  "value": "تم إنشاء الفصل بنجاح."
+
+},
+{
+  "key": "PhoneNumberIsRequired",
+  "value": "Ce champ est obligatoire."
+
+},
+{
+  "key": "AdminArea",
+  "value": "لوحة تحكم المسئول"
+
+},
+
+{
+  "key": "TeacherArea",
+  "value": "لوحة تحكم المعلم"
+},
+{
+  "key": "Marking",
+  "value": "الدرجات"
+},
+{
+  "key": "OnlineAdmission",
+  "value": "التقديم عبر الإنترنت"
+},
+{
+  "key": "Attendance",
+  "value": "الحضور"
+},
+
+{
+  "key": "MarksManagement",
+  "value": "إدارة الدرجات"
+},
+{ "key": "SubjectGroupNameLength" ,
+  "value":  "لا بد أن يتراوح الاسم من 1 حرف ل 22 حرفًا."
+}
+
+
+
+]
+}

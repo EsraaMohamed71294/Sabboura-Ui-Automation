@@ -1,0 +1,5521 @@
+﻿
+  {
+
+  "data": [
+
+ { "key": "AboutUsTitle",
+ "value": "À propos"
+     },
+
+ { "key": "AccessDenied",
+ "value": "Accès refusé."
+     },
+
+ { "key": "AccessDeniedMessage",
+ "value": "Vous n'avez pas l'autorisation d'afficher cette page."
+     },
+
+ { "key": "Action",
+ "value": "Action"
+     },
+
+ { "key": "Actions",
+ "value": "Actions"
+     },
+
+ { "key": "Activate",
+ "value": "Activer"
+     },
+
+ { "key": "ActivateEducatorError",
+ "value": "Échec de l'activation de cet utilisateur."
+     },
+
+ { "key": "ActivateEducatorSuccess",
+ "value": "L'éducateur a été désactivé avec succès. La modification peut mettre quelques minutes pour prendre effet."
+     },
+
+ { "key": "Activities",
+ "value": "Activités"
+     },
+
+ { "key": "ActivitiesCount",
+ "value": "Nombre d'élèves actifs"
+     },
+
+ { "key": "ActualSessionDuration",
+ "value": "Durée réelle de la séance"
+     },
+
+ { "key": "Add",
+ "value": "AJOUTER"
+     },
+
+ { "key": "AddCourses",
+ "value": "Ajouter des cours"
+     },
+
+ { "key": "AddEducator",
+ "value": "Créer un éducateur"
+     },
+
+ { "key": "AddFiles",
+ "value": "Ajouter des fichiers"
+     },
+
+ { "key": "AddingPortalQuestionMessage",
+ "value": "La question a été soumise avec succès. Elle est maintenant en cours de traitement."
+     },
+
+ { "key": "AdditionalInformation",
+ "value": "Utilisez ce champs pour fournir des informations supplémentaires."
+     },
+
+ { "key": "AddLesson",
+ "value": "Ajouter une leçon"
+     },
+
+ { "key": "AddMaterials",
+ "value": "Ajouter des matériaux"
+     },
+
+ { "key": "AddMCQ_SelectSubject",
+ "value": "Sélectionner une matière"
+     },
+
+ { "key": "AddMoreQuestions",
+ "value": "Ajouter davantage de questions"
+     },
+
+ { "key": "AddQuestion",
+ "value": "Ajouter une question"
+     },
+
+ { "key": "AddQuestions_AddNewLesson",
+ "value": "Ajouter une leçon"
+     },
+
+ { "key": "AddQuestions_AllLessons",
+ "value": "Toutes les leçons"
+     },
+
+ { "key": "AddQuestions_MyLessons",
+ "value": "Leçons du portail"
+     },
+
+ { "key": "AddQuestions_SaveAndFinish",
+ "value": "AJOUTER ET TERMINER"
+     },
+
+ { "key": "AddQuestions_SelectLesson",
+ "value": "Sélectionnez une leçon"
+     },
+
+ { "key": "AddStudent",
+ "value": "Ajouter un élève"
+     },
+
+ { "key": "AddStudents",
+ "value": "Ajouter des élèves"
+     },
+
+ { "key": "AddToLibrary",
+ "value": "Ajouter à la bibliothèque"
+     },
+
+ { "key": "AddToMyLibrary",
+ "value": "Ajouter à ma bibliothèque"
+     },
+
+ { "key": "Admins",
+ "value": "Administradores"
+     },
+
+ { "key": "AdminStudentSearchPlaceholder",
+ "value": "Tapez le code de l'élève, son nom, son nom d'utilisateur ou le titre de sa classe."
+     },
+
+ { "key": "AlertMessageAdminExceedGracePeriod",
+ "value": "Pour continuer à utiliser le portail et les applications, veuillez renouveler votre abonnement ici."
+     },
+
+ { "key": "AlertMessageEducatorExceedGracePeriod",
+ "value": "El portal ha sido desactivado. Póngase en contacto con el administrador de su portal."
+     },
+
+ { "key": "AlertMessageInExceededGracePeriod",
+ "value": "El portal ha sido desactivado porque la suscripción ha caducado. Póngase en contacto con el administrador de su portal."
+     },
+
+ { "key": "AlertMessageInGracePeriod",
+ "value": "L'abonnement a expiré. Le portail sera désactivé dans {0} jours."
+     },
+
+ { "key": "AlertMessageInLastDayPortalExpired",
+ "value": "Votre abonnement arrivera à expiration aujourd'hui."
+     },
+
+ { "key": "AlertMessageInPortalExpired",
+ "value": "Votre abonnement arrivera à expiration dans {0} jours."
+     },
+
+ { "key": "AlertMessageLastDayInGracePeriod",
+ "value": "L'abonnement est arrivé à expiration. Le portail sera désactivé aujourd'hui."
+     },
+
+ { "key": "AlertRenewal",
+ "value": "Cliquez ici pour renouveler votre abonnement."
+     },
+
+ { "key": "All",
+ "value": "Toutes"
+     },
+
+ { "key": "AllAssessments",
+ "value": "Toutes les évaluations"
+     },
+
+ { "key": "AllAssignments",
+ "value": "Tout le travail à faire"
+     },
+
+ { "key": "AllClasses",
+ "value": "Toutes les classes"
+     },
+
+ { "key": "AllCourseswithoneCourseperLine",
+ "value": "Tous les cours avec un cours par ligne"
+     },
+
+ { "key": "AllCourseswithoneCourseperLineDescription",
+ "value": "Ce rapport indique la performance à chaque cours d'après les questions reçues par les élèves aux évaluations associées aux leçons de chaque cours. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "AllCourseswithoneCourseperLineWorksheets",
+ "value": "Rapport : Tous les cours avec un cours par ligne"
+     },
+
+ { "key": "AllFiles",
+ "value": "Tous les fichiers"
+     },
+
+ { "key": "AllGrades",
+ "value": "Tous les niveaux"
+     },
+
+ { "key": "AllLessons",
+ "value": "Toutes les leçons"
+     },
+
+ { "key": "AllPeriodStudentsActivity",
+ "value": "Élèves actifs pendant les périodes d'abonnement"
+     },
+
+ { "key": "AllPeriodStudentsActivity_description",
+ "value": "Ce rapport indique les périodes d'abonnement au portail et le nombre des élèves actifs durant chaque période."
+     },
+
+ { "key": "AllQuestions",
+ "value": "Toutes les questions"
+     },
+
+ { "key": "AllStudents",
+ "value": "Tous les élèves"
+     },
+
+ { "key": "AllStudentsHaveSameAssignmentMsg",
+ "value": "L'évaluation ne peut pas être envoyée car toutes les classes ou tous les élèves sélectionnés ont déjà reçu cette évaluation."
+     },
+
+ { "key": "AllStudentsHaveSameExamAssignmentMsg",
+ "value": "L'examen ne peut pas être créé car toutes les classes ou tous les élèves sélectionnés ont déjà reçu l'examen sélectionné."
+     },
+
+ { "key": "AllSubjects",
+ "value": "Toutes les matières"
+     },
+
+ { "key": "All_Assessments_One_Assessment_per_Line_desc",
+ "value": "Ce rapport indique la performance à toutes les évaluations d'après les questions reçues par les élèves lors de ces évaluations."
+     },
+
+ { "key": "All_Assessments_One_Assessment_per_Line_Download",
+ "value": "Rapport : Toutes les évaluations » Une évaluation par ligne"
+     },
+
+
+ { "key": "All_Assessments_One_Assessment_per_Line_Title",
+ "value": "Rapport : Toutes les évaluations » Une évaluation par ligne"
+     },
+
+ { "key": "All_Assessments_One_Student_per_Line_desc",
+ "value": "Ce rapport indique la performance de chaque élève d'après les questions reçues par les élèves lors de toutes les évaluations."
+     },
+
+ { "key": "All_Assessments_One_Student_per_Line_Download",
+ "value": "Rapport : Toutes les évaluations » Un élève par ligne"
+     },
+
+
+
+ { "key": "All_Assessments_One_Student_per_Line_Title",
+ "value": "Rapport : Toutes les évaluations » Un élève par ligne"
+     },
+
+ { "key": "All_Assessments_Specific_Assessment_One_Student_Per_Line_desc",
+ "value": "Ce rapport indique la performance de chaque élève lors de l'évaluation spécifiée."
+     },
+
+ { "key": "All_Assessments_Specific_Assessment_One_Student_Per_Line_Download",
+ "value": "Rapport : Évaluation » Un élève par ligne"
+     },
+
+ 
+
+ { "key": "All_Assessments_Specific_Student_One_Assessment_Per_Line_Title",
+ "value": "Rapport : Élève » Une évaluation par ligne"
+     },
+
+ { "key": "All_Assessments_with_One_Assessment_per_Line_Title",
+ "value": "Toutes les évaluations avec une évaluation par ligne"
+     },
+
+ { "key": "All_Assessments_with_One_Student_per_Line_Title",
+ "value": "Toutes les évaluations avec un élève par ligne"
+     },
+
+ { "key": "All_Courses_One_Course_per_Line_desc",
+ "value": "Ce rapport indique la performance à chaque cours d'après les questions reçues par les élèves aux évaluations associées aux leçons de chaque cours. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "All_Courses_One_Course_per_Line_desc_worksheet",
+ "value": "Ce rapport indique la performance des élèves à chaque cours d'après les questions reçues par les élèves dans les feuilles d'activités associées à ce cours."
+     },
+
+ { "key": "All_Courses_One_Course_per_Line_Title",
+ "value": "Rapport : Tous les cours » Un cours par ligne"
+     },
+
+ { "key": "All_Courses_One_Course_per_Line_Title_worksheet",
+ "value": "Rapport : Tous les cours avec un cours par ligne"
+     },
+
+ { "key": "All_Exams_One_Exams_per_Line_desc",
+ "value": "Ce rapport indique la performance à tous les examens d'après les questions reçues par les élèves lors de ces examens."
+     },
+
+ { "key": "All_Exams_One_Exam_per_Line_Title",
+ "value": "Rapport : Tous les examens » Un examen par ligne"
+     },
+
+ { "key": "All_Exams_Specific_Exam_One_Student_Per_Line_Title",
+ "value": "Rapport : Examen » Un élève par ligne"
+     },
+
+ { "key": "All_Exams_Specific_Student_One_Exam_Per_Line_desc",
+ "value": "Ce rapport indique la performance de l`élève spécifié pour chaque examen assigné."
+     },
+
+ { "key": "All_Exams_Specific_Student_One_Exam_Per_Line_Title",
+ "value": "Rapport : Élève » Un examen par ligne"
+     },
+
+ { "key": "All_Exams_with_One_Exam_per_Line_Title",
+ "value": "Tous les examens avec un examen par ligne"
+     },
+
+ { "key": "All_Exams_with_One_Student_per_Line_Title",
+ "value": "Tous les examens avec un élève par ligne"
+     },
+
+ { "key": "AmazingApps",
+ "value": "Applications Nagwa"
+     },
+
+ { "key": "Analytics",
+ "value": "Analyses"
+     },
+
+ { "key": "AnsweredAssessments",
+ "value": "Évaluations complétées"
+     },
+
+ { "key": "AnsweredWorksheets",
+ "value": "Feuilles d'activités complétées"
+     },
+
+ { "key": "Answers",
+ "value": "Réponses"
+     },
+
+ { "key": "April",
+ "value": "Avril"
+     },
+
+ { "key": "ar",
+ "value": "Arabe"
+     },
+
+ { "key": "Assessment",
+ "value": "Évaluation"
+     },
+
+ { "key": "AssessmentAssignmentDeletedMessage",
+ "value": "Cette évaluation n'est plus assignée au(x) étudiant(s) sélectionné(s)."
+     },
+
+ { "key": "AssessmentCreatedMessage",
+ "value": "L'évaluation a été créée avec succès."
+     },
+
+ { "key": "AssessmentDeletedMessage",
+ "value": "L'évaluation a été supprimée avec succès."
+     },
+
+ { "key": "AssessmentDeletedMessage2",
+ "value": "L'évaluation a été supprimée avec succès. Tout élément associé à cette évaluation a été supprimé."
+     },
+
+ { "key": "AssessmentExtendedSuccessfully",
+ "value": "La date limite pour (no.{0}) élèves de la classe {1} a été repoussée avec succès."
+     },
+
+ { "key": "AssessmentId",
+ "value": "Résultats de l'évaluation"
+     },
+
+ { "key": "AssessmentPerformance",
+ "value": "Résultats de l'évaluation"
+     },
+
+ { "key": "AssessmentPerformanceReports",
+ "value": "Rapports sur les résultats de l'évaluation"
+     },
+
+ { "key": "AssessmentQuestion",
+ "value": "Question d'évaluation"
+     },
+
+ { "key": "Assessments",
+ "value": "Évaluations"
+     },
+
+ { "key": "AssessmentSearchPlaceholder",
+ "value": "Tapez le titre de l'évaluation."
+     },
+
+ { "key": "AssessmentsQuestions",
+ "value": "Questions répondues des évalutations"
+     },
+
+ { "key": "AssessmentsReports",
+ "value": "Rapports sur les évaluations"
+     },
+
+ { "key": "assessments_small",
+ "value": "évaluations"
+     },
+
+ { "key": "AssessmentTitle",
+ "value": "Titre"
+     },
+
+ { "key": "AssessmentUpdatedMessage",
+ "value": "L'évaluation a été mise à jour avec succès."
+     },
+
+ { "key": "AssessmentVariation",
+ "value": "Variation d'évaluation"
+     },
+
+ { "key": "Assessment_Report_All_Courses_One_Course_per_Line_",
+ "value": "Rapport : Tous les cours » Un cours par ligne"
+     },
+
+ { "key": "Assessment_Report_Course_Class_One_Lesson_per_Line_",
+ "value": "Rapport : Cours » Classe » Une leçon par ligne"
+     },
+
+ { "key": "Assessment_Report_Course_Class_One_Student_per_Line_",
+ "value": "Rapport : Cours » Classe » Un élève par ligne"
+     },
+
+ { "key": "Assessment_Report_Course_One_Class_per_Line_",
+ "value": "Rapport : Cours » Une classe par ligne"
+     },
+
+ { "key": "Assessment_Report_Course_One_Student_per_Line_",
+ "value": "Rapport : Cours » Un élève par ligne"
+     },
+
+ { "key": "Assessment_Report_Course_Student_One_Lesson_per_Line_",
+ "value": "Rapport : Cours » Élève » Une leçon par ligne"
+     },
+
+ { "key": "Assessment_Report_Lesson_One_Student_per_Line_",
+ "value": "Rapport : Lesson » Un élève par ligne"
+     },
+
+ { "key": "Assign",
+ "value": "Assigner"
+     },
+
+ { "key": "AssignAssessment",
+ "value": "Assigner l'évaluation"
+     },
+
+ { "key": "AssignedBy",
+ "value": "Assigné par"
+     },
+
+ { "key": "AssignmentCreatedMessage",
+ "value": "Vous avez assigné l'évaluation à l'élève ou aux élèves sélectionnés avec succès."
+     },
+
+ { "key": "AssignmentDeletedMessage",
+ "value": "L'examen à passer a été supprimé."
+     },
+
+ { "key": "AssignmentDurationInMinutes",
+ "value": "Durée en minutes"
+     },
+
+ { "key": "Assignments",
+ "value": "Travail à faire"
+     },
+
+ { "key": "Assignments_small",
+ "value": "travail à faire"
+     },
+
+ { "key": "AssignmentUpdatedMessage",
+ "value": "L'évaluation a été mise à jour avec succès."
+     },
+
+ { "key": "AssignPaper",
+ "value": "ASSIGNER UNE ÉPREUVE"
+     },
+
+ { "key": "AssignToClasses",
+ "value": "Assigner aux classes"
+     },
+
+ { "key": "AssignToStudents",
+ "value": "Assigner aux élèves"
+     },
+
+ { "key": "AtRowsNumber",
+ "value": "Ligne(s)"
+     },
+
+ { "key": "Attach",
+ "value": "JOINDRE"
+     },
+
+ { "key": "August",
+ "value": "Août"
+     },
+
+ { "key": "AverageScore",
+ "value": "Score moyen"
+     },
+
+ { "key": "BackToQuestions",
+ "value": "Retour aux questions"
+     },
+
+ { "key": "Browse",
+ "value": "Parcourir"
+     },
+
+ { "key": "BulkStudentIgnoreMessage",
+ "value": "Ignorer la première ligne ou l'en-tête"
+     },
+
+ { "key": "BulkStudentInitMessage",
+ "value": "Veuillez sélectionner le titre correspondant à chacune des colonnes de votre feuille Excel. Si vous avez utilisé notre modèle, ne tenez pas compte de la première ligne qui correspond aux titres des colonnes."
+     },
+
+ { "key": "BulkStudents",
+ "value": "Pour charger plusieurs élèves, téléchargez notre &lt;a href={0}&gt;modèle&lt;/a&gt; et ajoutez le prénom et le nom de vos élèves, le code de leurs groupes de niveau (tel que défini dans « Niveaux »), leurs codes de classe (tel que défini dans « Classes ») et leurs IDs correspondants. Veuillez noter que si vous ajoutez un élève à plusieurs classes, séparez chaque code de classe dans la feuille Excel par une virgule."
+     },
+
+ { "key": "Bundle",
+ "value": "Offre groupée"
+     },
+
+ { "key": "CalendarYear",
+ "value": "Année"
+     },
+
+ { "key": "Cancel",
+ "value": "ANNULER"
+     },
+
+ { "key": "Canceled",
+ "value": "Annulé"
+     },
+
+ { "key": "CannotActivateAdminMessage",
+ "value": "Impossible d'activer le compte de l'administrateur."
+     },
+
+ { "key": "CannotDeactivateAdminMessage",
+ "value": "Vous ne pouvez pas désactiver le compte de l'administrateur."
+     },
+
+ { "key": "CanNotDeleteGrade",
+ "value": "Impossible de supprimer ce niveau."
+     },
+
+ { "key": "CanNotDeleteSubjectGrade",
+ "value": "Impossible de supprimer cette matière et ce niveau. Vous devez d'abord dissocier les cours, les éducateurs ou les évaluations liés à cette matière et à ce niveau."
+     },
+
+ { "key": "CannotRemovetheSubject",
+ "value": "Vous ne pouvez pas supprimer cette matière. Vous devez d'abord dissocier les classes, les éducateurs ou les évaluations liées à cette matière."
+     },
+
+ { "key": "CantDeleteAssessment",
+ "value": "Impossible de supprimer cette évaluation."
+     },
+
+ { "key": "CantDeleteAssignment",
+ "value": "Vous ne pouvez pas supprimer ce devoir car il a déjà commencé."
+     },
+
+ { "key": "Change",
+ "value": "CHANGER"
+     },
+
+ { "key": "ChooseBundle",
+ "value": "Sélectionner une offre groupée"
+     },
+
+ { "key": "ChooseClassesPlaceholder",
+ "value": "Sélectionner des classes"
+     },
+
+ { "key": "ChooseClassPlaceholder",
+ "value": "Sélectionner une classe"
+     },
+
+ { "key": "ChooseCoTeachersPlaceholder",
+ "value": "Sélectionner des co-enseignants"
+     },
+
+ { "key": "ChooseCoursesPlaceholder",
+ "value": "Sélectionner des cours"
+     },
+
+ { "key": "ChooseFromLibrary",
+ "value": "Choisir dans la bibliothèque"
+     },
+
+ { "key": "ChooseGradePlaceholder",
+ "value": "Sélectionner un niveau"
+     },
+
+ { "key": "ChooseGradesPlaceholder",
+ "value": "Sélectionner un niveau"
+     },
+
+ { "key": "ChooseImageToUpload",
+ "value": "JOINDRE"
+     },
+
+ { "key": "ChooseImageToUpload1",
+ "value": "Choisissez l'image à charger"
+     },
+
+ { "key": "ChooselessonPlaceholder",
+ "value": "Sélectionnez une leçon"
+     },
+
+ { "key": "ChoosePack",
+ "value": "Sélectionner un pack"
+     },
+
+ { "key": "ChoosePaper",
+ "value": "Sélectionner un examen"
+     },
+
+ { "key": "ChooseStudentsPlaceholder",
+ "value": "Sélectionner des élèves"
+     },
+
+ { "key": "ChooseSubjectPlaceholder",
+ "value": "Sélectionner une matière"
+     },
+
+ { "key": "ChooseSubjectsPlaceholder",
+ "value": "Sélectionner des matières"
+     },
+
+ { "key": "ChooseTeacherPlaceholder",
+ "value": "Sélectionner un enseignant"
+     },
+
+ { "key": "Class",
+ "value": "Classe"
+     },
+
+ { "key": "ClassAlignmentAssessmentPerformanceReportsEmpty",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ClassAssessmentOneStudentPerLine_Class_Assessment_One_Student_Per_Line_Download",
+ "value": "Évaluation de la classe avec un élève par ligne"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_AssessmentTitle",
+ "value": "Titre de l'évaluation"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_AverageScore",
+ "value": "Score moyen"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Class",
+ "value": "Classe"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line",
+ "value": "Rapport : Classe » Évaluations » Leçon » Un élève par ligne"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line_desc",
+ "value": "Ce rapport indique la performance des élèves dans des leçons spécifiques contenant les questions reçues par les élèves lors des évaluations. Il comprend uniquement les données des travaux à faire dont la date limite de soumission est dépassée (c'est-à-dire clôturés)."
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line_Download",
+ "value": "Classe » Évaluations » Leçon » Un élève par ligne"
+     },
+
+ 
+ { "key": "ClassAssessmentReassigningReport_Class_assessment_With_One_Lesson_Per_Line",
+ "value": "Rapport : Classe » Évaluations » Une leçon par ligne"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Class_assessment_With_One_Lesson_Per_Line_desc",
+ "value": "Ce rapport indique la performance d'une classe spécifique dans toutes les leçons qui contiennent les questions reçues par les élèves lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Lesson_Per_Line_Download",
+ "value": "Classe » Évaluation avec une leçon par ligne"
+     },
+
+ 
+
+ { "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Student_Per_Line",
+ "value": "Rapport : Classe » Évaluations » Un élève par ligne"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Student_Per_Line_desc",
+ "value": "Rapport : Classe » Évaluations » Un élève par ligne"
+     },
+
+
+ { "key": "ClassAssessmentReassigningReport_Correct",
+ "value": "Correcte(s)"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_correctperstudent",
+ "value": "Correcte(s) par élève"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_FirstName",
+ "value": "Prénom"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Grade",
+ "value": "Niveau"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Incorrect",
+ "value": "Incorrecte(s)"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_incorrectperstudent",
+ "value": "Incorrecte(s) par élève"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_LastName",
+ "value": "Nom"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Lessons",
+ "value": "Leçons"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_LessonTitle",
+ "value": "Titre de la leçon"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_qsperstudent",
+ "value": "Questions par élève"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Questions",
+ "value": "Questions"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_StudentCode",
+ "value": "Code de l'élève"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Students",
+ "value": "Élèves"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Subject",
+ "value": "Matière"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Total",
+ "value": "Total"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Unanswered",
+ "value": "Sans réponse"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_unansweredperstudent",
+ "value": "Sans réponse par élève"
+     },
+
+ { "key": "ClassAssessmentReassigningReport_Unmarked",
+ "value": "Sans note"
+     },
+
+ { "key": "ClassCode",
+ "value": "Code de la classe"
+     },
+
+ { "key": "ClassCodeAlphanumericValidation",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "ClassCodeIsRequired",
+ "value": "Le code de la classe est manquant."
+     },
+
+ { "key": "ClassCodeLengthValidation",
+ "value": "Le code de la classe doit comporter entre 1 et 25 caractères."
+     },
+
+ { "key": "ClassCodemustnotstartorendwithComa",
+ "value": "Le code de la classe ne doit ni commencer ni se terminer par une virgule."
+     },
+
+ { "key": "ClassCoTeachers",
+ "value": "Co-enseignants"
+     },
+
+ { "key": "ClassCoursesLinking",
+ "value": "Liaison classe/cours"
+     },
+
+ { "key": "ClassCreatedMessage",
+ "value": "La classe a été créée avec succès."
+     },
+
+ { "key": "ClassDeletedMessage",
+ "value": "La classe a été supprimée avec succès. Tout ce qui était associé à cette classe a été supprimé."
+     },
+
+ { "key": "Classes",
+ "value": "Classes"
+     },
+
+ { "key": "Classes1",
+ "value": "Classes"
+     },
+
+ { "key": "classes_small",
+ "value": "classes"
+     },
+
+ { "key": "ClassGrade",
+ "value": "Niveau"
+     },
+
+ { "key": "ClassHasUsers",
+ "value": "Impossible de supprimer cette classe. Il faut d'abord supprimer les élèves désignés."
+     },
+
+ { "key": "ClassID",
+ "value": "Code de la classe"
+     },
+
+ { "key": "ClassIdIsAlreadyExistInAnotherGrade",
+ "value": "Le code de la classe existe déjà dans un autre niveau."
+     },
+
+ { "key": "ClassIdNotExist",
+ "value": "Ce code de classe n'existe pas."
+     },
+
+ { "key": "ClassLinking",
+ "value": "Vous n'avez encore aucune classe. Pour établir un lien, vous devez d'abord créer une classe."
+     },
+
+ { "key": "ClassName",
+ "value": "Titre"
+     },
+
+ { "key": "ClassReport_All_Classses_One_Class_Per_Line",
+ "value": "Rapport : Toutes les classes » Une classe par ligne"
+     },
+
+ { "key": "ClassReport_All_Classses_One_Class_Per_Line_desc",
+ "value": "Ce rapport indique la performance de chaque classe d'après les questions reçues par les élèves lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "ClassReport_All_Classses_One_Class_Per_Line_Download",
+ "value": "Toutes les classes avec une classe par ligne"
+     },
+
+ 
+ { "key": "ClassReport_All_Classses_One_Class_Per_Line_Title",
+ "value": "Toutes les classes avec une classe par ligne"
+     },
+
+ { "key": "ClassReport_AverageScore",
+ "value": "Score moyen"
+     },
+
+ { "key": "ClassReport_Class",
+ "value": "Classe"
+     },
+
+ { "key": "ClassReport_ClassCode",
+ "value": "Code de la classe"
+     },
+
+ { "key": "ClassReport_Classes",
+ "value": "Classes"
+     },
+
+ { "key": "ClassReport_ClassTitle",
+ "value": "Titre de la classe"
+     },
+
+ { "key": "ClassReport_Class_Lesson_One_Student_Per_Line_Download",
+ "value": "Rapport : Classe » Leçon » Un élève par ligne"
+     },
+
+ { "key": "ClassReport_Class_Lesson_With_One_Student_Per_Line",
+ "value": "Rapport : Classe » Leçon » Un élève par ligne"
+     },
+
+ { "key": "ClassReport_Class_Lesson_With_One_Student_Per_Line_desc",
+ "value": "Ce rapport indique la performance des élèves dans des leçons spécifiques contenant les questions reçues par les élèves lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ 
+ { "key": "ClassReport_Class_student_With_One_Lesson_Per_Line",
+ "value": "Rapport : Classe » Élève » Une leçon par ligne"
+     },
+
+ { "key": "ClassReport_Class_student_With_One_Lesson_Per_Line_desc",
+ "value": "Ce rapport indique la performance d'un élève spécifique dans toutes les leçons qui contiennent les questions reçues lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "ClassReport_Class_Student_With_One_Lesson_Per_Line_Download",
+ "value": "Rapport : Classe » Élève » Une leçon par ligne"
+     },
+
+ 
+
+ { "key": "ClassReport_Class_With_One_Lesson_Per_Line",
+ "value": "Rapport : Classe » Une leçon par ligne"
+     },
+
+ { "key": "ClassReport_Class_With_One_Lesson_Per_Line_desc",
+ "value": "Ce rapport indique la performance d'une classe spécifique dans toutes les leçons qui contiennent les questions reçues par les élèves lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "ClassReport_Class_With_One_Lesson_Per_Line_Download",
+ "value": "Classe » Un élève par ligne"
+     },
+
+ 
+ { "key": "ClassReport_Class_With_One_Student_Per_Line",
+ "value": "Rapport : Classe » Un élève par ligne"
+     },
+
+ { "key": "ClassReport_Class_With_One_Student_Per_Line_desc",
+ "value": "Ce rapport indique la performance des élèves d'une classe spécifique. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "ClassReport_Class_With_One_Student_Per_Line_Download",
+ "value": "Rapport : Classe » Un élève par ligne"
+     },
+
+ { "key": "ClassReport_Correct",
+ "value": "Correcte(s)"
+     },
+
+ { "key": "ClassReport_CorrectPerStudent",
+ "value": "Correcte(s) par élève"
+     },
+
+ { "key": "ClassReport_FirstName",
+ "value": "Prénom"
+     },
+
+ { "key": "ClassReport_Grade",
+ "value": "Niveau"
+     },
+
+ { "key": "ClassReport_Grades",
+ "value": "Niveaux"
+     },
+
+ { "key": "ClassReport_Incorrect",
+ "value": "Incorrecte(s)"
+     },
+
+ { "key": "ClassReport_IncorrectPerStudent",
+ "value": "Incorrecte(s) par élève"
+     },
+
+ { "key": "ClassReport_LastName",
+ "value": "Nom"
+     },
+
+ { "key": "ClassReport_Lesson",
+ "value": "Lesson"
+     },
+
+ { "key": "ClassReport_Lessons",
+ "value": "Leçons"
+     },
+
+ { "key": "ClassReport_LessonTitle",
+ "value": "Titre de la leçon"
+     },
+
+ { "key": "ClassReport_Questions",
+ "value": "Questions"
+     },
+
+ { "key": "ClassReport_QuestionsPerStudent",
+ "value": "Questions par élève"
+     },
+
+ { "key": "ClassReport_Student",
+ "value": "Élève"
+     },
+
+ { "key": "ClassReport_StudentCode",
+ "value": "Code de l'élève"
+     },
+
+ { "key": "ClassReport_Students",
+ "value": "Élèves"
+     },
+
+ { "key": "ClassReport_Subject",
+ "value": "Matière"
+     },
+
+ { "key": "ClassReport_Total",
+ "value": "Total"
+     },
+
+ { "key": "ClassReport_Unanswered",
+ "value": "Sans réponse"
+     },
+
+ { "key": "ClassReport_UnansweredPerStudent",
+ "value": "Sans réponse par élève"
+     },
+
+ { "key": "ClassReport_Unmarked",
+ "value": "Sans note"
+     },
+
+ { "key": "ClassReport_ViewAssessments",
+ "value": "Évaluations"
+     },
+
+ { "key": "ClassReport_ViewLessons",
+ "value": "Leçons"
+     },
+
+ { "key": "ClassReport_ViewStudents",
+ "value": "Élèves"
+     },
+
+ { "key": "ClassSearchPlaceholder",
+ "value": "Tapez le code ou le nom de la classe."
+     },
+
+ { "key": "ClassStudentsLinking",
+ "value": "Lien classe/élèves"
+     },
+
+ { "key": "ClassSubject",
+ "value": "Matière"
+     },
+
+ { "key": "ClassTitle",
+ "value": "Titre de la classe"
+     },
+
+ { "key": "ClassUpdatedMessage",
+ "value": "La classe a été mise à jour avec succès."
+     },
+
+ { "key": "ClassWithNoStudentsMsg",
+ "value": "Cette classe n'a pas d'élèves."
+     },
+
+ { "key": "Clear",
+ "value": "Effacer"
+     },
+
+ { "key": "ClearFilter",
+ "value": "Limpar filtro"
+     },
+
+ { "key": "Close",
+ "value": "Fermer"
+     },
+
+ { "key": "Closed",
+ "value": "Fermé"
+     },
+
+ { "key": "Co-Teachers",
+ "value": "Co-enseignants"
+     },
+
+ { "key": "ColumnsOrderSpecificationsMessage",
+ "value": "Veuillez préciser lesquelles de ces colonnes correspondent aux prénoms et noms, niveaux, classes et identifiants des élèves."
+     },
+
+ { "key": "Comment",
+ "value": "Commentaire"
+     },
+
+ { "key": "Comments",
+ "value": "Commentaires"
+     },
+
+ { "key": "Company",
+ "value": "Société"
+     },
+
+ { "key": "ConfigureContentRestrictionTitle",
+ "value": "Configurer la restriction du contenu"
+     },
+
+ { "key": "ConfirmNewPassword",
+ "value": "Confirmer le nouveau mot de passe"
+     },
+
+ { "key": "ConfirmPassword",
+ "value": "Confirmer le mot de passe"
+     },
+
+ { "key": "ConfirmPasswordnotMatch",
+ "value": "Les deux mots de passe ne correspondent pas. Veuillez réessayer."
+     },
+
+ { "key": "ConnectVideos",
+ "value": "Vidéos de Connect"
+     },
+
+ { "key": "ContactUsFileSize",
+ "value": "La pièce jointe doit être de moins de 10 Mo."
+     },
+
+ { "key": "ContactUsMaximumLengthMessage",
+ "value": "Le message doit comporter moins de 2000 caractères."
+     },
+
+ { "key": "ContactUsSucessMessage",
+ "value": "Votre message a été envoyé avec succès."
+     },
+
+ { "key": "ContactUSTitle",
+ "value": "Nous contacter"
+     },
+
+ { "key": "ContactUs_InvalidFileFormat",
+ "value": "Format de fichier non valide."
+     },
+
+ { "key": "Contact_AttachFile",
+ "value": "Joindre un fichier"
+     },
+
+ { "key": "Contact_Attachment",
+ "value": "Pièce jointe"
+     },
+
+ { "key": "Contact_ContactInformation",
+ "value": "Information de contact"
+     },
+
+ { "key": "Contact_CustomerServices",
+ "value": "Service client"
+     },
+
+ { "key": "Contact_CustomerServicesNumber",
+ "value": "44 (0) 1753 832522"
+     },
+
+ { "key": "Contact_GeneralEnquiries",
+ "value": "Renseignements Généraux"
+     },
+
+ { "key": "Contact_GeneralEnquiriesNumber",
+ "value": "44 (0) 1753 874445"
+     },
+
+ { "key": "Contact_Message",
+ "value": "Message"
+     },
+
+ { "key": "Contact_Sales",
+ "value": "Ventes"
+     },
+
+ { "key": "Contact_SalesNumber",
+ "value": "44 (0) 1753 832226"
+     },
+
+ { "key": "Contact_SendAMessage",
+ "value": "Envoyer un message"
+     },
+
+ { "key": "Content",
+ "value": "Contenu"
+     },
+
+ { "key": "Contentconfiguration",
+ "value": "Configuration du contenu"
+     },
+
+ { "key": "Copyright",
+ "value": "Copyright &amp;copy; {0} Nagwa"
+     },
+
+ { "key": "Correct",
+ "value": "Correcte"
+     },
+
+ { "key": "CorrectAnswer",
+ "value": "La bonne réponse est"
+     },
+
+ { "key": "CorrectPerStudent",
+ "value": "Correcte(s) par élève"
+     },
+
+ { "key": "Coteacher",
+ "value": "co-enseignants"
+     },
+
+ { "key": "Country",
+ "value": "Pays"
+     },
+
+ { "key": "Course",
+ "value": "Cours"
+     },
+
+ { "key": "LessonCourse1",
+ "value": "Cours"
+     },
+
+ { "key": "LessonCourse2",
+ "value": "Cours"
+     },
+
+ { "key": "LessonCourse3",
+ "value": "Cours"
+     },
+
+ { "key": "LessonCourse4",
+ "value": "Cours"
+     },
+
+ { "key": "LessonCourse5",
+ "value": "Cours"
+     },
+
+ { "key": "CourseContentsMessage",
+ "value": "Utilisez Nagwa en parallèle de votre manuel préféré. Les leçons de Nagwa recommandées pour chaque section de ce manuel sont fournies ci-dessous. Ce cours n'est pas affilié, parrainé ou approuvé par l'éditeur ou par les manuels de référence. Nagwa est une marque déposée de Nagwa Limited. Toutes les autres marques commerciales et marques déposées appartiennent à leurs propriétaires respectifs."
+     },
+
+ { "key": "CourseKeywords",
+ "value": "Mots clés du cours"
+     },
+
+ { "key": "CourseMenu",
+ "value": "Menu Cours"
+     },
+
+ { "key": "Courses",
+ "value": "Cours"
+     },
+
+ { "key": "CoursesPerformance_Class",
+ "value": "Classe"
+     },
+
+ { "key": "CoursesPerformance_Classes",
+ "value": "Classes"
+     },
+
+ { "key": "CoursesPerformance_Course",
+ "value": "Cours"
+     },
+
+ { "key": "CoursesPerformance_Courses",
+ "value": "Cours"
+     },
+
+ { "key": "CoursesPerformance_Grade",
+ "value": "Niveau"
+     },
+
+ { "key": "CoursesPerformance_Grades",
+ "value": "Niveaux"
+     },
+
+ { "key": "CoursesPerformance_Lesson",
+ "value": "Leçon"
+     },
+
+ { "key": "CoursesPerformance_Lessons",
+ "value": "Leçons"
+     },
+
+ { "key": "CoursesPerformance_No_of_Classes",
+ "value": "Nombre de classes"
+     },
+
+ { "key": "CoursesPerformance_No_of_Lessons",
+ "value": "Nombre de leçons"
+     },
+
+ { "key": "CoursesPerformance_No_of_students",
+ "value": "Nombre d'élèves"
+     },
+
+ { "key": "CoursesPerformance_No_of_students_In_Class",
+ "value": "Nombre d'élèves dans une classe"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line",
+ "value": "Un cours spécifique : Classe avec une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_",
+ "value": "Un cours spécifique : Élève avec une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Desc",
+ "value": "Ce rapport indique la performance de chaque leçon dans le cours spécifié ci-dessous, d'après les questions reçues par les élèves lors des évaluations (les élèves sont filtrés selon ceux qui sont désignés pour la classe spécifiée seulement). Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Description",
+ "value": "Ce rapport concerne le cours {0} avec une leçon par ligne."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Desc_worksheet",
+ "value": "Ce rapport indique la performance de chaque leçon dans le cours spécifié ci-dessous, d'après les questions reçues par les élèves dans les feuilles d'activités associées (les élèves sont filtrés selon ceux qui sont désignés pour la classe spécifiée seulement)."
+     },
+
+ 
+
+ 
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Report",
+ "value": "Cours spécifique » Classe » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Report_",
+ "value": "Rapport : Cours » Classe » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Title",
+ "value": "Rapport : Cours » Classe » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Title_worksheet",
+ "value": "Rapport : Cours » Classe » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line",
+ "value": "Un cours spécifique : Classe avec un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_desc",
+ "value": "Ce rapport indique la performance de chaque élève dans le cours spécifié ci-dessous d'après les questions reçues par les élèves lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Description",
+ "value": "Ce rapport concerne le cours {0} avec un élève par ligne."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_desc_worksheet",
+ "value": "Ce rapport indique la performance de chaque élève dans le cours spécifié ci-dessous d'après les questions reçues par les élèves dans les feuilles d’activités associées. (Les élèves sont filtrés selon ceux qui sont désignés pour la classe spécifiée seulement)."
+     },
+
+ 
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Title",
+ "value": "Rapport : Cours » Classe » Un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Title_worksheet",
+ "value": "Rapport : Cours » Classe » Un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line",
+ "value": "Un cours spécifique : Élève avec une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Desc",
+ "value": "Ce rapport indique la performance d'un élève spécifique pour chaque leçon du cours spécifié ci-dessous d'après les questions qu'il a reçues lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Description",
+ "value": "Ce rapport concerne le cours {0} avec une leçon par ligne."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Desc_worksheet",
+ "value": "Ce rapport indique la performance d'un élève spécifique pour chaque leçon du cours spécifié ci-dessous d'après les questions qu'il a reçues dans les feuilles d'activités associées."
+     },
+
+ 
+ { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Title",
+ "value": "Rapport : Cours » Élève » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Title_worksheet",
+ "value": "Rapport : Cours » Élève » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line",
+ "value": "Un cours spécifique : Leçon avec un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_desc",
+ "value": "Ce rapport indique la performance d'un élève spécifique dans la leçon et le cours spécifiés ci-dessous d'après les questions qu'il a reçues dans les feuilles d'activités associées."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Description",
+ "value": "Ce rapport concerne le cours {0} avec un élève par ligne."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_desc_worksheet",
+ "value": "Ce rapport indique la performance de chaque élève dans la leçon et le cours spécifiés ci-dessous d'après les questions qu'il a reçues dans les feuilles d'activités associées."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Title",
+ "value": "Rapport : Leçon » Un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Title_worksheet",
+ "value": "Rapport : Cours » Leçon » Un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line",
+ "value": "Cours Performance Cours spécifique Une classe par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_desc",
+ "value": "Ce rapport indique le performance de chaque classe d'après les questions reçues par les élèves dans les évaluations associées aux leçons du cours spécifié ci-dessous. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Description",
+ "value": "Ce rapport concerne le cours {0} avec une classe par ligne."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_desc_worksheet",
+ "value": "Ce rapport indique la performance de chaque classe d'après les questions reçues par les élèves dans les feuilles d'activités associées aux leçons du cours spécifié ci-dessous."
+     },
+
+ 
+
+ { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Title",
+ "value": "Rapport : Cours » Une classe par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Title_worksheet",
+ "value": "Rapport : Cours » Une classe par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line",
+ "value": "Cours Performance Cours spécifique Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_desc",
+ "value": "Ce rapport indique la performance de chaque leçon d'après les questions reçues par les élèves dans les évaluations du cours spécifié ci-dessous. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Description",
+ "value": "Ce rapport indique la performance à chaque leçon d'après les questions reçues par les élèves dans les évaluations portant sur le cours spécifié ci-dessous. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_desc_worksheet",
+ "value": "Ce rapport indique la performance à chaque leçon du cours spécifié ci-dessous d'après les questions reçues par les élèves dans les feuilles d'activités associées."
+     },
+
+ 
+
+ { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Title",
+ "value": "Rapport : Cours » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Title_worksheet",
+ "value": "Rapport : Cours » Une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line",
+ "value": "Cours Performance Cours spécifique Un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_desc",
+ "value": "Ce rapport indique la performance de chaque élève dans le cours spécifié ci-dessous d'après les questions reçues par les élèves lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_desc_worksheet",
+ "value": "Ce rapport indique la performance de chaque élève dans le cours spécifié ci-dessous d'après les questions reçues par les élèves dans les feuilles d'activités associées."
+     },
+
+ 
+
+ { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_Title",
+ "value": "Rapport : Cours » Un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_Title_worksheet",
+ "value": "Rapport : Cours » Un élève par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_One_Studnet_Per_Line_Description",
+ "value": "Ce rapport concerne le cours {0} avec un élève par ligne."
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line",
+ "value": "Un cours spécifique-élève avec une leçon par ligne"
+     },
+
+ { "key": "CoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line_Description",
+ "value": "Ce rapport concerne le cours {0} avec une leçon par ligne."
+     },
+
+ { "key": "CoursesPerformance_Student",
+ "value": "Élève"
+     },
+
+ { "key": "CoursesPerformance_Students",
+ "value": "Élèves"
+     },
+
+ { "key": "CoursesPerformance_Total",
+ "value": "Total"
+     },
+
+ { "key": "courses_small",
+ "value": "cours"
+     },
+
+ { "key": "CourseTitle",
+ "value": "Titre du cours"
+     },
+
+ { "key": "Create",
+ "value": "CRÉER"
+     },
+
+ { "key": "CreateAndAssign",
+ "value": "CRÉER ET ASSIGNER"
+     },
+
+ { "key": "CreateAssessment",
+ "value": "Créer une évaluation"
+     },
+
+ { "key": "CreateAssessmentTitleForEducator",
+ "value": "Créer des évaluations"
+     },
+
+ { "key": "CreateAssessment_BrowseLesson",
+ "value": "Parcourir les leçons"
+     },
+
+ { "key": "CreateAssignment",
+ "value": "NOUVEL EXAMEN À PASSER"
+     },
+
+ { "key": "CreateClass",
+ "value": "Créer une classe"
+     },
+
+ { "key": "CreateClassFirst",
+ "value": "Créer une classe"
+     },
+
+ { "key": "CreatedBy",
+ "value": "Créée par"
+     },
+
+ { "key": "CreatedQuestions",
+ "value": "Questions créées"
+     },
+
+ { "key": "CreateGrade",
+ "value": "Créer un niveau"
+     },
+
+ { "key": "CreateNewClass",
+ "value": "Créer une classe"
+     },
+
+ { "key": "CreateNewYear",
+ "value": "Créer un niveau"
+     },
+
+ { "key": "CreatePassword",
+ "value": "Créer un mot de passe"
+     },
+
+ { "key": "CreateStudents",
+ "value": "Créer des élèves"
+     },
+
+ { "key": "CreateTutoringSession",
+ "value": "CRÉER"
+     },
+
+ { "key": "CreationDate",
+ "value": "Date de création"
+     },
+
+ { "key": "CSV",
+ "value": "CSV"
+     },
+
+ { "key": "D",
+ "value": "D"
+     },
+
+ { "key": "Dashboard",
+ "value": "Tableau de bord"
+     },
+
+ { "key": "Date",
+ "value": "Date"
+     },
+
+ { "key": "Day",
+ "value": "Jour"
+     },
+
+ { "key": "Deactivate",
+ "value": "Désactiver"
+     },
+
+ { "key": "DeactivateConfirmMessage",
+ "value": "Désactiver le niveau"
+     },
+
+ { "key": "Deactivated",
+ "value": "Désactivé"
+     },
+
+ { "key": "DeactivatedEducatorLoginMessage",
+ "value": "Le compte de cet utilisateur est désactivé."
+     },
+
+ { "key": "DeactivateEducator",
+ "value": "Désactiver l'éducateur"
+     },
+
+ { "key": "DeactivateEducatorConfirmQuestion",
+ "value": "Êtes-vous sûr de vouloir désactiver cet éducateur ?"
+     },
+
+ { "key": "DeactivateEducatorError",
+ "value": "Échec de la désactivation de cet utilisateur."
+     },
+
+ { "key": "DeactivateEducatorSuccess",
+ "value": "L'éducateur a été désactivé avec succès. La modification peut mettre quelques minutes pour prendre effet."
+     },
+
+ { "key": "DeactivateWarningMessage",
+ "value": "Êtes-vous sûr de vouloir désactiver ce niveau ?"
+     },
+
+ { "key": "December",
+ "value": "Décembre"
+     },
+
+ { "key": "DefaultVideosSubtitles",
+ "value": "Sous-titres de vidéo par défaut"
+     },
+
+ { "key": "Delete",
+ "value": "Supprimer"
+     },
+
+ { "key": "Deletecomment",
+ "value": "Supprimer le commentaire"
+     },
+
+ { "key": "DeleteCommentErrorMsg",
+ "value": "Ce commentaire a été supprimé."
+     },
+
+ { "key": "DeleteCommentMsg",
+ "value": "Êtes-vous sûr de vouloir supprimer ce commentaire ?"
+     },
+
+ { "key": "DeleteConfirmMessage",
+ "value": "Êtes-vous sûr de vouloir supprimer cette évaluation ?"
+     },
+
+ { "key": "DeletedClassMessage",
+ "value": "Êtes-vous sûr de vouloir supprimer cette évaluation ?"
+     },
+
+ { "key": "DeletedFileMsg",
+ "value": "Ce fichier a été retiré."
+     },
+
+ { "key": "DeleteFile",
+ "value": "Supprimer le fichier"
+     },
+
+ { "key": "deleteGradeConfirmMessage",
+ "value": "Êtes-vous sûr de vouloir supprimer cette évaluation ?"
+     },
+
+ { "key": "DeleteLessonConfirmation",
+ "value": "Êtes-vous sûr de vouloir supprimer cette leçon ?"
+     },
+
+ { "key": "DeleteLessonSuccessMessage",
+ "value": "La Leçon a été supprimée avec succès."
+     },
+
+ { "key": "DeletePortalQuestionSuccessMessage",
+ "value": "La question a été supprimée avec succès."
+     },
+
+ { "key": "Deletepost",
+ "value": "Supprimer la publication"
+     },
+
+ { "key": "DeletePostMsg",
+ "value": "Êtes-vous sûr de vouloir supprimer cette publication ?"
+     },
+
+ { "key": "DeleteQuestion",
+ "value": "Supprimer la question"
+     },
+
+ { "key": "DeleteQuestionConfirmMsg",
+ "value": "Êtes-vous sûr de vouloir supprimer cette question ?"
+     },
+
+ { "key": "deleteQuestionWentWrong",
+ "value": "Échec de la suppression de cette question. Veuillez réessayer."
+     },
+
+ { "key": "DeleteStudent",
+ "value": "Supprimer"
+     },
+
+ { "key": "DeleteStudentConfirmMessage",
+ "value": "Êtes-vous sûr de vouloir supprimer ce compte ?"
+     },
+
+ { "key": "DeleteStudentMg",
+ "value": "L'élève a été supprimé."
+     },
+
+ { "key": "Deletevideo",
+ "value": "Supprimer la vidéo"
+     },
+
+ { "key": "DeleteVideoMsg",
+ "value": "Êtes-vous sûr de vouloir supprimer cette vidéo ? Une fois supprimée, vous ne pourrez plus la récupérer."
+     },
+
+ { "key": "DeleteWaningMessage",
+ "value": "Une fois supprimée, vous ne pourrez plus la récupérer."
+     },
+
+ { "key": "DisplayColumns",
+ "value": "Colonnes d'affichage"
+     },
+
+ { "key": "Distractor",
+ "value": "Distracteur"
+     },
+
+ { "key": "Done",
+ "value": "Terminé"
+     },
+
+ { "key": "Download",
+ "value": "Télécharger"
+     },
+
+ { "key": "DownloadSheetWithErrors",
+ "value": "Nous avons détecté certaines erreurs. Veuillez &lt;a href={0}&gt;télécharger la fiche&lt;/a&gt; pour corriger les erreurs puis essayez de la charger à nouveau."
+     },
+
+ { "key": "Draft",
+ "value": "Brouillon"
+     },
+
+ { "key": "DroporBrowse",
+ "value": "Déposer des fichiers ou parcourir"
+     },
+
+ { "key": "droporbrowseImage",
+ "value": "Déposer une image ou naviguer"
+     },
+
+ { "key": "DueDate",
+ "value": "Date limite"
+     },
+
+ { "key": "DueDateLessthanOldDueDate",
+ "value": "La date ou l'heure limite doit être ultérieure à l'ancienne."
+     },
+
+ { "key": "DueDateToPortalTimeValidation",
+ "value": "La date ou l'heure limite doit être ultérieure à la date et l'heure du portail."
+     },
+
+ { "key": "DuplicateClassID",
+ "value": "Ce code est déjà utilisé. Veuillez en choisir un autre."
+     },
+
+ { "key": "DuplicateClassIDAndTitle",
+ "value": "Le code et le titre sont déjà utilisés. Veuillez en choisir d'autres."
+     },
+
+ { "key": "DuplicateClassTitle",
+ "value": "Ce titre est déjà utilisé. Veuillez en choisir un autre."
+     },
+
+ { "key": "DuplicateDistractors",
+ "value": "Vous ne pouvez pas entrer la même valeur deux fois."
+     },
+
+ { "key": "DuplicateEducatorEmail",
+ "value": "Cette adresse e-mail est déjà utilisée. Veuillez en choisir une autre."
+     },
+
+ { "key": "Duplicatefirstandlastnamecombinations",
+ "value": "Le prénom et le nom sont des doublons. Veuillez saisir un nom différent."
+     },
+
+ { "key": "DuplicateGradeID",
+ "value": "Ce code est déjà utilisé. Veuillez en choisir un autre."
+     },
+
+ { "key": "DuplicateGradeIDAndTitle",
+ "value": "Le code et le titre sont déjà utilisés. Veuillez en choisir d'autres."
+     },
+
+ { "key": "DuplicateGradeTitle",
+ "value": "Ce titre est déjà utilisé. Veuillez en choisir un autre."
+     },
+
+ { "key": "DuplicateStudentID",
+ "value": "Cet ID existe déjà. Veuillez en saisir un autre."
+     },
+
+ { "key": "DuplicateUserName",
+ "value": "Ce nom d'utilisateur est déjà utilisé. Veuillez en utiliser un autre."
+     },
+
+ { "key": "Duration",
+ "value": "Durée"
+     },
+
+ { "key": "DurationPercentageSpentbyStudentFromTheSession",
+ "value": "% de la durée passée par les élèves à la séance"
+     },
+
+ { "key": "DurationTimeValidation",
+ "value": "La durée du quiz ne doit pas dépasser la durée totale de l'évaluation (la différence entre la date limite et la date de début)"
+     },
+
+ { "key": "DurationValidation",
+ "value": "Veuillez entrer un nombre valide."
+     },
+
+ { "key": "E",
+ "value": "E"
+     },
+
+ { "key": "Edit",
+ "value": "Modifier"
+     },
+
+ { "key": "EditAssessment",
+ "value": "Modifier l'évaluation"
+     },
+
+ { "key": "EditAssessmentStep1",
+ "value": "Modifier l'évaluation - Étape 1 sur 3 : ajouter des informations générales"
+     },
+
+ { "key": "EditAssignAssessment",
+ "value": "Modifier les élèves ou la date"
+     },
+
+ { "key": "EditAssignment",
+ "value": "Modifier"
+     },
+
+ { "key": "EditClass",
+ "value": "Modifier la classe"
+     },
+
+ { "key": "EditEducator",
+ "value": "Modifier l'éducateur"
+     },
+
+ { "key": "EditExamAssignment",
+ "value": "Modifier l'examen à passer"
+     },
+
+ { "key": "EditingPortalQuestionMessage",
+ "value": "La question a été modifiée avec succès."
+     },
+
+ { "key": "EditMarks",
+ "value": "EditMarks"
+     },
+
+ { "key": "EditPortal",
+ "value": "Modifier"
+     },
+
+ { "key": "EditPortal_Add",
+ "value": "Ajouter"
+     },
+
+ { "key": "EditPortal_AddSubject",
+ "value": "Ajouter une matière"
+     },
+
+ { "key": "EditPortal_Cancel",
+ "value": "Annuler"
+     },
+
+ { "key": "EditPortal_CanNotRemoveMsg",
+ "value": "Vous ne pouvez pas supprimer cette matière. Vous devez d'abord dissocier les classes, les éducateurs ou les évaluations liées à cette matière."
+     },
+
+ { "key": "EditPortal_EditSubject",
+ "value": "Modifier une matière"
+     },
+
+ { "key": "EditPortal_Ok",
+ "value": "OK"
+     },
+
+ { "key": "EditPortal_RemoveSubject",
+ "value": "Supprimer une matière"
+     },
+
+ { "key": "EditPortal_Save",
+ "value": "ENREGISTRER"
+     },
+
+ { "key": "EditPortal_SelectAtLeasrOneSubject",
+ "value": "Vous devez sélectionner une ou plusieurs matières."
+     },
+
+ { "key": "EditPortal_SelectDefaultSubtitles",
+ "value": "Sélectionner les sous-titres par défaut"
+     },
+
+ { "key": "EditPortal_SubjectName",
+ "value": "Nom de la matière"
+     },
+
+ { "key": "EditPortal_Subjects",
+ "value": "Matières"
+     },
+
+ { "key": "EditPortal_TheSubjectAlreadyExists",
+ "value": "La matière existe déjà."
+     },
+
+ { "key": "EditPortal_ThisFieldIsRequired",
+ "value": "Ce champ est obligatoire."
+     },
+
+ { "key": "EditQuestion",
+ "value": "Modifier la question"
+     },
+
+ { "key": "EditQuestionWentWrong",
+ "value": "Échec de la modification de cette question. Veuillez réessayer."
+     },
+
+ { "key": "EditStudent",
+ "value": "Modifier l'élève"
+     },
+
+ { "key": "EditStudents",
+ "value": "Modifier les élèves"
+     },
+
+ { "key": "EditTutoringSession",
+ "value": "MODIFIER LA SÉANCE"
+     },
+
+ { "key": "EditYear",
+ "value": "Modifier le niveau"
+     },
+
+ { "key": "Edit_Portal_Ok",
+ "value": "OK"
+     },
+
+ { "key": "EducatorCreatedMessage",
+ "value": "Le compte de l'éducateur a été créé avec succès. La modification peut mettre quelques minutes pour prendre effet."
+     },
+
+ { "key": "EducatorFailedToUpdateMessage",
+ "value": "Échec de la mise à jour des informations de l'éducateur. Veuillez réessayer."
+     },
+
+ { "key": "EducatorFirstName",
+ "value": "Prénom"
+     },
+
+ { "key": "EducatorLastName",
+ "value": "Nom"
+     },
+
+ { "key": "Educatorname",
+ "value": "Tapez le prénom ou le nom de l'éducateur."
+     },
+
+ { "key": "EducatorNotAllowToCreateAssessment",
+ "value": "Vous devez créer une classe avant de créer une évaluation."
+     },
+
+ { "key": "EducatorNotAllowToCreateExamAssignment",
+ "value": "Vous devez créer une classe avant de créer un examen à passer."
+     },
+
+ { "key": "Educators",
+ "value": "Éducateurs"
+     },
+
+ { "key": "EducatorSearchPlaceholder",
+ "value": "Tapez le prénom ou le nom de l'éducateur."
+     },
+
+ { "key": "EducatorsUsageReports",
+ "value": "Rapport de l'utilisation de l'éducateur"
+     },
+
+ { "key": "educators_small",
+ "value": "éducateurs"
+     },
+
+ { "key": "EducatorUpdatedMessage",
+ "value": "Les informations de l'éducateur ont été mises à jour avec succès. Ceci peut mettre quelques minutes pour entrer en vigueur."
+     },
+
+ { "key": "Email",
+ "value": "E-mail"
+     },
+
+ { "key": "Email/Username",
+ "value": "E-mail/Nom d'utilisateur"
+     },
+
+ { "key": "EmailAddress",
+ "value": "Adresse e-mail"
+     },
+
+ { "key": "EmailSendMessage",
+ "value": "Si l'adresse e-mail que vous avez saisie est associée au portail de votre école, une adresse e-mail vous sera envoyée avec les instructions de réinitialisation du mot de passe."
+     },
+
+ { "key": "EmailValidationMessage",
+ "value": "Veuillez saisir une adresse e-mail valide."
+     },
+
+ { "key": "en",
+ "value": "Anglais"
+     },
+
+ { "key": "Ended",
+ "value": "Terminée"
+     },
+
+ { "key": "EndOfPeriod",
+ "value": "Fin de la période"
+     },
+
+ { "key": "EnterAtleast2Answers",
+ "value": "Veuillez saisir au moins {0} réponses."
+     },
+
+ { "key": "EnterAValidAnswer",
+ "value": "Veuillez saisir une réponse valide."
+     },
+
+ { "key": "EnterNameMsg",
+ "value": "Entrez un nom pour le fichier."
+     },
+
+ { "key": "EnterTitleErrorMessage",
+ "value": "Vous devez entrer un titre pour la leçon."
+     },
+
+ { "key": "ErrorMsg_MarkGraterThanFullMark",
+ "value": "Ceci dépasse le score maximum."
+     },
+
+ { "key": "es",
+ "value": "Espagnol"
+     },
+
+ { "key": "EssayQuestionHint",
+ "value": "Cette question doit être notée par l'éducateur."
+     },
+
+ { "key": "Exam",
+ "value": "Examen"
+     },
+
+ { "key": "ExamAssignmentDeletedMessage",
+ "value": "L'examen à passer a été supprimé."
+     },
+
+ { "key": "ExamAssignments",
+ "value": "Examens assignés"
+     },
+
+ { "key": "ExamAssignments_small",
+ "value": "examen assigné"
+     },
+
+ { "key": "ExamAssignmentTitle",
+ "value": "Titre de l'examen"
+     },
+
+ { "key": "ExamAssignmentValidationMessage",
+ "value": "Il est impossible de créer un examen à passer sans avoir d'abord désigné une/des classe(s) ou un/des élève(s)."
+     },
+
+ { "key": "ExamDurationTimeValidation",
+ "value": "La durée ne doit pas dépasser la durée totale de l'examen à passer (la différence entre la date limite et la date de début)"
+     },
+
+ { "key": "ExamPaper",
+ "value": "Examen"
+     },
+
+ { "key": "ExamPortalTimeDuration",
+ "value": "ExamPortalTimeDuration"
+     },
+
+ { "key": "ExamQuestionVideoMarkScheme",
+ "value": "Modèle des notes"
+     },
+
+ { "key": "ExamQuestionVideoModelAnswer",
+ "value": "Réponse type"
+     },
+
+ { "key": "ExamQuestionVideoStudentPen",
+ "value": "Réponse de l'élève"
+     },
+
+ { "key": "ExamQuestionVideoTeacherComments",
+ "value": "Commentaires des enseignants"
+     },
+
+ { "key": "Exams",
+ "value": "Examen"
+     },
+
+ { "key": "ExamSearchPlaceholder",
+ "value": "Tapez le titre de l'offre groupée."
+     },
+
+ { "key": "ExamsKeywords",
+ "value": "Mots clés de l'examen"
+     },
+
+ { "key": "ExamTitle",
+ "value": "Titre"
+     },
+
+ { "key": "ExcelFile",
+ "value": "Fichier Excel"
+     },
+
+ { "key": "ExpiryTime",
+ "value": "Heure d'expiration du quiz"
+     },
+
+ { "key": "Explainer",
+ "value": "Fiche explicative"
+     },
+
+ { "key": "Explainers",
+ "value": "Fiches explicatives"
+     },
+
+ { "key": "explainers_small",
+ "value": "fiches explicatives"
+     },
+
+ { "key": "Extend",
+ "value": "Prolonger"
+     },
+
+ { "key": "ExtendAssessmentDueDate",
+ "value": "Repousser la date limite de l'évaluation"
+     },
+
+ { "key": "ExtendDueDateSelectedStudents",
+ "value": "Sélectionnez les élèves pour lesquels vous souhaitez repousser la date limite dans les colonnes suivantes."
+     },
+
+ { "key": "F",
+ "value": "F"
+     },
+
+ { "key": "FailDeleteQuestionsMsg",
+ "value": "Vous ne pouvez pas supprimer cette question car elle a été utilisée dans des évaluations précédentes."
+     },
+
+ { "key": "Failed",
+ "value": "Échec"
+     },
+
+ { "key": "FailEditQuestionsMsg",
+ "value": "Vous ne pouvez pas modifier cette question car elle a été utilisée dans des évaluations précédentes."
+     },
+
+ { "key": "FailedToContactMessage",
+ "value": "Votre message n'a pas été envoyé. Veuillez réessayer."
+     },
+
+ { "key": "Failed_QuestionStatus",
+ "value": "Échec"
+     },
+
+ { "key": "February",
+ "value": "Février"
+     },
+
+ { "key": "File",
+ "value": "Fichier"
+     },
+
+ { "key": "File1",
+ "value": "1 fichier (nbre) fichiers"
+     },
+
+ { "key": "FileExtensionFormatMessage",
+ "value": "Format de fichier non valide."
+     },
+
+ { "key": "FileExtensionValidationMessage",
+ "value": "Format de fichier non valide. Veuillez insérer uniquement des fichiers jpg, png, jpeg et svg."
+     },
+
+ { "key": "FileIsSharedMsg",
+ "value": "Ce fichier peut être partagé avec d'autres classes. Êtes-vous sûr de vouloir le supprimer ?"
+     },
+
+ { "key": "FileLengthMsg",
+ "value": "Le fichier est trop volumineux. Il ne devrait pas dépasser {0} Go."
+     },
+
+ { "key": "FileNameLengthMsg",
+ "value": "Le fichier ne doit pas dépasser {0} Mo."
+     },
+
+ { "key": "Files",
+ "value": "Fichier"
+     },
+
+ { "key": "files_small",
+ "value": "fichiers"
+     },
+
+ { "key": "file_small",
+ "value": "fichier"
+     },
+
+ { "key": "FillRequiredData",
+ "value": "Veuillez remplir les champs manquants."
+     },
+
+ { "key": "Finish",
+ "value": "FINIR"
+     },
+
+ { "key": "FirstName",
+ "value": "Prénom"
+     },
+
+ { "key": "FirstNameIsRequired",
+ "value": "Ce champ est obligatoire."
+     },
+
+ { "key": "FirstNameLengthValidation",
+ "value": "Le prénom doit comporter entre 1 et 50 caractères."
+     },
+
+ { "key": "FirstNameValidation",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "footerExplainers",
+ "value": "Fiches explicatives"
+     },
+
+ { "key": "ForgotPassword",
+ "value": "Mot de passe oublié ?"
+     },
+
+ { "key": "fr",
+ "value": "Français"
+     },
+
+ { "key": "G",
+ "value": "G"
+     },
+
+ { "key": "GB",
+ "value": "Go"
+     },
+
+ { "key": "GoHome",
+ "value": "Aller à l'accueil"
+     },
+
+ { "key": "Grade",
+ "value": "Niveau"
+     },
+
+ { "key": "GradeCreatedMessage",
+ "value": "Le niveau a été ajouté avec succès."
+     },
+
+ { "key": "GradeDeletedMessage",
+ "value": "Le niveau a été supprimé avec succès."
+     },
+
+ { "key": "GradeID",
+ "value": "Code du niveau"
+     },
+
+ { "key": "GradeIdNotExist",
+ "value": "Ce code du niveau n'existe pas."
+     },
+
+ { "key": "GradeSearchPlaceholder",
+ "value": "Tapez le code ou le nom du niveau."
+     },
+
+ { "key": "GradeUpdatedMessage",
+ "value": "Le niveau a été mis à jour avec succès."
+     },
+
+ { "key": "Homepage",
+ "value": "ACCUEIL"
+     },
+
+ { "key": "Hour",
+ "value": "Heure"
+     },
+
+ { "key": "ID",
+ "value": "ID"
+     },
+
+ { "key": "Image",
+ "value": "Images"
+     },
+
+ { "key": "Image1",
+ "value": "Images"
+     },
+
+ { "key": "Image2",
+ "value": "Images"
+     },
+
+ { "key": "ImageAttachmentsCount",
+ "value": "Nombre d'images jointes"
+     },
+
+ { "key": "Images",
+ "value": "Images"
+     },
+
+ { "key": "ImagesUploaded",
+ "value": "Images chargées"
+     },
+
+ { "key": "IncludeOneLetterValidationMessage",
+ "value": "Doit contenir au moins une lettre."
+     },
+
+ { "key": "Incorrect",
+ "value": "Incorrecte(s)"
+     },
+
+ { "key": "IncorrectPerStudent",
+ "value": "Incorrecte(s) par élève"
+     },
+
+ { "key": "Individual",
+ "value": "Individuel"
+     },
+
+ { "key": "InProgress",
+ "value": "En cours"
+     },
+
+ { "key": "inputTooShortForLesson",
+ "value": "Veuillez entrer 3 caractères ou plus."
+     },
+
+ { "key": "InsertDataIntoExcel",
+ "value": "Le fichier est vide. Veuillez remplir le modèle et charger à nouveau le fichier."
+     },
+
+ { "key": "InternalServerError",
+ "value": "Erreur interne du serveur. Veuillez réessayer plus tard."
+     },
+
+ { "key": "InvalidAnswerFormat",
+ "value": "Format de réponse non valide. Veuillez réessayer."
+     },
+
+ { "key": "InvalidEmailOrPassword",
+ "value": "InvalidEmailOrPassword"
+     },
+
+ { "key": "InvalidFileExtension",
+ "value": "Format de fichier non valide. Seuls les fichiers .xlsx sont pris en charge."
+     },
+
+ { "key": "InvalidFileExtensionMsg",
+ "value": "Échec du chargement. Ce format de fichier est non pris en charge."
+     },
+
+ { "key": "InvalidFileFormat",
+ "value": "Format de fichier non valide."
+     },
+
+ { "key": "InvalidGradeId",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "InvalidImageFormat",
+ "value": "Format de fichier non valide. Veuillez insérer uniquement les formats JPEG, PNG, JPG, SVG."
+     },
+
+ { "key": "InvalidImageSize",
+ "value": "La taille maximale du fichier est de 2 Mo."
+     },
+
+ { "key": "InvalidMail",
+ "value": "Veuillez saisir une adresse e-mail valide."
+     },
+
+ { "key": "InvalidMailForAddEducator",
+ "value": "Veuillez saisir une adresse e-mail valide."
+     },
+
+ { "key": "InvalidModelAnswerFormat",
+ "value": "Format de réponse non valide. Veuillez réessayer."
+     },
+
+ { "key": "InvalidNumberOfUploadedColumns",
+ "value": "Le nombre de colonnes doit correspondre à celui du modèle."
+     },
+
+ { "key": "InvalidPassword",
+ "value": "Le mot de passe est incorrect. Veuillez réessayer."
+     },
+
+ { "key": "InvalidQuestionFormat",
+ "value": "Format de question non valide. Veuillez réessayer."
+     },
+
+ { "key": "January",
+ "value": "Janvier"
+     },
+
+ { "key": "JoinedStudentsCount",
+ "value": "Nombre d'élèves participants"
+     },
+
+ { "key": "July",
+ "value": "Juillet"
+     },
+
+ { "key": "June",
+ "value": "Juin"
+     },
+
+ { "key": "KB",
+ "value": "Ko"
+     },
+
+ { "key": "Key",
+ "value": "Key"
+     },
+
+ { "key": "Language",
+ "value": "Langue"
+     },
+
+ { "key": "LanguageNotSupported",
+ "value": "Cette langue n'est pas prise en charge par votre portail. Si vous souhaitez afficher cette page avec la langue sélectionnée, veuillez visiter www.nagwa.com lorsque vous êtes déconnecté."
+     },
+
+ { "key": "LanguageTitle",
+ "value": "Français"
+     },
+
+ { "key": "LastActiveDate",
+ "value": "Dernière date d'activité"
+     },
+
+ { "key": "LastName",
+ "value": "Nom"
+     },
+
+ { "key": "LastNameIsRequired",
+ "value": "Ce champ est obligatoire."
+     },
+
+ { "key": "LastNameLengthValidation",
+ "value": "Le nom doit comporter entre 1 et 50 caractères."
+     },
+
+ { "key": "LastNameValidation",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "LastUpdated",
+ "value": "Dernière modification :"
+     },
+
+ { "key": "LengthValidationMessage",
+ "value": "Ce champ doit comporter entre {0} et {1} caractères."
+     },
+
+ { "key": "Lesson",
+ "value": "Leçon"
+     },
+
+ { "key": "LessonCreatedFailureMessage",
+ "value": "Échec de la création de la leçon. Veuillez réessayer."
+     },
+
+ { "key": "LessonCreatedSuccessMessage",
+ "value": "La leçon a été créée avec succès."
+     },
+
+ { "key": "LessonDuplicateTitleFailureMessage",
+ "value": "Ce titre existe déjà. Veuillez en saisir un autre."
+     },
+
+ { "key": "LessonExplainer",
+ "value": "Fiche explicative de la leçon"
+     },
+
+ { "key": "LessonGradesErrorMessage",
+ "value": "Vous ne pouvez créer de leçons qu'après avoir créé des niveaux."
+     },
+
+ { "key": "LessonID",
+ "value": "ID de la leçon"
+     },
+
+ { "key": "LessonPlan",
+ "value": "Plan de leçon"
+     },
+
+ { "key": "LessonPlans",
+ "value": "Plans de leçons"
+     },
+
+ { "key": "LessonPlans_Footer",
+ "value": "Plans"
+     },
+
+ { "key": "LessonPlans_small",
+ "value": "plans de leçons"
+     },
+
+ { "key": "LessonPlaylist",
+ "value": "Playlist de la leçon"
+     },
+
+ { "key": "LessonPresentation",
+ "value": "Présentation de la leçon"
+     },
+
+ { "key": "Lessons",
+ "value": "Leçons"
+     },
+
+ { "key": "LessonsInUse",
+ "value": "Leçons en usage"
+     },
+
+ { "key": "LessonsKeywords",
+ "value": "Mots clés de la leçon"
+     },
+
+ { "key": "LessonSubjectErrorMessage",
+ "value": "Sélectionnez d'abord la matière."
+     },
+
+ { "key": "LessonsUsed",
+ "value": "Leçons utilisées"
+     },
+
+ { "key": "Lessons_small",
+ "value": "leçons"
+     },
+
+ { "key": "LessonTitle",
+ "value": "Titre de la leçon"
+     },
+
+ { "key": "LessonTitleLengthErrorMessage",
+ "value": "Le titre ne doit pas dépasser 255 caractères."
+     },
+
+ { "key": "LessonTitlePlaceHolder",
+ "value": "Titre de la leçon"
+     },
+
+ { "key": "LessonVideo",
+ "value": "Vidéo de la leçon"
+     },
+
+ { "key": "LessonWorksheet",
+ "value": "Feuille d'activités de la leçon"
+     },
+
+ { "key": "LibraryHeader",
+ "value": "[{0}&amp;#8211;{1} de {2}]"
+     },
+
+ { "key": "LibrarySelectGrade",
+ "value": "Sélectionner un niveau"
+     },
+
+ { "key": "LibrarySelectSubject",
+ "value": "Sélectionner une matière"
+     },
+
+ { "key": "LibraryVideos",
+ "value": "Vidéos"
+     },
+
+ { "key": "LoadingMoreResults",
+ "value": "Chargement d'autres résultats"
+     },
+
+ { "key": "LoginPageSettings",
+ "value": "Paramètres du site web"
+     },
+
+ { "key": "LoginSettingSuccessMsg",
+ "value": "Les informations du portail ont été mises à jour avec succès."
+     },
+
+ { "key": "MailNotFound",
+ "value": "Nous n'avons pas pu trouver cette adresse e-mail dans notre registre. Veuillez en utiliser une autre."
+     },
+
+ { "key": "MailNotVerified",
+ "value": "Ce compte n'a pas encore été vérifié."
+     },
+
+ { "key": "March",
+ "value": "Mars"
+     },
+
+ { "key": "Mark",
+ "value": "NOTER"
+     },
+
+ { "key": "MarkingQuestion",
+ "value": "Notation des questions à réponse courte • Étape 1 sur 2 : aperçu des questions"
+     },
+
+ { "key": "Marks",
+ "value": "Notes"
+     },
+
+ { "key": "MarkStep2Title",
+ "value": "Notation des questions à réponse courte • Étape 2 sur 2 : notation de la question 1"
+     },
+
+ { "key": "Materials",
+ "value": "Matériaux"
+     },
+
+ { "key": "MaxAssignmentDurationValidation",
+ "value": "La durée de l'examen à passer est extrêmement longue."
+     },
+
+ { "key": "MaxDigits",
+ "value": "Vous ne pouvez pas ajouter plus de deux chiffres."
+     },
+
+ { "key": "MaxDurationValidation",
+ "value": "La durée du quiz est extrêmement longue."
+     },
+
+ { "key": "MaxGradeMessage",
+ "value": "Vous ne pouvez sélectionner qu'un seul niveau."
+     },
+
+ { "key": "MaximumClassMsg",
+ "value": "Vous ne pouvez sélectionner qu'une seule classe."
+     },
+
+ { "key": "MaximumGradeMsg",
+ "value": "Vous ne pouvez sélectionner qu'un seul niveau."
+     },
+
+ { "key": "MaximumSelectedlessons",
+ "value": "Vous ne pouvez sélectionner qu'une seule leçon."
+     },
+
+ { "key": "MaximumSubjectMsg",
+ "value": "Vous ne pouvez sélectionner qu'une seule matière."
+     },
+
+ { "key": "MaxlengthValidationMessage",
+ "value": "Veuillez ne pas dépasser {0} caractères."
+     },
+
+ { "key": "May",
+ "value": "Mai"
+     },
+
+ { "key": "MB",
+ "value": "Mo"
+     },
+
+ { "key": "Messages",
+ "value": "Publications"
+     },
+
+ { "key": "MetaDescription",
+ "value": "Regardez ces vidéos pour vous aider à comprendre comment utiliser au mieux notre produit."
+     },
+
+ { "key": "MinAssignmentDurationValidation",
+ "value": "La durée de l’examen à passer ne doit pas être inférieure à 1 minute."
+     },
+
+ { "key": "MinDurationValidation",
+ "value": "La durée du quiz ne doit pas être inférieure à 1 minute."
+     },
+
+ { "key": "MinExamDurationValidation",
+ "value": "La durée du quiz ne doit pas être inférieure à 1 minute."
+     },
+
+ { "key": "MinimumAnswersSelection",
+ "value": "Donnez au moins deux réponses."
+     },
+
+ { "key": "MinlengthValidationMessage",
+ "value": "Veuillez saisir au moins {0} caractères."
+     },
+
+ { "key": "Minute",
+ "value": "Minute"
+     },
+
+ { "key": "Minutes",
+ "value": "Minutes"
+     },
+
+ { "key": "ModelAnswer",
+ "value": "Réponse type"
+     },
+
+ { "key": "ModelAnswers",
+ "value": "Réponses types"
+     },
+
+ { "key": "Month",
+ "value": "mois"
+     },
+
+ { "key": "Multiple",
+ "value": "Plusieurs"
+     },
+
+ { "key": "MultipleChoice",
+ "value": "Choix multiples"
+     },
+
+ { "key": "MyAccount",
+ "value": "Mon compte"
+     },
+
+ { "key": "MyAssessments",
+ "value": "Mes évaluations"
+     },
+
+ { "key": "MyAssignments",
+ "value": "Mes devoirs"
+     },
+
+ { "key": "MYCLASSES",
+ "value": "Mes classes"
+     },
+
+ { "key": "MyFiles",
+ "value": "Mes fichiers"
+     },
+
+ { "key": "MyLessons",
+ "value": "Mes leçons"
+     },
+
+ { "key": "MyLibrary",
+ "value": "Ma bibliothèque"
+     },
+
+ { "key": "MyQuestions",
+ "value": "Mes questions"
+     },
+
+ { "key": "NagwaLogoName",
+ "value": "logo.svg"
+     },
+
+ { "key": "NagwaMission",
+ "value": "Nagwa est une start-up spécialisée dans les technologies de l'éducation qui a comme objectif d’aider les enseignants à enseigner et les élèves à apprendre."
+     },
+
+ { "key": "NagwaStudio",
+ "value": "Nagwa Studio"
+     },
+
+ { "key": "NagwaStudioAppBody",
+ "value": "Les éducateurs peuvent utiliser l'application Nagwa Studio pour créer leurs propres vidéos tutorielles à l'aide de notre tableau blanc numérique et les partager avec leurs élèves. Nagwa Studio est utilisée en collaboration avec les portails Nagwa."
+     },
+
+ { "key": "Name",
+ "value": "Nom"
+     },
+
+ { "key": "NameExistMsg",
+ "value": "Un fichier portant le même nom existe déjà."
+     },
+
+ { "key": "nav_apps",
+ "value": "Applications"
+     },
+
+ { "key": "NewAssessment",
+ "value": "Nouvelle évaluation"
+     },
+
+ { "key": "NewAssessmentAddGeneralInfo",
+ "value": "Nouvelle évaluation • Étape 1 sur 3 : ajouter des informations générales"
+     },
+
+ { "key": "NewAssessmentAddQuestions",
+ "value": "Nouvelle évaluation • Étape 2 sur 3 : ajouter des questions"
+     },
+
+ { "key": "NewAssessmentStep3",
+ "value": "Nouvelle évaluation • Étape 3 sur 3 : afficher un aperçu et envoyer"
+     },
+
+ { "key": "NewClass",
+ "value": "NOUVELLE CLASSE"
+     },
+
+ { "key": "NewEducator",
+ "value": "NOUVEL ÉDUCATEUR"
+     },
+
+ { "key": "NewExamAssignment",
+ "value": "Nouvel examen à passer"
+     },
+
+ { "key": "NewFile",
+ "value": "NOUVEAU FICHIER"
+     },
+
+ { "key": "NewGrade",
+ "value": "NOUVEAU NIVEAU"
+     },
+
+ { "key": "NewPassword",
+ "value": "Nouveau mot de passe"
+     },
+
+ { "key": "NewQuestion",
+ "value": "NOUVELLE QUESTION"
+     },
+
+ { "key": "NewStudent",
+ "value": "NOUVEL ÉLÉVE"
+     },
+
+ { "key": "NewTutoringSession",
+ "value": "NOUVELLE SÉANCE"
+     },
+
+ { "key": "NewYear",
+ "value": "NOUVEAU NIVEAU"
+     },
+
+ { "key": "Next",
+ "value": "Suivant"
+     },
+
+ { "key": "Next20Classes",
+ "value": "{0} classes suivantes / {0} classe suivante"
+     },
+
+ { "key": "NextStep",
+ "value": "ÉTAPE SUIVANTE"
+     },
+
+ { "key": "No",
+ "value": "Aucun"
+     },
+
+ { "key": "NoAnswer",
+ "value": "(Pas de réponse)"
+     },
+
+ { "key": "NoAttachedFile",
+ "value": "Il n'y a pas de fichier en pièce jointe."
+     },
+
+ { "key": "NoClassDetails",
+ "value": "Vous n'avez encore aucun élève ou éducateur ajouté à cette classe."
+     },
+
+ { "key": "noCommaMessage",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "NoContent",
+ "value": "Vous vous êtes aventuré trop loin dans le désert. Vous n'avez pas accès à cette page."
+     },
+
+ { "key": "NoCourseMessage",
+ "value": "Vous n'avez encore aucun cours ajouté à cette classe."
+     },
+
+ { "key": "NoCoursesyet",
+ "value": "Il n'y a aucun cours disponible."
+     },
+
+ { "key": "NoDataForItem",
+ "value": "Il n'y a aucune donnée pour cet élément."
+     },
+
+ { "key": "Nodefaultsubtitles",
+ "value": "Pas de sous-titres par défaut"
+     },
+
+ { "key": "NoEducatorFound",
+ "value": "Vous n'avez encore aucun éducateur."
+     },
+
+ { "key": "NoEducatorMatchClassSubject",
+ "value": "Aucun enseignant ne correspond encore à la matière de cette classe."
+     },
+
+ { "key": "NoEducatorMessage",
+ "value": "Vous n'avez encore aucun éducateur ajouté à cette classe."
+     },
+
+ { "key": "NoExamsFound",
+ "value": "Il n'y a aucun examen."
+     },
+
+ { "key": "NoFailedQuestions",
+ "value": "Vous n'avez aucune question dont le traitement a échoué."
+     },
+
+ { "key": "NoFilesMsg",
+ "value": "Aucun fichier trouvé."
+     },
+
+ { "key": "NoGradeAssignedToEducator",
+ "value": "Aucun niveau n'est encore assigné à cet éducateur."
+     },
+
+ { "key": "NoImageMsg",
+ "value": "Vous n'avez pas de matériaux."
+     },
+
+ { "key": "NoPostsMsg",
+ "value": "Il n'y a pas encore de publications dans cette classe."
+     },
+
+ { "key": "NoQuestionsMsg",
+ "value": "Vous n'avez pas de questions."
+     },
+
+ { "key": "NoResultsFound",
+ "value": "Aucun résultat trouvé."
+     },
+
+ { "key": "NoSearchResult",
+ "value": "Aucun résultat trouvé."
+     },
+
+ { "key": "NoSearchResults",
+ "value": "Aucun résultat trouvé."
+     },
+
+ { "key": "noSpaceForPasswordMessage",
+ "value": "Votre mot de passe ne peut ni commencer ni se terminer par une espace vide."
+     },
+
+ { "key": "noSpacesMessage",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "NoSpacesValidationMessage",
+ "value": "Pas d'espaces"
+     },
+
+ { "key": "NoStudentMessage",
+ "value": "Vous n'avez encore aucun élève ajouté à cette classe."
+     },
+
+ { "key": "NoSubjectAssignedToEducator",
+ "value": "Aucune matière n'est assignée à l'éducateur."
+     },
+
+ { "key": "NoSucceededQuestions",
+ "value": "Vous n'avez aucune question dont le traitement a réussi."
+     },
+
+ { "key": "November",
+ "value": "Novembre"
+     },
+
+ { "key": "NoVideos",
+ "value": "Aucune vidéo n'est disponible."
+     },
+
+ { "key": "NoYearsForEducatorClassAlignmentsLinking",
+ "value": "Il n'y a encore aucun niveau. Contactez l'administrateur de votre portail pour créer d'abord un niveau afin de pouvoir créer une classe."
+     },
+
+ { "key": "NumberofCorrectAnswers",
+ "value": "Correcte(s)"
+     },
+
+ { "key": "NumberofIncorrectAnswers",
+ "value": "Incorrecte(s)"
+     },
+
+ { "key": "NumberOfQuestions",
+ "value": "Nombre de questions"
+     },
+
+ { "key": "NumberofQuestionsinallassessments",
+ "value": "Questions"
+     },
+
+ { "key": "NumberofSkipped",
+ "value": "Sans réponse"
+     },
+
+ { "key": "October",
+ "value": "Octobre"
+     },
+
+ { "key": "of",
+ "value": "de"
+     },
+
+ { "key": "OK",
+ "value": "OK"
+     },
+
+ { "key": "OnePeriodStudentsActivity_description",
+ "value": "Ce rapport indique les détails des élèves actifs durant"
+     },
+
+ { "key": "Open",
+ "value": "Pas encore commencé"
+     },
+
+ { "key": "Opened",
+ "value": "Ouvert"
+     },
+
+ { "key": "Owner",
+ "value": "Propriétaire"
+     },
+
+ { "key": "Pack",
+ "value": "Pack"
+     },
+
+ { "key": "Pack1",
+ "value": "Pack"
+     },
+
+ { "key": "Packs",
+ "value": "Packs"
+     },
+
+ { "key": "PageNotExist",
+ "value": "La page à laquelle vous essayez d'accéder n'existe pas."
+     },
+
+ { "key": "PageNotFound",
+ "value": "Page introuvable"
+     },
+
+ { "key": "Paper",
+ "value": "Examen"
+     },
+
+ { "key": "paper1",
+ "value": "Examens"
+     },
+
+ { "key": "paper2",
+ "value": "Examens"
+     },
+
+ { "key": "paper3",
+ "value": "Examens"
+     },
+
+ { "key": "paper4",
+ "value": "Examens"
+     },
+
+ { "key": "PaperNotPublishedErrorMsg",
+ "value": "Cet examen n'est plus disponible."
+     },
+
+ { "key": "Password",
+ "value": "Mot de passe"
+     },
+
+ { "key": "PDFPaper",
+ "value": "Cet examen est au format PDF."
+     },
+
+ { "key": "PendingMarking",
+ "value": "En attente de correction"
+     },
+
+ { "key": "PendingMarkingPerStudent",
+ "value": "Sans note par élève"
+     },
+
+ { "key": "PerStudent",
+ "value": "par élève"
+     },
+
+ { "key": "PickLesson",
+ "value": "Choisissez une leçon à gauche et les questions correspondantes apparaîtront ici."
+     },
+
+ { "key": "Plan",
+ "value": "Plan"
+     },
+
+ { "key": "Plans",
+ "value": "Plans"
+     },
+
+ { "key": "Playlists",
+ "value": "Playlists"
+     },
+
+ { "key": "Playlists_small",
+ "value": "playlists"
+     },
+
+ { "key": "PortalEducators",
+ "value": "Éducateurs"
+     },
+
+ { "key": "PortalFailedToUpdateMessage",
+ "value": "Échec de la mise à jour des informations du portail. Veuillez réessayer."
+     },
+
+ { "key": "PortalId",
+ "value": "ID du portail"
+     },
+
+ { "key": "PortalInfo",
+ "value": "Profil du portail"
+     },
+
+ { "key": "PortalLogo",
+ "value": "Logo du portail"
+     },
+
+ { "key": "PortalName",
+ "value": "Nom du portail"
+     },
+
+ { "key": "PortalQuestion",
+ "value": "Question du portail"
+     },
+
+ { "key": "PortalStudents",
+ "value": "Élèves"
+     },
+
+ { "key": "PortalStudentsList",
+ "value": "Élèves"
+     },
+
+ { "key": "PortalUpdatedMessage",
+ "value": "Les informations du portail ont été mises à jour avec succès."
+     },
+
+ { "key": "PossibleAnswer",
+ "value": "Réponse possible"
+     },
+
+ { "key": "Post",
+ "value": "Publier"
+     },
+
+ { "key": "PostNotFound",
+ "value": "Cette publication a été supprimée ou n'existe plus."
+     },
+
+ { "key": "Posts",
+ "value": "Publications"
+     },
+
+ { "key": "PracticedWorksheets",
+ "value": "Feuilles d'activités travaillées"
+     },
+
+ { "key": "PracticeQuestion",
+ "value": "Question d'entraînement"
+     },
+
+ { "key": "Presentations",
+ "value": "Présentations"
+     },
+
+ { "key": "Presentations_small",
+ "value": "présentations"
+     },
+
+ { "key": "PresetSessionDuration",
+ "value": "Durée prévue de séance par élève"
+     },
+
+ { "key": "PressEscTo",
+ "value": "Appuyez sur ESC"
+     },
+
+ { "key": "Preview",
+ "value": "Afficher un aperçu"
+     },
+
+ { "key": "Previous",
+ "value": "Précédent"
+     },
+
+ { "key": "Previous20Classes",
+ "value": "Les {0} classes précédentes"
+     },
+
+ { "key": "PrivacyMetadata",
+ "value": "Consulter la politique de confidentialité de Nagwa."
+     },
+
+ { "key": "PrivacyPolicyPageTitle",
+ "value": "Politique de Confidentialité"
+     },
+
+ { "key": "Process",
+ "value": "Traiter"
+     },
+
+ { "key": "Profile",
+ "value": "Profil"
+     },
+
+ { "key": "pt",
+ "value": "Portugais"
+     },
+
+ { "key": "Q",
+ "value": "Q"
+     },
+
+ { "key": "Question",
+ "value": "Question"
+     },
+
+ { "key": "Question1",
+ "value": "Question"
+     },
+
+ { "key": "Question2",
+ "value": "Question"
+     },
+
+ { "key": "Question3",
+ "value": "Questions"
+     },
+
+ { "key": "Question4",
+ "value": "Questions"
+     },
+
+ { "key": "Question5",
+ "value": "Questions"
+     },
+
+ { "key": "Questions",
+ "value": "Questions"
+     },
+
+ { "key": "Questions2",
+ "value": "Questions"
+     },
+
+ { "key": "QuestionsPerStudent",
+ "value": "Questions par élève"
+     },
+
+ { "key": "Questions_small",
+ "value": "questions"
+     },
+
+ { "key": "QuestionType",
+ "value": "Type de questions"
+     },
+
+ { "key": "QuestionTypePlaceHolder",
+ "value": "Sélectionner le type de questions"
+     },
+
+ { "key": "QuestionVideo",
+ "value": "Questions Vidéo"
+     },
+
+ { "key": "QuestionVideos",
+ "value": "Questions vidéo"
+     },
+
+ { "key": "Question_QuestionsList",
+ "value": "Question"
+     },
+
+ { "key": "question_small",
+ "value": "question"
+     },
+
+ { "key": "Quiz",
+ "value": "Quiz"
+     },
+
+ { "key": "QuizDescribtion",
+ "value": "(Les élèves ne seront autorisés à compléter les évaluations que pendant la durée requise)."
+     },
+
+ { "key": "QuizDuration",
+ "value": "Durée du quiz"
+     },
+
+ { "key": "Read",
+ "value": "LIRE"
+     },
+
+ { "key": "RecommendedLessons",
+ "value": "Leçons recommandées"
+     },
+
+ { "key": "RelatedLessons",
+ "value": "Leçons associées"
+     },
+
+ { "key": "Remove",
+ "value": "Supprimer"
+     },
+
+ { "key": "Removed",
+ "value": "Supprimé"
+     },
+
+ { "key": "RemoveLesson",
+ "value": "Supprimer la leçon"
+     },
+
+ { "key": "Rename",
+ "value": "Renommer"
+     },
+
+ { "key": "ReportClassCode",
+ "value": "Code de la classe"
+     },
+
+ { "key": "Reports",
+ "value": "Rapports"
+     },
+
+ { "key": "ReportsAssessmentTitle",
+ "value": "Titre de l'évaluation"
+     },
+
+ { "key": "ReportsChartsFormat",
+ "value": "Graphiques"
+     },
+
+ { "key": "ReportsExamTitle",
+ "value": "Titre de l'examen"
+     },
+
+ { "key": "ReportsTableFormat",
+ "value": "Tableau"
+     },
+
+ { "key": "Reports_AssessmentStatus_closed",
+ "value": "Fermé"
+     },
+
+ { "key": "Reports_AssessmentStatus_draft",
+ "value": "Brouillon"
+     },
+
+ { "key": "Reports_AssessmentStatus_future",
+ "value": "En attente"
+     },
+
+ { "key": "Reports_AssessmentStatus_opened",
+ "value": "En cours"
+     },
+
+ { "key": "Reports_AssessmentTitle",
+ "value": "Titre de l'évaluation"
+     },
+
+ { "key": "Reports_AssessmentType_Assessment",
+ "value": "Évaluation"
+     },
+
+ { "key": "Reports_AssessmentType_Quiz",
+ "value": "Quiz"
+     },
+
+ { "key": "Reports_ExamStatus_closed",
+ "value": "Fermé"
+     },
+
+ { "key": "Reports_ExamStatus_draft",
+ "value": "Brouillon"
+     },
+
+ { "key": "Reports_ExamStatus_future",
+ "value": "En attente"
+     },
+
+ { "key": "Reports_ExamStatus_opened",
+ "value": "En cours"
+     },
+
+ { "key": "Reports_ExamTitle",
+ "value": "Titre de l'examen"
+     },
+
+ { "key": "Reports_ExamType_ExamAssignment",
+ "value": "Examens à passer"
+     },
+
+ { "key": "Reports_StudentName",
+ "value": "Nom de l'élève"
+     },
+
+ { "key": "RequiredValidationMessage",
+ "value": "Ce champ est obligatoire."
+     },
+
+ { "key": "ResetPassword",
+ "value": "Réinitialiser le mot de passe"
+     },
+
+ { "key": "ResetPasswordConfirmMessage",
+ "value": "Êtes-vous sûr de vouloir réinitialiser le mot de passe de cet élève ?"
+     },
+
+ { "key": "ResetPasswordConfirmMessageTitle",
+ "value": "Réinitialiser le mot de passe"
+     },
+
+ { "key": "ResetPasswordConfirmMessage_Educator",
+ "value": "Êtes-vous sûr de vouloir réinitialiser le mot de passe de cet éducateur ?"
+     },
+
+ { "key": "ResetPasswordRequest",
+ "value": "Demande de réinitialisation du mot de passe"
+     },
+
+ { "key": "ResetStudentPasswordMessage",
+ "value": "Maintenant, l'élève pourra créer un nouveau mot de passe lors de sa prochaine connexion"
+     },
+
+ { "key": "RestrictedContent",
+ "value": "Contenu à accès restreint"
+     },
+
+ { "key": "RightsReserved",
+ "value": "Tous droits réservés"
+     },
+
+ { "key": "Role",
+ "value": "Rôle"
+     },
+
+ { "key": "SameItemSelection",
+ "value": "Ce titre est déjà utilisé. Veuillez en choisir un autre."
+     },
+
+ { "key": "SampleQuestionVideos",
+ "value": "Exemples de questions vidéos"
+     },
+
+ { "key": "Save",
+ "value": "ENREGISTRER"
+     },
+
+ { "key": "SaveAndAssign",
+ "value": "ENREGISTRER ET ASSIGNER"
+     },
+
+ { "key": "SaveAndFinish",
+ "value": "ENREGISTRER ET TERMINER"
+     },
+
+ { "key": "SaveAsDraft",
+ "value": "Sauvegarder comme brouillon"
+     },
+
+ { "key": "Scheduled",
+ "value": "Prévue"
+     },
+
+ { "key": "School",
+ "value": "École"
+     },
+
+ { "key": "Score",
+ "value": "Score"
+     },
+
+ { "key": "Search",
+ "value": "Rechercher"
+     },
+
+ { "key": "SearchForLessons",
+ "value": "Rechercher des leçons"
+     },
+
+ { "key": "searching",
+ "value": "Rechercher..."
+     },
+
+ { "key": "SearchingResults",
+ "value": "Rechercher des résultats"
+     },
+
+ { "key": "SearchLessonsPlaceHolder",
+ "value": "Rechercher des leçons"
+     },
+
+ { "key": "SearchorForLessonsTitle",
+ "value": "Recherchez des leçons ici et commencez à ajouter des questions à votre évaluation."
+     },
+
+ { "key": "SearchResults",
+ "value": "Résultats de la recherche"
+     },
+
+ { "key": "Select",
+ "value": "Sélectionner"
+     },
+
+ { "key": "SelectAllSubjects",
+ "value": "Sélectionner toutes les matières"
+     },
+
+ { "key": "SelectClasses",
+ "value": "Sélectionner des classes"
+     },
+
+ { "key": "SelectCoTeachers",
+ "value": "Sélectionner des co-enseignants"
+     },
+
+ { "key": "SelectDefaultSubtitles",
+ "value": "Sélectionner les sous-titres par défaut"
+     },
+
+ { "key": "SelectGradeErrorMessage",
+ "value": "Vous devez choisir un niveau."
+     },
+
+ { "key": "SelectGradePlaceholder",
+ "value": "Sélectionner un niveau"
+     },
+
+ { "key": "SelectImages",
+ "value": "sélectionner des images"
+     },
+
+ { "key": "SelectStudentsPlaceholder",
+ "value": "Sélectionner des élèves"
+     },
+
+ { "key": "SelectSubject",
+ "value": "Sélectionnez les matières que vous souhaitez inclure dans ce portail."
+     },
+
+ { "key": "SelectTitles",
+ "value": "Sélectionner les titres"
+     },
+
+ { "key": "Send",
+ "value": "ENVOYER"
+     },
+
+ { "key": "SendAsQuiz",
+ "value": "Envoyer sous forme de quiz"
+     },
+
+ { "key": "SendAssignment",
+ "value": "ENVOYER"
+     },
+
+ { "key": "September",
+ "value": "Septembre"
+     },
+
+ { "key": "SessionActualTotalDuration",
+ "value": "Durée totale réelle des séances et des sessions"
+     },
+
+ { "key": "SessionDuration",
+ "value": "Durée"
+     },
+
+ { "key": "SessionDurationPreset",
+ "value": "Durée prévue de la séance"
+     },
+
+ { "key": "SessionImageDeletionMsg",
+ "value": "Êtes-vous sûr de vouloir supprimer cette évaluation ?"
+     },
+
+ { "key": "sessions",
+ "value": "séances"
+     },
+
+ { "key": "SessionsAttendanceReports",
+ "value": "Rapport de présence aux séances"
+     },
+
+ { "key": "SessionsCount",
+ "value": "Nombre de séances"
+     },
+
+ { "key": "sessionsSection",
+ "value": "Séances"
+     },
+
+ { "key": "SessionStartTime",
+ "value": "Heure de début de la séance"
+     },
+
+ { "key": "SessionStudentsValidationMessage",
+ "value": "Il est impossible de créer une séance sans avoir d'abord désigné une/des classe(s) ou un/des élève(s)."
+     },
+
+ { "key": "SessionsUsageDetailsReports",
+ "value": "Détails de l'utilisation des séances par utilisateur"
+     },
+
+ { "key": "SessionsUsageReports",
+ "value": "Rapport de l'utilisation de séances"
+     },
+
+ { "key": "SessionTitle",
+ "value": "Titre de la séance"
+     },
+
+ { "key": "SetKeywords",
+ "value": "Définir des mots-clés pour limiter le contenu de ce portail."
+     },
+
+ { "key": "Share",
+ "value": "Partager"
+     },
+
+ { "key": "SharedBy",
+ "value": "Partagés par"
+     },
+
+ { "key": "SharedIn",
+ "value": "Partagé dans"
+     },
+
+ { "key": "ShareMessage",
+ "value": "Partager un message avec la classe."
+     },
+
+ { "key": "Shares",
+ "value": "Partages"
+     },
+
+ { "key": "SharewithClass",
+ "value": "Partager avec la classe"
+     },
+
+ { "key": "ShortAnswer",
+ "value": "Réponse courte"
+     },
+
+ { "key": "ShowMore",
+ "value": "Afficher plus"
+     },
+
+ { "key": "SignIn",
+ "value": "Connexion"
+     },
+
+ { "key": "SignInPasswordValidation",
+ "value": "Votre mot de passe doit comporter au moins 6 caractères."
+     },
+
+ { "key": "SignOut",
+ "value": "Déconnexion"
+     },
+
+ { "key": "Size",
+ "value": "Taille"
+     },
+
+ { "key": "Skipped",
+ "value": "Passé"
+     },
+
+ { "key": "SkippedPerStudent",
+ "value": "Questions sautées par élève"
+     },
+
+ { "key": "SocialAccountUrlNotValid",
+ "value": "Social Account URL is not valid."
+     },
+
+ { "key": "SolutionVideoQuestion",
+ "value": "Vidéos solution"
+     },
+
+ { "key": "SolutionVideos",
+ "value": "Vidéos solution"
+     },
+
+ { "key": "SomeThingWentWrong",
+ "value": "Un problème est survenu. Veuillez réessayer"
+     },
+
+ { "key": "SpecialCharactersValidationMessage",
+ "value": "Les caractères spéciaux sont autorisés, sauf au début."
+     },
+
+ { "key": "StartDate",
+ "value": "Date de début"
+     },
+
+ { "key": "StartDateToDueDate",
+ "value": "La date et l'heure limites doivent être postérieures à la date de début."
+     },
+
+ { "key": "StartDateToPortalTimeValidation",
+ "value": "La date et l'heure de début doivent être postérieures ou identiques à celles du portail."
+     },
+
+ { "key": "StartOfPeriod",
+ "value": "Début de la période"
+     },
+
+ { "key": "Statistics",
+ "value": "Statistiques"
+     },
+
+ { "key": "Status",
+ "value": "Statut"
+     },
+
+ { "key": "Student",
+ "value": "Élève"
+     },
+
+ { "key": "Student's Code",
+ "value": "Code de l'élève"
+     },
+
+ { "key": "StudentAddedSuccessfullyMessage",
+ "value": "Le compte de l'élève a été créé avec succès. Ceci peut mettre quelques minutes pour entrer en vigueur."
+     },
+
+ { "key": "StudentAssessmentPerformanceReport",
+ "value": "Tous les élèves avec un élève par ligne"
+     },
+
+ { "key": "StudentAssessmentPerformanceReportEmpty",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "StudentAssessmentPerformanceReport_",
+ "value": "élève Évaluation Performance Rapport"
+     },
+
+ { "key": "StudentAssessmentPerformanceReport_desc",
+ "value": "Ce rapport indique la performance de chaque élève d'après les questions qu'il a reçues lors des évaluations. Il comprend uniquement les données des évaluations dont la date limite de soumission est dépassée (c'est-à-dire clôturées)."
+     },
+
+ 
+
+ { "key": "StudentCode",
+ "value": "Code de l'élève"
+     },
+
+ { "key": "StudentFailedToDeleteMessage",
+ "value": "Échec de la suppression des informations de l'élève. Veuillez réessayer."
+     },
+
+ { "key": "StudentFirstName",
+ "value": "Prénom de l'élève"
+     },
+
+ { "key": "StudentID",
+ "value": "ID de l'élève"
+     },
+
+ { "key": "StudentIdIsRequired",
+ "value": "Ce champ est obligatoire."
+     },
+
+ { "key": "StudentIdLengthValidation",
+ "value": "L'ID de l'élève doit comporter entre 2 et 20 caractères."
+     },
+
+ { "key": "StudentIdsAlreadyExist",
+ "value": "Cet ID de l'élève existe déjà."
+     },
+
+ { "key": "StudentIdValidation",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "StudentLastName",
+ "value": "Nom de l'élève"
+     },
+
+ { "key": "StudentName",
+ "value": "Nom de l'élève"
+     },
+
+ { "key": "Students",
+ "value": "Élèves"
+     },
+
+ { "key": "Students1",
+ "value": "Élèves"
+     },
+
+ { "key": "StudentsAddedSuccessfullyMessage",
+ "value": "Les comptes élèves ont été créés avec succès. Ceci peut mettre quelques minutes pour entrer en vigueur."
+     },
+
+ { "key": "StudentsCount",
+ "value": "Nombre d'élèves"
+     },
+
+ { "key": "StudentsCountinSessions",
+ "value": "Nombre d'élèves dans les séances"
+     },
+
+ { "key": "StudentSearchPlaceholder",
+ "value": "Tapez le code ou le prénom ou le nom de l'élève."
+     },
+
+ { "key": "StudentSessionJoinDateTime",
+ "value": "Date/heure de l'inscription des élèves aux séances"
+     },
+
+ { "key": "StudentsValidationMessage",
+ "value": "Il est impossible de créer une évaluation sans avoir d'abord désigné une/des classe(s) ou un/des élève(s). Réussite"
+     },
+
+ { "key": "students_classList",
+ "value": "élèves"
+     },
+
+ { "key": "students_small",
+ "value": "élèves"
+     },
+
+ { "key": "StudentUpdatedMessage",
+ "value": "Les informations de l'élève ont été mises à jour avec succès. La modification peut mettre quelques minutes pour prendre effet."
+     },
+
+ { "key": "StudentUsername",
+ "value": "Nom d'utilisateur de l'élève"
+     },
+
+ { "key": "StudentUserNameAlreadyExists",
+ "value": "Ce nom d'utilisateur est déjà utilisé. Veuillez en utiliser un autre."
+     },
+
+ { "key": "StudioVideoHeader",
+ "value": "[{0}&amp;#8211;{1} de {2}]"
+     },
+
+ { "key": "StudioVideos",
+ "value": "Vidéos de Studio"
+     },
+
+ { "key": "StudyAppDesc",
+ "value": "Les élèves peuvent utiliser l'application Nagwa Study pour répondre à des questions autocorrigées, compléter des évaluations et regarder des vidéos pour approfondir leur compréhension des sujets clés. Nagwa Study est utilisée en collaboration avec les portails Nagwa."
+     },
+
+ { "key": "StudyAppHeader",
+ "value": "Nagwa Study"
+     },
+
+ { "key": "Subject",
+ "value": "Matière"
+     },
+
+ { "key": "SubjectGradePairMessage",
+ "value": "Veuillez sélectionner la matière et le niveau."
+     },
+
+ { "key": "SubjectGradePairs",
+ "value": "Paires niveau-matière"
+     },
+
+ { "key": "SubjectGrades",
+ "value": "Matière/niveaux"
+     },
+
+ { "key": "SubjectGradeValidation",
+ "value": "Veuillez sélectionner la matière et le niveau."
+     },
+
+ { "key": "Subjects",
+ "value": "Matières"
+     },
+
+ { "key": "Succeeded",
+ "value": "Réussite"
+     },
+
+ { "key": "SuccessTitle",
+ "value": "Succès !"
+     },
+
+ { "key": "TableOfContents",
+ "value": "Sommaire"
+     },
+
+ { "key": "Teacher",
+ "value": "Enseignant"
+     },
+
+ { "key": "TeacherLinkMsg",
+ "value": "Vous ne pouvez sélectionner qu'un seul enseignant."
+     },
+
+ { "key": "TemplateSheet",
+ "value": "modèle"
+     },
+
+ { "key": "TermsAndConditionsPageTitle",
+ "value": "Termes et Conditions"
+     },
+
+ { "key": "TermsMetadata",
+ "value": "Voir la politique de confidentialité de Nagwa."
+     },
+
+ { "key": "TheGradeIsActivatedSuccessfully",
+ "value": "Le niveau a été activé avec succès."
+     },
+
+ { "key": "TheGradeIsDeactivatedSuccessfully",
+ "value": "Le niveau a été désactivé avec succès."
+     },
+
+ { "key": "TheLesson",
+ "value": "Lesson"
+     },
+
+ { "key": "ThereAreNoClassesYetForAdmin",
+ "value": "Vous n'avez encore aucune classe. Commencez à créer des classes dès maintenant !"
+     },
+
+ { "key": "ThereAreNoClassesYetForEducator",
+ "value": "Vous n'avez encore aucune classe. Commencez à créer des classes dès maintenant !"
+     },
+
+ { "key": "ThereAreNoContent",
+ "value": "Votre portail ne dispose pas de contenu affichable sur cette page."
+     },
+
+ { "key": "ThereAreNoLessonPlansContent",
+ "value": "Vous n'avez encore aucun plan de leçon."
+     },
+
+ { "key": "ThereAreNoLessons",
+ "value": "Aucune leçon n'est disponible."
+     },
+
+ { "key": "ThereAreNoStudents",
+ "value": "Vous n'avez encore aucun élève. Commencez à ajouter des élèves dès maintenant !"
+     },
+
+ { "key": "ThereAreNoSubjectYetForEducator",
+ "value": "Aucune matière ne vous est encore assignée. Contactez les administrateurs de votre portail pour qu'ils vous assignent une matière avant de créer une classe."
+     },
+
+ { "key": "ThereAreNovideos",
+ "value": "Aucune vidéo n'est encore disponible."
+     },
+
+ { "key": "ThereAreNoWorksheets",
+ "value": "Aucune feuille d'activités n'est encore disponible"
+     },
+
+ { "key": "ThereAreNoYears",
+ "value": "Il n'y a encore aucun niveau. Commencez à créer des niveaux dès maintenant !"
+     },
+
+ { "key": "ThereAreNoYearsYetForAdmin",
+ "value": "Vous devez créer des niveaux avant de créer une classe."
+     },
+
+ { "key": "ThereAreNoYearsYetForEducator",
+ "value": "Il n'y a encore aucun niveau. Contactez l'administrateur de votre portail pour créer d'abord des niveaux avant de créer une classe."
+     },
+
+ { "key": "ThereIsNoAllCourseswithoneCourseperLineReports",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoAssessmentsReports",
+ "value": "Vous n'avez aucun rapport d'évaluation."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_One_Student_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Class_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Lesson_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Student_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoCoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoDataAvailableReports",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoExams",
+ "value": "Ce portail n'est inscrit à aucune offre groupée d'examens."
+     },
+
+ { "key": "ThereIsNoExplainers",
+ "value": "Aucune fiche explicative n'est encore disponible."
+     },
+
+ { "key": "ThereIsNoSessions",
+ "value": "Aucune donnée n'est disponible pour l'instant."
+     },
+
+ { "key": "ThereIsNoWorksheetsReports",
+ "value": "Vous n'avez aucun rapport de feuille d'activités."
+     },
+
+ { "key": "TherIsNoAssessments",
+ "value": "Vous n'avez encore aucune évaluation. Créez-en une maintenant !"
+     },
+
+ { "key": "TherIsNoAssignments",
+ "value": "Vous n'avez encore assigné cette évaluation à personne."
+     },
+
+ { "key": "TherIsNoExamAssignments",
+ "value": "Vous n'avez aucun examen à passer."
+     },
+
+ { "key": "TherIsNoTutoringSessions",
+ "value": "Vous n'avez aucune séance."
+     },
+
+ { "key": "Time",
+ "value": "Heure"
+     },
+
+ { "key": "TimeDuration",
+ "value": "Durée en minutes"
+     },
+
+ { "key": "Timezone",
+ "value": "Fuseau horaire"
+     },
+
+ { "key": "Title",
+ "value": "Titre"
+     },
+
+ { "key": "ToCancel",
+ "value": "pour annuler"
+     },
+
+ { "key": "TotalActualDuration",
+ "value": "Durée totale réelle de toutes les sessions"
+     },
+
+ { "key": "TotalDurationSpentbyStudentInSession",
+ "value": "Durée totale passée par les élèves à la séance"
+     },
+
+ { "key": "TotalMarks",
+ "value": "Notes totales"
+     },
+
+ { "key": "TotalPresetDuration",
+ "value": "Durée totale prévue pour toutes les séances"
+     },
+
+ { "key": "TotalQuestions",
+ "value": "Nombre total de questions"
+     },
+
+ { "key": "Transcript",
+ "value": "Transcription"
+     },
+
+ { "key": "TutoringSessionCreated",
+ "value": "La séance a été créée avec succès"
+     },
+
+ { "key": "TutoringSessionDeletedMessage",
+ "value": "La séance a été supprimée."
+     },
+
+ { "key": "TutoringSessionDuration",
+ "value": "Durée en minutes"
+     },
+
+ { "key": "TutoringSessions",
+ "value": "Séances"
+     },
+
+ { "key": "TutoringSessionsIndefinite",
+ "value": "Séances"
+     },
+
+ { "key": "TutoringYear",
+ "value": "Année"
+     },
+
+ { "key": "Type",
+ "value": "Type"
+     },
+
+ { "key": "TypeCourseName",
+ "value": "Tapez le titre du cours."
+     },
+
+ { "key": "TypeEducatorName",
+ "value": "Tapez le prénom ou le nom de l'éducateur."
+     },
+
+ { "key": "TypeStudentCodeorName",
+ "value": "Tapez le code ou le nom de l'élève."
+     },
+
+ { "key": "UnableToEditClassSubject",
+ "value": "Vous ne pouvez pas modifier la matière de cette classe. Veuillez d'abord dissocier les enseignants et/ou coenseignants liés à cette classe."
+     },
+
+ { "key": "UnableToEditEducatorSubjectMsg",
+ "value": "Vous ne pouvez pas modifier la matière de cette classe. Veuillez d'abord dissocier les enseignants et/ou coenseignants liés à cette classe."
+     },
+
+ { "key": "UnableToEditGradeofClass",
+ "value": "Vous ne pouvez pas modifier le niveau de cette classe."
+     },
+
+ { "key": "Unanswered",
+ "value": "Sans réponse"
+     },
+
+ { "key": "UnansweredPerStudent",
+ "value": "Sans réponse par élève"
+     },
+
+ { "key": "UnAuthorizeToRenameMSg",
+ "value": "Vous n'êtes pas autorisé à renommer le fichier."
+     },
+
+ { "key": "UnlinkAlignmentConfirmationMsg",
+ "value": "Êtes-vous sûr de vouloir supprimer cela ?"
+     },
+
+ { "key": "UnlinkClassCoTeacherConfirmationMsg",
+ "value": "comme coenseignant de cette classe ?"
+     },
+
+ { "key": "UnlinkClassTeacherConfirmationMsg",
+ "value": "comme enseignant de cette classe ?"
+     },
+
+ { "key": "UnlinkConfirmationMessage",
+ "value": "Êtes-vous sûr de vouloir supprimer cela ?"
+     },
+
+ { "key": "UnLinkConfirmationMsg",
+ "value": "Êtes-vous sûr de vouloir supprimer"
+     },
+
+ { "key": "unlinktheeducatorslinkedtothisclassfirst",
+ "value": "Vous devez d'abord dissocier les éducateurs de cette classe."
+     },
+
+ { "key": "UnRegisteredUserMsg",
+ "value": "Vous n'êtes pas inscrit à ce service. Pour vous inscrire, veuillez nous contacter à l'adresse Success@nagwa.com."
+     },
+
+ { "key": "Unshare",
+ "value": "Annuler le partage"
+     },
+
+ { "key": "Upload",
+ "value": "Charger"
+     },
+
+ { "key": "Uploadedby",
+ "value": "Chargé par"
+     },
+
+ { "key": "UploadedbyMe",
+ "value": "Chargé par moi"
+     },
+
+ { "key": "UploadedLibraryfiles",
+ "value": "Fichiers de bibliothèque chargés"
+     },
+
+ { "key": "UploadedLibraryvideos",
+ "value": "Vidéos de bibliothèque charges"
+     },
+
+ { "key": "UploadedStudiovideos",
+ "value": "Vidéos de Studio charges"
+     },
+
+ { "key": "UploadEmptyFile",
+ "value": "Le fichier est vide. Veuillez remplir le modèle et charger à nouveau le fichier."
+     },
+
+ { "key": "UploadEmptyFileMsg",
+ "value": "Le fichier est vide."
+     },
+
+ { "key": "UploadEmptyRowsInTheFile",
+ "value": "Certaines lignes manquent. Veuillez remplir les lignes vides et charger à nouveau le fichier."
+     },
+
+ { "key": "UploadFiles",
+ "value": "Charger des fichiers"
+     },
+
+ { "key": "UploadImage",
+ "value": "Charger une image"
+     },
+
+ { "key": "UploadImageFailMessage",
+ "value": "Échec du chargement de l'image. Veuillez réessayer."
+     },
+
+ { "key": "UploadImages",
+ "value": "Charger une image"
+     },
+
+ { "key": "UploadOneTimeMsg",
+ "value": "Vous ne pouvez pas charger plus d'une pièce jointe à la fois."
+     },
+
+ { "key": "Usedquestions",
+ "value": "Questions utilises"
+     },
+
+ { "key": "usedStorage",
+ "value": "{0} Mo utilisés sur {1} Go"
+     },
+
+ { "key": "usedStorageInGB",
+ "value": "{0} Go utilisés sur {1} Go"
+     },
+
+ { "key": "UserEmailAddress",
+ "value": "Adresse e-mail"
+     },
+
+ { "key": "UserGuide",
+ "value": "Guide d'utilisateur"
+     },
+
+ { "key": "UserGuideSubTitle",
+ "value": "Tirez le meilleur parti de votre portail Nagwa !"
+     },
+
+ { "key": "Username",
+ "value": "Nom d'utilisateur"
+     },
+
+ { "key": "UsernameShouldHaveSuffix",
+ "value": "Doit inclure le code du suffixe du portail à la fin"
+     },
+
+ { "key": "UsernameValidation",
+ "value": "Veuillez saisir un nom d'utilisateur valide comportant au moins 6 caractères et aucune espace."
+     },
+
+ { "key": "Users",
+ "value": "Utilisateurs"
+     },
+     { "key": "Staff" ,
+        "value":  "Personnel de l’école"
+      },
+      { "key": "CreateNewStaffMember" ,
+        "value":  "CreateNewStaffMember_key"
+      },
+      { "key": "CreateStudents" ,
+        "value":  "Créer des élèves"
+      },
+      { "key": "role" ,
+        "value":  "Rôles"
+      }, 
+
+ { "key": "Video",
+ "value": "Vidéo"
+     },
+
+ { "key": "video1",
+ "value": "Vidéo solution"
+     },
+
+ { "key": "video2",
+ "value": "Vidéos solution"
+     },
+
+ { "key": "video3",
+ "value": "Vidéos solution"
+     },
+
+ { "key": "video4",
+ "value": "Vidéos solution"
+     },
+
+ { "key": "VideoOverview",
+ "value": "Présentation de la vidéo"
+     },
+
+ { "key": "Videos",
+ "value": "Vidéos"
+     },
+
+ { "key": "videos_small",
+ "value": "vidéos"
+     },
+
+ { "key": "video_small",
+ "value": "vidéo"
+     },
+
+ { "key": "View",
+ "value": "Afficher"
+     },
+
+ { "key": "ViewAssignments",
+ "value": "Afficher le travail à faire"
+     },
+
+ { "key": "ViewAttendance",
+ "value": "Afficher les présences"
+     },
+
+ { "key": "ViewClasses",
+ "value": "Afficher les classes"
+     },
+
+ { "key": "ViewDetails",
+ "value": "Voir Détails"
+     },
+
+ { "key": "ViewExamAssignment",
+ "value": "Voir les examens assignés"
+     },
+
+ { "key": "ViewLessons",
+ "value": "Afficher les leçons"
+     },
+
+ { "key": "ViewMoreComments",
+ "value": "Afficher plus de commentaires"
+     },
+
+ { "key": "ViewQuestions",
+ "value": "VOIR QUESTIONS"
+     },
+
+ { "key": "ViewReport",
+ "value": "Afficher le rapport"
+     },
+
+ { "key": "ViewReports",
+ "value": "Afficher les rapports"
+     },
+
+ { "key": "ViewStudents",
+ "value": "Afficher les élèves"
+     },
+
+ { "key": "ViewWall",
+ "value": "Afficher le mur"
+     },
+
+ { "key": "VisitNagwacom",
+ "value": "www.nagwa.com"
+     },
+
+ { "key": "WatchedVideos",
+ "value": "Vidéos regardées"
+     },
+
+ { "key": "Worksheet",
+ "value": "Feuille d'activités"
+     },
+
+ { "key": "Worksheets",
+ "value": "Feuilles d'activités"
+     },
+
+ { "key": "WorksheetsQuestions",
+ "value": "Questions de la feuille d'activités"
+     },
+
+ { "key": "WorksheetsReports",
+ "value": "Rapports sur les feuilles d'activités"
+     },
+
+ { "key": "Worksheets_small",
+ "value": "feuilles d'activités"
+     },
+
+ { "key": "WorksheetTitle",
+ "value": "Titre"
+     },
+
+ { "key": "Worksheet_Report_All_Courses_One_Course_per_Line_",
+ "value": "Rapport : Tous les cours &gt; Un cours par ligne"
+     },
+
+ { "key": "Worksheet_Report_Course_Class_One_Lesson_per_Line_",
+ "value": "Rapport : Cours &gt; Classe &gt; Une leçon par ligne"
+     },
+
+ { "key": "Worksheet_Report_Course_Class_One_Student_per_Line_",
+ "value": "Rapport : Cours &gt; Classe &gt; Un élève par ligne"
+     },
+
+ { "key": "Worksheet_Report_Course_One_Class_per_Line_",
+ "value": "Rapport : Cours &gt; Une classe par ligne"
+     },
+
+ { "key": "Worksheet_Report_Course_One_Student_per_Line_",
+ "value": "Rapport : Cours &gt; Un élève par ligne"
+     },
+
+ { "key": "Worksheet_Report_Course_Student_One_Lesson_per_Line_",
+ "value": "Rapport : Cours &gt; Élève &gt; Une leçon par ligne"
+     },
+
+ { "key": "Worksheet_Report_Lesson_One_Student_per_Line_",
+ "value": "Rapport : Cours &gt; Leçon &gt; Un élève par ligne"
+     },
+
+ { "key": "WriteYourComment",
+ "value": "Écrivez un commentaire."
+     },
+
+ { "key": "XLS",
+ "value": "XLS"
+     },
+
+ { "key": "Year",
+ "value": "Niveau"
+     },
+
+ { "key": "YearCode",
+ "value": "Code"
+     },
+
+ { "key": "YearCodeIsRequired",
+ "value": "Le code du niveau est manquant."
+     },
+
+ { "key": "YearCodeLengthValidation",
+ "value": "Le code de la classe doit comporter entre 2 et 20 caractères."
+     },
+
+ { "key": "YearCodeValidation",
+ "value": "Vous ne pouvez utiliser que des lettres, des chiffres, des tirets, des traits de soulignement et des points."
+     },
+
+ { "key": "YearName",
+ "value": "Titre"
+     },
+
+ { "key": "Years",
+ "value": "Niveaux"
+     },
+
+ { "key": "Yes",
+ "value": "Qui"
+     },
+
+ { "key": "YouCanNotDeactivateGrade",
+ "value": "Vous ne pouvez pas désactiver ce niveau. Vous devez d'abord dissocier les cours, les élèves ou les évaluations liés à ce niveau."
+     },
+
+ { "key": "YouCanOnlySelect",
+ "value": "Vous ne pouvez sélectionner qu'un seul enseignant."
+     },
+
+ { "key": "YouCanOnlySelectBundle",
+ "value": "Vous ne pouvez sélectionner qu'une seule offre groupée."
+     },
+
+ { "key": "YouCanOnlySelectPack",
+ "value": "Vous ne pouvez sélectionner qu'un seul pack."
+     },
+
+ { "key": "YouCanOnlySelectPaper",
+ "value": "Vous ne pouvez sélectionner qu'un seul examen."
+     },
+
+ { "key": "YouDontHaveFile",
+ "value": "Aucun fichier n'a encore été chargé."
+     },
+
+ { "key": "YouMustSelectAkey",
+ "value": "Donnez une réponse valide."
+     },
+
+ { "key": "YouMustSelectStudentOrClass",
+ "value": "Il est impossible de créer un examen à passer sans avoir d'abord désigné une/des classe(s) ou un/des élève(s)."
+     },
+
+ { "key": "YouNeedAccountMessage",
+ "value": "Vous devez avoir un compte pour accéder à cette page. Inscrivez-vous maintenant !"
+     },
+
+ { "key": "YourAreNotInTheWhiteList",
+ "value": "Vous n'êtes pas sur la liste blanche."
+     },
+
+ { "key": "YouSelectAllStudents",
+ "value": "Vous avec sélectionné tous les élèves."
+     },
+
+ { "key": "Lesson1",
+ "value": "leçon"
+     },
+
+ { "key": "LessonPlan1",
+ "value": "plan de leçon"
+     },
+
+ { "key": "LessonPlaylist1",
+ "value": "playlist"
+     },
+
+ { "key": "LessonPlayLists",
+ "value": "playlists"
+     },
+
+ { "key": "LessonWorksheet1",
+ "value": "feuille d'activités"
+     },
+
+ { "key": "LessonExplainer1",
+ "value": "fiche explicatives"
+     },
+
+ { "key": "LessonVideo1",
+ "value": "vidéo"
+     },
+
+ { "key": "LessonCourses_small",
+ "value": "cours"
+     },
+
+ { "key": "LessonExplainers_small",
+ "value": "fiches explicatives"
+     },
+
+ { "key": "LessonPlaylists_small",
+ "value": "playlists"
+     },
+
+ { "key": "LessonPresentations_small",
+ "value": "présentations"
+     },
+
+ { "key": "LessonVideos_small",
+ "value": "vidéos"
+     },
+
+ { "key": "LessonWorksheets_small",
+ "value": "feuilles d'activités"
+     },
+
+ { "key": "SignedUpStudents",
+ "value": "Élèves inscrits"
+     },
+
+ { "key": "Mobile",
+ "value": "Numéro de téléphone portable"
+     },
+
+ { "key": "GroupsClasses",
+ "value": "Groupes/Classes"
+     },
+
+ { "key": "Signed_Up_Students_",
+ "value": "Élèves_inscrits_"
+     },
+
+ { "key": "SignedUpDate",
+ "value": "signup Date"
+     },
+
+ { "key": "ThereAreNoSignedUpStudents",
+ "value": "Vous n'avez pas encore d'étudiants inscrits."
+     },
+
+ { "key": "GreaterThanZero",
+ "value": "La note de la question doit être supérieure à zéro."
+     },
+
+ { "key": "AlertMessageInIDayGracePeriod",
+ "value": "L'abonnement a expiré. Le portail sera désactivé dans {0} jour."
+     },
+
+ { "key": "StudentFailedToUpdateMessage",
+ "value": "Échec de la mise à jour des informations sur l'étudiant. Réessayer."
+     },
+
+ { "key": "EditAssessmentStep3",
+ "value": "Modifier l'évaluation • Étape 3 sur 3 : afficher un aperçu et envoyer"
+     },
+
+ { "key": "ErrorMsg_NegativeNumbersAndLetters",
+ "value": "Format non valide. Veuillez réessayer."
+     },
+
+ { "key": "MustBeNumber",
+ "value": "La note doit être un nombre entier."
+     },
+
+ { "key": "assessment1",
+ "value": "Évaluation"
+     },
+
+ { "key": "file11",
+ "value": "Fichier"
+     },
+
+ { "key": "session1",
+ "value": "séance"
+     },
+
+ { "key": "sessions_small",
+ "value": "séances"
+     },
+
+ { "key": "student1",
+ "value": "élève"
+     },
+
+ { "key": "class1",
+ "value": "classe"
+     },
+
+ { "key": "classs_small",
+ "value": "classes"
+     },
+
+ { "key": "educator1",
+ "value": "éducateur"
+     },
+
+ { "key": "SignedUpStudent1",
+ "value": "Élève inscrit"
+     },
+
+ { "key": "SignedUpStudents_small",
+ "value": "Élèves inscrits"
+     },
+
+ { "key": "SignedUpStudent_small",
+ "value": "Élève  inscrit"
+     },
+
+ { "key": "SelectThumbnail",
+ "value": "Sélectionner la miniature"
+     },
+
+ { "key": "PickThisFrame",
+ "value": "Sélectionner ce cadre"
+     },
+
+ { "key": "EditThumbnail",
+ "value": "Edit Thumbnail"
+     },
+
+ { "key": "MustChooseThumbnail",
+ "value": "Please select a thumbnail for your video."
+     },
+
+ { "key": "SelectFrameThumbnail",
+ "value": "Sélectionnez un cadre pour l'ajouter comme miniature de votre vidéo."
+     },
+
+ { "key": "Thumbnail",
+ "value": "Miniature"
+     },
+
+ { "key": "ExceedLimit",
+ "value": "La note ne doit pas dépasser 99,99."
+     },
+
+ { "key": "IntegerOnly",
+ "value": "Notes totales doit être un nombre entier."
+     },
+
+ { "key": "TwoDecimalsMax",
+ "value": "Le nombre saisi ne peut comporter plus de deux décimales."
+     },
+
+ { "key": "AverageMark",
+ "value": "Note moyenne"
+     },
+
+ { "key": "StudentMark",
+ "value": "Note de l'élève"
+     },
+
+ { "key": "TotalMark",
+ "value": "Notes totales"
+     },
+
+ { "key": "OnePeriodStudentsActivity",
+ "value": "Élèves actifs durant"
+     },
+
+ { "key": "ThereIsNoActivitiesReports",
+ "value": "Il n'y a encore aucun rapport d'activité."
+     },
+
+ { "key": "ExtendConfirmationMessage",
+ "value": "La prolongation de la durée de l'évaluation au-delà de la date limite précédemment sélectionnée entraînera la réinitialisation du rapport d'évaluation."
+     },
+
+ { "key": "Confirm",
+ "value": "Confirmer"
+     },
+
+ { "key": "MessageLimitQuestion",
+ "value": "Vous êtes limité à {​0}​ questions.&lt;br /&gt; Pour en ajouter davantage, veuillez contacter l'administrateur de votre portail afin de passer à un niveau supérieur."
+     },
+
+ { "key": "MessageLimitQuestion1",
+ "value": "Vous êtes limité à {​0}​ questions."
+     },
+
+ { "key": "MessageLimitQuestion2",
+ "value": "Pour en ajouter davantage, veuillez contacter l'administrateur de votre portail afin de passer à un niveau supérieur."
+     },
+
+ { "key": "Notice",
+ "value": "Avis"
+     },
+
+ { "key": "questionMarkValidation",
+ "value": "Vérifier cette question : "
+     },
+
+ { "key": "questionsMarksValidation",
+ "value": "Vérifier ces questions : "
+     },
+
+ { "key": "AssessmentReport_Unmarked",
+ "value": "Sans note"
+     },
+
+ { "key": "NoFilesFound",
+ "value": "Aucun fichier trouvé."
+     },
+
+ { "key": "AssessmentTotalMark",
+ "value": "Notes totales évaluatio"
+     },
+
+ { "key": "StudentListReport",
+ "value": "Liste des élèves"
+     },
+
+ { "key": "FileDeletedMsg",
+ "value": "Ce fichier a été supprimé par le propriétaire."
+     },
+
+ { "key": "Flashcards",
+ "value": "Flashcards"
+     },
+
+ { "key": "flashcard1",
+ "value": "Ensemble de flashcards"
+     },
+
+ { "key": "flashcards_small",
+ "value": "Ensembles de flashcards"
+     },
+
+ { "key": "StudentScore",
+ "value": "Score"
+     },
+
+ { "key": "TotalAssessments",
+ "value": "Notes totales"
+     },
+
+ { "key": "remainingInstance1",
+ "value": "variaciones de preguntas adicionales"
+     },
+
+ { "key": "remainingInstances_small",
+ "value": "variaciones de preguntas adicionales"
+     },
+
+ { "key": "remainingQuestion1",
+ "value": "questions supplémentaires"
+     },
+
+ { "key": "remainingQuestions_small",
+ "value": "questions supplémentaires"
+     },
+
+ { "key": "RemainingQuestionsInstancesMessage",
+ "value": "Cette leçon comprend {0} et {1} pour les abonnés."
+     },
+
+ { "key": "RemainingInstancesMessage",
+ "value": "Cette leçon comprend {0} pour les abonnés."
+     },
+
+ { "key": "RemainingQuestionsMessage",
+ "value": "Cette leçon comprend {0} pour les abonnés."
+     },
+
+ { "key": "GetYourPortalNow",
+ "value": "OBTENEZ VOTRE PORTAIL MAINTENANT"
+     },
+
+ { "key": "StudentsList_FirstNameDescription",
+ "value": "Personal name of each student"
+     },
+
+ { "key": "StudentsList_GradeDescription",
+ "value": "The grade in which each student is enrolled in"
+     },
+
+ { "key": "StudentsList_LastActiveDateDescription",
+ "value": "The last date that a student was active"
+     },
+
+ { "key": "StudentsList_LastNameDescription",
+ "value": "Family name of each student"
+     },
+
+ { "key": "StudentsList_StudentCodeDescription",
+ "value": "Generated codes given to each student"
+     },
+
+ { "key": "StudentsList_UserNameDescription",
+ "value": "Usernames given to students by their teacher"
+     },
+
+ { "key": "ExamsFreeTierSubsctiptionMsg",
+ "value": "Vous ne pouvez accéder qu’à un seul pack d’examens. Il y a {0} packs supplémentaires pour les abonnés. Veuillez contacter votre administrateur pour passer à un niveau supérieur."
+     },
+
+ { "key": "StudentListReportDescription",
+ "value": "Ce rapport fournit des informations détaillées sur chaque élève."
+     },
+
+ { "key": "BrowsePortalLesson",
+ "value": "Browse Portal Lessons"
+     },
+
+ { "key": "AddQuestions_SelectPortalLesson",
+ "value": "Select Portal Lessons"
+     },
+
+ { "key": "BrowseNagwaLesson",
+ "value": "Browse Nagwa Lessons"
+     },
+
+ { "key": "ClickHerePreview",
+ "value": "Afficher le travail à faire"
+     },
+
+ { "key": "SearchForNagwaLessons",
+ "value": "Rechercher des leçons de Nagwa"
+     },
+
+ { "key": "CalendarMonth",
+ "value": "Mois du calendrier"
+     },
+
+ { "key": "PaymentStatus",
+ "value": "Payment Status"
+     },
+
+ { "key": "Wallet",
+ "value": "Wallet"
+     },
+
+ { "key": "Amount",
+ "value": "Montant"
+     },
+
+ { "key": "Description",
+ "value": "Description"
+     },
+
+ { "key": "Fawry",
+ "value": "Fawry"
+     },
+
+ { "key": "FawryLocations",
+ "value": "Des frais de service peuvent être imposés par Fawry. Les paiements effectués auprès de Fawry ne sont pas remboursables."
+     },
+
+ { "key": "GenerateFawryCode",
+ "value": "GÉNÉRER UN CODE FAWRY"
+     },
+
+ { "key": "MyWallet",
+ "value": "Mon Portefeuille"
+     },
+
+ { "key": "PayAtFawry",
+ "value": "Pay {0} at Fawry location."
+     },
+
+ { "key": "PaymentIsProcessing",
+ "value": "Payment is processing. Please do not refresh the page."
+     },
+
+ { "key": "ReceiveSMS",
+ "value": "Vous recevrez un SMS avec votre numéro de référence et votre code de service."
+     },
+
+ { "key": "ReferenceNumber",
+ "value": "Numéro de référence :"
+     },
+
+ { "key": "ServiceCode",
+ "value": "Code de service :"
+     },
+
+ { "key": "ThereAreNoTransactions",
+ "value": "Vous n’avez encore effectué aucune transaction."
+     },
+
+ { "key": "TopUp",
+ "value": "TOP-UP"
+     },
+
+ { "key": "TotalBalance",
+ "value": "Solde total"
+     },
+
+ { "key": "TransactionAmount",
+ "value": "Montant de la transaction"
+     },
+
+ { "key": "TransactionDate",
+ "value": "Date de la transaction"
+     },
+
+ { "key": "WalletTransactions",
+ "value": "Wallet Transactions"
+     },
+
+ { "key": "AtFawryLocation",
+ "value": "auprès d’un point de vente Fawry."
+     },
+
+ { "key": "Pay",
+ "value": "Payez"
+     },
+
+ { "key": "Transaction",
+ "value": "Transaction"
+     },
+
+ { "key": "Transactions",
+ "value": "Transactions"
+     },
+
+ { "key": "Transactions_small",
+ "value": "transactions"
+     },
+
+ { "key": "YouMadeDeposit",
+ "value": "Vous avez fait un dépôt de {0} {1}"
+     },
+
+ { "key": "FawryFailureMsg",
+ "value": "La génération de votre ID de transaction a échoué. Veuillez réessayer plus tard."
+     },
+
+ { "key": "PlusThreePound",
+ "value": "+ comme frais pour Fawry"
+     },
+
+ { "key": "EGP",
+ "value": "EGP"
+     },
+
+ { "key": "NextTransaction",
+ "value": "Suivant"
+     },
+
+ { "key": "NextTransaction1",
+ "value": "transaction"
+     },
+
+ { "key": "NextTransaction2",
+ "value": "transaction"
+     },
+
+ { "key": "PreviousTransaction",
+ "value": "Précédent"
+     },
+
+ { "key": "PreviousTransaction1",
+ "value": "transaction"
+     },
+
+ { "key": "PreviousTransaction2",
+ "value": "transaction"
+     },
+
+ { "key": "Transaction1",
+ "value": "transaction"
+     },
+ { "key": "BackToWallet",
+ "value": "Back to Wallet"
+     },
+
+ { "key": "CardNumber",
+ "value": "Numéro de la carte"
+     },
+
+ { "key": "CardVerificationCode",
+ "value": "Vérification de la carte"
+     },
+
+ { "key": "CreditCard",
+ "value": "Carte de crédit"
+     },
+
+ { "key": "CreditFailureMsg",
+ "value": "La génération de votre ID de transaction a échoué. Veuillez réessayer plus tard."
+     },
+
+ { "key": "ExpiryDate",
+ "value": "Date d’expiration"
+     },
+
+ { "key": "ExpiryMonth",
+ "value": "Month"
+     },
+
+ { "key": "ExpiryYear",
+ "value": "Year"
+     },
+
+ { "key": "Recharge",
+ "value": "Recharge"
+     },
+
+ { "key": "RechargeSuccessMessage",
+ "value": "Your wallet has been recharged successfully. It might take a while to come into effect"
+     },
+
+ { "key": "NoSubjectMessage",
+ "value": "Aucune matière ne vous a été encore attribuée. Contactez les administrateurs de votre portail pour qu’ils vous attribuent une matière."
+     },
+
+ { "key": "CheckoutErrorMessage",
+ "value": "Une erreur s’est produite, Veuillez réessayer"
+     },
+
+ { "key": "ActivateAll",
+ "value": "Activer Toutes"
+     },
+
+ { "key": "DeactivateAll",
+ "value": "Désactiver Toutes"
+     },
+
+ { "key": "ActivateAllWaningMessage",
+ "value": "Êtes-vous sûr de vouloir activer tous les comptes ?"
+     },
+
+ { "key": "DeactivateAllWaningMessage",
+ "value": "Êtes-vous sûr de vouloir désactiver tous les comptes ?"
+     },
+
+ { "key": "ActivateDeactivateAllSuccessMessage",
+ "value": "Terminé ! Attendez un moment avant d’actualiser la page."
+     },
+
+ { "key": "ActivateDeactivateAllErrorMessage",
+ "value": "Échec. Veuillez réessayer."
+     },
+
+ { "key": "Configuration",
+ "value": "Configuration"
+     },
+
+ { "key": "Code",
+ "value": "Code"
+     },
+
+ { "key": "MyInfo",
+ "value": "Mes informations"
+     },
+
+ { "key": "MyPortal",
+ "value": "Mon portail"
+     },
+
+ { "key": "MyWebsite",
+ "value": "Mon site web"
+     },
+
+ { "key": "ChooseLogo",
+ "value": "Choisir le logo"
+     },
+
+ { "key": "TimezoneSpace",
+ "value": "Fuseau horaire"
+     },
+
+ { "key": "NoGradesActiveMsg",
+ "value": "Vous devez d’abord activer une classe avant de poursuivre."
+     },
+
+ { "key": "NoGradesAndSubjectsActiveMsg",
+ "value": "Vous devez d’abord activer une classe et ajouter une matière avant de poursuivre."
+     },
+
+ { "key": "NoSubjectsActiveMsg",
+ "value": "Vous devez d’abord ajouter une matière avant de poursuivre."
+     },
+
+ { "key": "ActivateAllWaningTitle",
+ "value": "Activer tous les comptes"
+     },
+
+ { "key": "DeactivateAllWaningTitle",
+ "value": "Désactiver tous les comptes"
+     },
+
+ { "key": "AddNew",
+ "value": "Créer une nouvelle matière"
+     },
+
+ { "key": "CanNotDeleteSubject",
+ "value": "CanNotDeleteSubject"
+     },
+
+ { "key": "SubjectCreatedMessage",
+ "value": "Votre matière a été créée avec succès."
+     },
+
+ { "key": "SubjectDeletedMessage",
+ "value": "Votre matière a été supprimée avec succès."
+     },
+
+ { "key": "SubjectUpdatedMessage",
+ "value": "Votre matière a été modifiée avec succès."
+     },
+
+ { "key": "PhoneNumber",
+ "value": "Numéro de téléphone"
+     },
+
+ { "key": "PhoneNumberPlaceHolder",
+ "value": "Entrez votre numéro de téléphone"
+     },
+
+ { "key": "EditAccountFailedMessage",
+ "value": "Échec de la mise à jour des informations du portail. Veuillez réessayer."
+     },
+
+ { "key": "NoSpecialOrAlphabeticCharacters",
+ "value": "Veuillez saisir un numéro de téléphone valide."
+     },
+
+ { "key": "AdminFundedPortal",
+ "value": "Financé par l’administrateur"
+     },
+
+ { "key": "AdminFundedPortalMsg",
+ "value": "Rechargez le portefeuille avant la première connexion des élèves,  {0} par élève."
+     },
+
+ { "key": "PortalPaymentType",
+ "value": "Type de paiement du portail"
+     },
+
+ { "key": "StudentFundedPortal",
+ "value": "Financé par l’élève"
+     },
+
+ { "key": "StudentFundedPortalMsg",
+ "value": "Permettez aux élèves de payer individuellement pour leur accès au portail, soit {0} par élève."
+     },
+
+ { "key": "SwitchTypeMessage",
+ "value": "Le changement de votre plan de paiement prendra effet le mois prochain, et votre plan actuellement actif est {0}."
+     },
+
+ { "key": "SwitchTypeWarringMessage",
+ "value": "Êtes-vous sûr de vouloir changer le mode de paiement?"
+     },
+
+ { "key": "EUR",
+ "value": "EUR"
+     },
+
+ { "key": "GBP",
+ "value": "GBP"
+     },
+
+ { "key": "INR",
+ "value": "INR"
+     },
+
+ { "key": "USD",
+ "value": "USD"
+     },
+
+ { "key": "YouCanFollowUp",
+ "value": "Vous pouvez suivre toutes les opérations de crédit ou de débit depuis votre portefeuille."
+     },
+
+ { "key": "PaymentWasUnsuccessful",
+ "value": "Payment was unsuccessful and your card wasn't charged."
+     },
+
+ { "key": "ClassRoom_AddNewClassroom",
+ "value": "créer un groupe d’étudiants"
+     },
+
+ { "key": "ClassRoom_ClassroomCode",
+ "value": "Code"
+     },
+
+ { "key": "ClassRoom_ClassroomCoordinator",
+ "value": "Superviseur des présences"
+     },
+
+ { "key": "ClassRoom_ClassroomTitle",
+ "value": "Nom"
+     },
+
+ { "key": "ClassRoom_CreateTheClassRoomWithinEachGrade",
+ "value": "Step 4: Create the Classroom within each grade"
+     },
+
+ { "key": "ClassRoom_NewClassroom",
+ "value": "New Classroom"
+     },
+
+ { "key": "ClassRoom_NoClassRoomFound",
+ "value": "Il n’y a encore aucune classe."
+     },
+
+ { "key": "ClassRoom_EditClassroom",
+ "value": "Modifier la classe"
+     },
+
+ { "key": "Classrooms",
+ "value": "Groupes d’élèves"
+     },
+
+ { "key": "Classroom_AssignEducator",
+ "value": "Assigner des éducateurs"
+     },
+
+ { "key": "ClassRoom_CanNotRemoveMsg",
+ "value": "Veuillez d’abord supprimer les élèves avant de supprimer la classe."
+     },
+
+ { "key": "Classroom_Classes",
+ "value": "Classes"
+     },
+
+ { "key": "Classroom_ClassesEmpty",
+ "value": "Vous n’avez encore aucune classe."
+     },
+
+ { "key": "Classroom_ClassSearchPlaceHolder",
+ "value": "Tapez le nom de la classe."
+     },
+
+ { "key": "ClassRoom_CreatedMessage",
+ "value": "La classe a été créée avec succès."
+     },
+
+ { "key": "ClassRoom_DeletedMessage",
+ "value": "La classe a été supprimée avec succès. Tout ce qui était associé à cette classe a été supprimé."
+     },
+
+ { "key": "Classroom_Students",
+ "value": "Élèves"
+     },
+
+ { "key": "Classroom_StudentSearchPlaceHolder",
+ "value": "Tapez le code ou le nom de l’élève."
+     },
+
+ { "key": "Classroom_StudentsEmpty",
+ "value": "Vous n’avez encore aucun élève ici. Commencez à ajouter des élèves dès maintenant !"
+     },
+
+ { "key": "ClassRoom_UpdatedMessage",
+ "value": "La classe a été mise à jour avec succès."
+     },
+
+ { "key": "LinkSubjectswithGrades",
+ "value": "Link Subjects with Grades"
+     },
+
+ { "key": "NoActiveGradeSubjectMsg",
+ "value": "Vous devez d’abord activer une classe et ajouter une matière avant de poursuivre."
+     },
+
+ { "key": "ClassRoom_ChooseCoordinatorPlaceholder",
+ "value": "Superviseur des présences"
+     },
+     { "key": "attendance_supervisor_role" ,
+        "value": "attendance_supervisor_role"
+      },
+
+ { "key": "ClassRoom_ClassroomFieldsRequired",
+ "value": "Veuillez remplir les champs manquants."
+     },
+
+     { "key": "ClassRoom_ClassroomTitleLength" ,
+        "value":  "Le nom doit comporter entre 2 et 22 caractères."
+    },
+          { "key": "ClassRoom_ClassroomUdClassroomIdLength" ,
+        "value":  "Le code doit comporter entre 1 et 20 caractères."
+    },
+
+ { "key": "ClassRoom_NoGradesAreActivated",
+ "value": "Vous devez d’abord activer un niveau avant de poursuivre."
+     },
+
+ { "key": "LinkSubjectWithGrades",
+ "value": "Subjects linked with grades successfully"
+     },
+
+ { "key": "AllClassrooms",
+ "value": "Toutes les classes"
+     },
+
+ { "key": "CannotDeleteSubjectLinkedToGrade",
+ "value": "Impossible de supprimer cette matière. Vous devez d’abord dissocier les classes, les éducateurs ou les évaluations liés à cette matière."
+     },
+
+ { "key": "LinkSubjectSuccessMessage",
+ "value": "Your changes were saved successfully."
+     },
+
+ { "key": "GradesSubject",
+ "value": "niveaux/Matière"
+     },
+
+ { "key": "Classroom_AddStudents",
+ "value": "Ajouter des élèves"
+     },
+
+ { "key": "Classroom_ClassroomStudentCode",
+ "value": "Code de l’élève"
+     },
+
+ { "key": "ClassRoom_FieldLength",
+ "value": "Koodin ja otsikon on oltava yksilöllisiä ja 20 merkin sisällä."
+     },
+
+ { "key": "Classroom_TransferStudent",
+ "value": "Transférer"
+     },
+
+ { "key": "AddNewGroup",
+ "value": "CRÉER UN NOUVEAU GROUPE"
+     },
+
+ 
+ { "key": "NewGroup",
+ "value": "NOUVEAU GROUPE"
+     },
+
+ { "key": "SubjectGroups",
+ "value": "Ensembles de matières"
+     },
+
+
+
+ { "key": "ClassRoom_InvalidTitleOrCode",
+ "value": "Le nom doit être unique."
+     },
+
+ { "key": "Classroom_ChooseCoTeachersPlaceholder",
+ "value": "Assigner un co-enseignant"
+     },
+
+ { "key": "Classroom_ChooseTeacherPlaceholder",
+ "value": "Assigner un Enseignant"
+     },
+
+ { "key": "BulkStudentsClassroom",
+ "value": "To upload multiple students, download our &lt;a href={0}&gt;template sheet&lt;/a&gt; and add your students' first and last names, the code for their year groups (as set in 'Years'), classroom code (as set in 'Classroom'), and unique student IDs. "
+     },
+
+ { "key": "Admission",
+ "value": "Admission"
+     },
+
+     { "key": "FlexibleClasses" ,
+       "value":  "classe flexibles"
+     },
+     {
+       "key": "CreateFlexibleClass",
+       "value": "Créer une classe flexible"
+     
+     },
+     {
+       "key": "Classroom_CreatedSuccessfully",
+       "value": "La classe a été créée avec succès."
+     
+     },
+     {
+       "key": "PhoneNumberIsRequired",
+       "value": "Ce champ est obligatoire."
+     
+     }
+
+
+
+     
+]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "sabboura_tutors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@faker-js/faker": "^6.0.0",
+    "cy-verify-downloads": "^0.1.15",
+    "cypress": "^12.17.2",
+    "cypress-downloadfile": "^1.2.3",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}

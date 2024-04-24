@@ -1,0 +1,4294 @@
+﻿{
+
+  "data": [
+	{ "key": "A" ,
+     "value": "A"
+  },
+	{ "key": "AccessDenied" ,
+     "value": "Access Denied."
+  },
+	{ "key": "Actions" ,
+     "value": "Actions"
+  },
+	{ "key": "Activities" ,
+     "value": "Activities"
+  },
+	{ "key": "Add" ,
+     "value": "Add"
+  },
+	{ "key": "AddEducator" ,
+     "value": "Create Educator"
+  },
+	{ "key": "AdditionalInformation" ,
+     "value": "Use this area to provide additional information."
+  },
+	{ "key": "AddMoreQuestions" ,
+     "value": "Add More Questions"
+  },
+	{ "key": "AddStudent" ,
+     "value": "Add Student"
+  },
+	{ "key": "Course" ,
+     "value": "Course"
+  },
+	{ "key": "CourseContentsMessage" ,
+     "value": "Use Nagwa in conjunction with your preferred textbook. The recommended lessons from Nagwa for each section of this textbook are provided below. This course is not affiliated with, sponsored by, or endorsed by the publisher of the referenced textbook. Nagwa is a registered trademark of Nagwa Limited. All other trademarks and registered trademarks are the property of their respective owners."
+  },
+	{ "key": "CourseKeywords" ,
+     "value": "Course Keywords"
+  },
+	{ "key": "Courses" ,
+     "value": "Courses"
+  },
+	{ "key": "AllCourseswithoneCourseperLine" ,
+     "value": "All Courses with One Course per Line"
+  },
+	{ "key": "AllCourseswithoneCourseperLineDescription" ,
+     "value": "This report shows the performance of each course based on the questions students received in assessments related to lessons within each course. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "Assessments" ,
+     "value": "Assessments"
+  },
+	{ "key": "AssessmentsReports" ,
+     "value": "Assessment Reports"
+  },
+	{ "key": "AssessmentTitle" ,
+     "value": "Title"
+  },
+	{ "key": "AssignToClasses" ,
+     "value": "Assign to Classes"
+  },
+	{ "key": "AssignToStudents" ,
+     "value": "Assign to Students"
+  },
+	{ "key": "AtRowsNumber" ,
+     "value": "Row(s)"
+  },
+	{ "key": "Attach" ,
+     "value": "Attach"
+  },
+	{ "key": "AverageScore" ,
+     "value": "Average Score"
+  },
+	{ "key": "B" ,
+     "value": "B"
+  },
+	{ "key": "BulkStudentIgnoreMessage" ,
+     "value": "Ignore first row or header"
+  },
+	{ "key": "BulkStudentInitMessage" ,
+     "value": "Please select the appropriate title for each of the columns in your excel sheet. If you have used our template sheet you will also need to ignore the first row (as these are the titles of the columns)."
+  },
+	{ "key": "BulkStudents" ,
+     "value": "To upload multiple students, download our &lt;a href={0}&gt;template sheet&lt;/a&gt; and add your students' first and last names, the code for their year groups (as set in 'Years'), their class codes (as set in 'Classes'), and unique student IDs. Please note that if you add a student to multiple classes, separate each class code in the excel sheet with a comma."
+  },
+	{ "key": "C" ,
+     "value": "C"
+  },
+	{ "key": "CalendarYear" ,
+     "value": "Year"
+  },
+	{ "key": "Cancel" ,
+     "value": "Cancel"
+  },
+	{ "key": "CanNotDeleteGrade" ,
+     "value": "You can’t delete this year."
+  },
+	{ "key": "CantDeleteAssessment" ,
+     "value": "You can’t delete this assessment."
+  },
+	{ "key": "ChooseImageToUpload" ,
+     "value": "Attach"
+  },
+	{ "key": "ChooseImageToUpload1" ,
+     "value": "Choose image to upload"
+  },
+	{ "key": "ClassCoursesLinking" ,
+     "value": "Class/Course Linking"
+  },
+	{ "key": "ClassCo-TeachersLinking" ,
+     "value": "Class/Co-Teachers Linking"
+  },
+	{ "key": "ClassCode" ,
+     "value": "Class Code"
+  },
+	{ "key": "ClassCodeAlphanumericValidation" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "ClassCodeIsRequired" ,
+     "value": "The class code is missing."
+  },
+	{ "key": "ClassCodeLengthValidation" ,
+     "value": "The class code should be between 1 to 20 characters."
+  },
+	{ "key": "ClassCodemustnotstartorendwithComa" ,
+     "value": "The class code should not start or end with comma."
+  },
+	{ "key": "ClassCreatedMessage" ,
+     "value": "The class was created successfully."
+  },
+	{ "key": "ClassDeletedMessage" ,
+     "value": "The class was deleted successfully. Everything that was linked to this class has been removed."
+  },
+	{ "key": "Classes" ,
+     "value": "Classes"
+  },
+	{ "key": "Classes1" ,
+     "value": "Classes"
+  },
+	{ "key": "ClassHasUsers" ,
+     "value": "You can't delete this class. You need to remove the assigned students first."
+  },
+	{ "key": "ClassID" ,
+     "value": "Class Code"
+  },
+	{ "key": "ClassIdIsAlreadyExistInAnotherGrade" ,
+     "value": "The class code already exists in another year."
+  },
+	{ "key": "ClassLinking" ,
+     "value": "You don't have any classes yet. To link, you have to create a class first."
+  },
+	{ "key": "ClassName" ,
+     "value": "Class Title"
+  },
+	{ "key": "ClassStudentsLinking" ,
+     "value": "Class/Students Linking"
+  },
+	{ "key": "ClassTeacherLinking" ,
+     "value": "Class/Teacher Linking"
+  },
+	{ "key": "ClassTitle" ,
+     "value": "Class Title"
+  },
+	{ "key": "ClassUpdatedMessage" ,
+     "value": "The class was updated successfully."
+  },
+	{ "key": "Co-Teachers" ,
+     "value": "Co-Teachers"
+  },
+	{ "key": "ColumnsOrderSpecificationsMessage" ,
+     "value": "Please specify which of these columns are First and Last Names, Grades, Classes, and Student IDs."
+  },
+	{ "key": "ConfigureContentRestrictionTitle" ,
+     "value": "Configure Content Restriction"
+  },
+	{ "key": "ConfirmNewPassword" ,
+     "value": "Confirm New Password"
+  },
+	{ "key": "ConfirmPassword" ,
+     "value": "Confirm Password"
+  },
+	{ "key": "ConfirmPasswordnotMatch" ,
+     "value": "Both passwords don't match. Please try again."
+  },
+	{ "key": "Content" ,
+     "value": "Content"
+  },
+	{ "key": "Contentconfiguration" ,
+     "value": "Content configuration"
+  },
+	{ "key": "Copyright" ,
+     "value": "Copyright &amp;copy; {0} Nagwa"
+  },
+	{ "key": "Correct" ,
+     "value": "Correct"
+  },
+	{ "key": "CorrectAnswer" ,
+     "value": "The correct answer is:"
+  },
+	{ "key": "CorrectPerStudent" ,
+     "value": "Correct per Student"
+  },
+	{ "key": "Country" ,
+     "value": "Country"
+  },
+	{ "key": "CourseID" ,
+     "value": "Course ID"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line" ,
+     "value": "A Specific Course-Class with one Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Description" ,
+     "value": "This is a report about the course {0} with one lesson per line."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line" ,
+     "value": "A Specific Course-Class with one Student per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Description" ,
+     "value": "This is a report about the course {0} with one student per line."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line" ,
+     "value": "A Specific Course-Student with one Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Description" ,
+     "value": "This is a report about the course {0} with one lesson per line."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line" ,
+     "value": "A Specific Course-Lesson with one Student per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Description" ,
+     "value": "This is a report about the course {0} with one student per line."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line" ,
+     "value": "Courses Performance Specific Course One Class Per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Description" ,
+     "value": "This is a report about the course {0} with one class per line."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line" ,
+     "value": "Courses Performance Specific Course One Lesson Per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Description" ,
+     "value": "This report shows the performance of each lesson based on the questions students received in assessments within the course specified below. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line" ,
+     "value": "Courses Performance Specific Course One Student Per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Studnet_Per_Line_Description" ,
+     "value": "This is a report about the course {0} with one student per line."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line" ,
+     "value": "A Specific Course-Student with one Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line_Description" ,
+     "value": "This is a report about the course {0} with one lesson per line."
+  },
+	{ "key": "CourseTitle" ,
+     "value": "Course Title"
+  },
+	{ "key": "CreateAssessment" ,
+     "value": "Create an Assessment"
+  },
+	{ "key": "CreateClass" ,
+     "value": "Create a Class"
+  },
+	{ "key": "CreateClassFirst" ,
+     "value": "Create a Class"
+  },
+	{ "key": "CreateGrade" ,
+     "value": "Create a Year"
+  },
+	{ "key": "CreateNewClass" ,
+     "value": "Create Class"
+  },
+	{ "key": "CreateNewYear" ,
+     "value": "Create a Year"
+  },
+	{ "key": "CreatePassword" ,
+     "value": "Create Password"
+  },
+	{ "key": "CreationDate" ,
+     "value": "Creation Date"
+  },
+	{ "key": "D" ,
+     "value": "D"
+  },
+	{ "key": "Dashboard" ,
+     "value": "Dashboard"
+  },
+	{ "key": "Day" ,
+     "value": "Day"
+  },
+	{ "key": "Delete" ,
+     "value": "Delete"
+  },
+	{ "key": "DeleteConfirmMessage" ,
+     "value": "Are you sure you want to delete this?"
+  },
+	{ "key": "DeleteStudentConfirmMessage" ,
+     "value": "Are you sure you want to delete this account?"
+  },
+	{ "key": "DeletedClassMessage" ,
+     "value": "Are you sure you want to delete this?"
+  },
+	{ "key": "deleteGradeConfirmMessage" ,
+     "value": "Are you sure you want to delete this?"
+  },
+	{ "key": "DeleteWaningMessage" ,
+     "value": "Once deleted, you will not be able to recover it."
+  },
+	{ "key": "Download" ,
+     "value": "Download"
+  },
+	{ "key": "DueDate" ,
+     "value": "Due Date"
+  },
+	{ "key": "DueDateToPortalTimeValidation" ,
+     "value": "The due date or time must be greater than portal's date time."
+  },
+	{ "key": "DuplicateClassID" ,
+     "value": "This code is already taken. Please choose another one."
+  },
+	{ "key": "DuplicateClassIDAndTitle" ,
+     "value": "The code and title are already taken. Please choose another one."
+  },
+	{ "key": "DuplicateClassTitle" ,
+     "value": "This title is already taken. Please choose another one."
+  },
+	{ "key": "DuplicateEducatorEmail" ,
+     "value": "This email is already taken. Please choose another one."
+  },
+	{ "key": "Duplicatefirstandlastnamecombinations" ,
+     "value": "First and last names are duplicates. Please enter a different name."
+  },
+	{ "key": "DuplicateGradeID" ,
+     "value": "This code is already taken. Please choose another one."
+  },
+	{ "key": "DuplicateGradeIDAndTitle" ,
+     "value": "The code and title are already taken. Please choose another one."
+  },
+	{ "key": "DuplicateGradeTitle" ,
+     "value": "This title is already taken. Please choose another one."
+  },
+	{ "key": "DuplicateStudentID" ,
+     "value": "This ID already exists. Please enter another one."
+  },
+	{ "key": "DurationTimeValidation" ,
+     "value": "The quiz's duration should not exceed the assessment's total time total (The difference between due date and start date)"
+  },
+	{ "key": "DurationValidation" ,
+     "value": "Please enter a valid number."
+  },
+	{ "key": "E" ,
+     "value": "E"
+  },
+	{ "key": "Edit" ,
+     "value": "Edit"
+  },
+	{ "key": "EditAssessment" ,
+     "value": "Edit Assessment"
+  },
+	{ "key": "EditAssessmentStep1" ,
+     "value": "Edit Assessment • Step 1 of 3: Add General Info"
+  },
+	{ "key": "EditClass" ,
+     "value": "Edit Class"
+  },
+	{ "key": "EditEducator" ,
+     "value": "Edit Educator"
+  },
+	{ "key": "EditPortal" ,
+     "value": "Edit"
+  },
+	{ "key": "EditStudent" ,
+     "value": "Edit Student"
+  },
+	{ "key": "EditYear" ,
+     "value": "Edit Year"
+  },
+	{ "key": "EducatorCreatedMessage" ,
+     "value": "The educator account was created successfully. It might take a few minutes for the change to take effect."
+  },
+	{ "key": "EducatorFailedToUpdateMessage" ,
+     "value": "Failed To update educator's information. Please try again."
+  },
+	{ "key": "EducatorFirstName" ,
+     "value": "First Name"
+  },
+	{ "key": "EducatorLastName" ,
+     "value": "Last Name"
+  },
+	{ "key": "Educators" ,
+     "value": "Educators"
+  },
+	{ "key": "EducatorUpdatedMessage" ,
+     "value": "The educator's information has been updated successfully. It might take a few minutes for the change to take effect."
+  },
+	{ "key": "Email" ,
+     "value": "Email"
+  },
+	{ "key": "Email/Username" ,
+     "value": "Email/Username"
+  },
+	{ "key": "EmailAddress" ,
+     "value": "Email Address"
+  },
+	{ "key": "EmailSendMessage" ,
+     "value": "If the email address you entered is associated with your school portal, an email will be sent with password reset instructions."
+  },
+	{ "key": "EmailValidationMessage" ,
+     "value": "Please enter a valid email address."
+  },
+	{ "key": "Exams" ,
+     "value": "Exams"
+  },
+	{ "key": "ExamsKeywords" ,
+     "value": "Exams Keywords"
+  },
+	{ "key": "ExpiryTime" ,
+     "value": "Quiz's Expiry Time"
+  },
+	{ "key": "Explainer" ,
+     "value": "Explainer"
+  },
+	{ "key": "Explainers" ,
+     "value": "Explainers"
+  },
+	{ "key": "F" ,
+     "value": "F"
+  },
+	{ "key": "Failed" ,
+     "value": "Failed"
+  },
+	{ "key": "FirstName" ,
+     "value": "First Name"
+  },
+	{ "key": "FirstNameIsRequired" ,
+     "value": "This field is required."
+  },
+	{ "key": "FirstNameLengthValidation" ,
+     "value": "First Name should be between 1 to 50 characters."
+  },
+	{ "key": "FirstNameValidation" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "ForgotPassword" ,
+     "value": "Forgot Password"
+  },
+	{ "key": "G" ,
+     "value": "G"
+  },
+	{ "key": "GoHome" ,
+     "value": "Go Home"
+  },
+	{ "key": "GradeCreatedMessage" ,
+     "value": "Year was added successfully."
+  },
+	{ "key": "GradeDeletedMessage" ,
+     "value": "Year was deleted successfully."
+  },
+	{ "key": "GradeID" ,
+     "value": "Year Code"
+  },
+	{ "key": "GradeUpdatedMessage" ,
+     "value": "Year was updated successfully."
+  },
+	{ "key": "Homepage" ,
+     "value": "Homepage"
+  },
+	{ "key": "ID" ,
+     "value": "ID"
+  },
+	{ "key": "Incorrect" ,
+     "value": "Incorrect"
+  },
+	{ "key": "IncorrectPerStudent" ,
+     "value": "Incorrect per Student"
+  },
+	{ "key": "InsertDataIntoExcel" ,
+     "value": "The file is empty. Please fill the template and re-upload the file."
+  },
+	{ "key": "InternalServerError" ,
+     "value": "Internal server error. Please try again later."
+  },
+	{ "key": "InvalidFileExtension" ,
+     "value": "Invalid file format. Only .xlsx files are supported."
+  },
+	{ "key": "InvalidFileFormat" ,
+     "value": "Invalid file format."
+  },
+	{ "key": "InvalidGradeId" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "InvalidMail" ,
+     "value": "Please enter a valid email address."
+  },
+	{ "key": "InvalidMailForAddEducator" ,
+     "value": "Please enter a valid email address."
+  },
+	{ "key": "InvalidNumberOfUploadedColumns" ,
+     "value": "The number of columns should match the ones in the template."
+  },
+	{ "key": "InvalidPassword" ,
+     "value": "The password is incorrect. Please try again."
+  },
+	{ "key": "Language" ,
+     "value": "Language"
+  },
+	{ "key": "LanguageNotSupported" ,
+     "value": "This language is not supported by your portal. If you want to view this page with the selected language, please visit www.nagwa.com whilst signed out."
+  },
+	{ "key": "LastName" ,
+     "value": "Last Name"
+  },
+	{ "key": "LastNameIsRequired" ,
+     "value": "This field is required."
+  },
+	{ "key": "LastNameLengthValidation" ,
+     "value": "Last Name should be between 1 to 50 characters."
+  },
+	{ "key": "LastNameValidation" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "LengthValidationMessage" ,
+     "value": "This field should be between {0} to {1} characters."
+  },
+	{ "key": "Lesson" ,
+     "value": "Lesson"
+  },
+	{ "key": "LessonID" ,
+     "value": "Lesson ID"
+  },
+	{ "key": "Lessons" ,
+     "value": "Lessons"
+  },
+	{ "key": "LessonsInUse" ,
+     "value": "Lessons In Use"
+  },
+	{ "key": "LessonsKeywords" ,
+     "value": "Lessons Keywords"
+  },
+	{ "key": "LessonTitle" ,
+     "value": "Lesson Title"
+  },
+	{ "key": "MailNotFound" ,
+     "value": "We couldn't find this email in our registry. Please use another one."
+  },
+	{ "key": "MailNotVerified" ,
+     "value": "This account hasn't been verified yet."
+  },
+	{ "key": "MaxDurationValidation" ,
+     "value": "The duration of the quiz is exceedingly long."
+  },
+	{ "key": "MaxlengthValidationMessage" ,
+     "value": "Please enter no more than {0} characters."
+  },
+	{ "key": "MinDurationValidation" ,
+     "value": "The duration of the quiz shouldn't be less than 1 minute."
+  },
+	{ "key": "MinlengthValidationMessage" ,
+     "value": "Please enter at least {0} characters."
+  },
+	{ "key": "Minutes" ,
+     "value": "Minutes"
+  },
+	{ "key": "Month" ,
+     "value": "Month"
+  },
+	{ "key": "Multiple" ,
+     "value": "Multiple"
+  },
+	{ "key": "MyAccount" ,
+     "value": "My Account"
+  },
+	{ "key": "NagwaMission" ,
+     "value": "Nagwa is an educational technology startup aiming to help teachers teach and students learn."
+  },
+	{ "key": "NewAssessment" ,
+     "value": "New Assessment"
+  },
+	{ "key": "NewAssessmentAddGeneralInfo" ,
+     "value": "New Assessment • Step 1 of 3: Add General Info"
+  },
+	{ "key": "NewAssessmentAddQuestions" ,
+     "value": "• Step 2 of 3: Add Questions"
+  },
+	{ "key": "NewAssessmentStep3" ,
+     "value": "New Assessment • Step 3 of 3: Preview and Send Assessment"
+  },
+	{ "key": "NewClass" ,
+     "value": "New Class"
+  },
+	{ "key": "NewEducator" ,
+     "value": "New Educator"
+  },
+	{ "key": "NewGrade" ,
+     "value": "New Year"
+  },
+	{ "key": "NewPassword" ,
+     "value": "New Password"
+  },
+	{ "key": "NewStudent" ,
+     "value": "New Student"
+  },
+	{ "key": "NewYear" ,
+     "value": "New Year"
+  },
+	{ "key": "Next" ,
+     "value": "Next"
+  },
+	{ "key": "Next20Classes" ,
+     "value": "Next 20 Classes"
+  },
+	{ "key": "NextStep" ,
+     "value": "Next Step"
+  },
+	{ "key": "NoCoursesyet" ,
+     "value": "There are no courses available."
+  },
+	{ "key": "NoAttachedFile" ,
+     "value": "There is no file attached."
+  },
+	{ "key": "noCommaMessage" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "NoContent" ,
+     "value": "You have ventured too far in the desert. You have no access for this page."
+  },
+	{ "key": "NoEducatorFound" ,
+     "value": "You have any educators yet."
+  },
+	{ "key": "NoExamsFound" ,
+     "value": "No Exams Found."
+  },
+	{ "key": "Nokeywordfiltration" ,
+     "value": "No keyword filtration"
+  },
+	{ "key": "NoResultsFound" ,
+     "value": "No results found."
+  },
+	{ "key": "NoSearchResults" ,
+     "value": "No results found."
+  },
+	{ "key": "noSpaceForPasswordMessage" ,
+     "value": "Your password can't start or end with a blank space."
+  },
+	{ "key": "noSpacesMessage" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "NoYearsForEducatorClassAlignmentsLinking" ,
+     "value": "There are no years yet. Contact your portal admin to create a year first to be able to create a class."
+  },
+	{ "key": "NumberOfQuestions" ,
+     "value": "Number of Questions"
+  },
+	{ "key": "of" ,
+     "value": "of"
+  },
+	{ "key": "Individual" ,
+     "value": "Individual"
+  },
+	{ "key": "PageNotExist" ,
+     "value": "The page you are trying to access does not exist."
+  },
+	{ "key": "PageNotFound" ,
+     "value": "Page Not Found"
+  },
+	{ "key": "Password" ,
+     "value": "Password"
+  },
+	{ "key": "PickLesson" ,
+     "value": "Pick a lesson from the left then the corresponding questions will appear here."
+  },
+	{ "key": "PortalEducators" ,
+     "value": "Educators"
+  },
+	{ "key": "PortalFailedToUpdateMessage" ,
+     "value": "Failed to update portal's information. Please try again."
+  },
+	{ "key": "PortalId" ,
+     "value": "Portal ID"
+  },
+	{ "key": "PortalInfo" ,
+     "value": "Portal Profile"
+  },
+	{ "key": "PortalLogo" ,
+     "value": "Portal Logo"
+  },
+	{ "key": "PortalName" ,
+     "value": "Portal Name"
+  },
+	{ "key": "PortalStudents" ,
+     "value": "Students"
+  },
+	{ "key": "PortalStudentsList" ,
+     "value": "Students"
+  },
+	{ "key": "PortalUpdatedMessage" ,
+     "value": "Portal's information has been updated successfully."
+  },
+	{ "key": "Preview" ,
+     "value": "Preview"
+  },
+	{ "key": "Previous" ,
+     "value": "Previous"
+  },
+	{ "key": "Previous100" ,
+     "value": "Previous100"
+  },
+	{ "key": "Previous20Classes" ,
+     "value": "Previous 20 Classes"
+  },
+	{ "key": "Process" ,
+     "value": "Process"
+  },
+	{ "key": "Q" ,
+     "value": "Q"
+  },
+	{ "key": "Question" ,
+     "value": "Question"
+  },
+	{ "key": "Questions" ,
+     "value": "Questions"
+  },
+	{ "key": "QuestionsPerStudent" ,
+     "value": "Questions per Student"
+  },
+	{ "key": "QuestionVideos" ,
+     "value": "Question Videos"
+  },
+	{ "key": "QuizDescribtion" ,
+     "value": "(Students will be allowed to solve assessments within the required time duration.)"
+  },
+	{ "key": "QuizDuration" ,
+     "value": "Quiz Duration"
+  },
+	{ "key": "Read" ,
+     "value": "Read"
+  },
+	{ "key": "RecommendedLessons" ,
+     "value": "Recommended Lessons"
+  },
+	{ "key": "RelatedLessons" ,
+     "value": "Related Lessons"
+  },
+	{ "key": "Remove" ,
+     "value": "Remove"
+  },
+	{ "key": "Reports" ,
+     "value": "Reports"
+  },
+	{ "key": "RequiredValidationMessage" ,
+     "value": "This field is required."
+  },
+	{ "key": "ResetPassword" ,
+     "value": "Reset Password"
+  },
+	{ "key": "ResetPasswordConfirmMessage" ,
+     "value": "Are you sure you want to reset this student's password?"
+  },
+	{ "key": "ResetPasswordConfirmMessageTitle" ,
+     "value": "Reset Password"
+  },
+	{ "key": "ResetPasswordRequest" ,
+     "value": "Reset Password Request"
+  },
+	{ "key": "ResetStudentPasswordMessage" ,
+     "value": "Now, the student will be able to set a new password the next time they sign in."
+  },
+	{ "key": "RestrictedContent" ,
+     "value": "Restricted Content"
+  },
+	{ "key": "RightsReserved" ,
+     "value": "All Rights Reserved"
+  },
+	{ "key": "SameItemSelection" ,
+     "value": "This title is already taken. Please choose another one."
+  },
+	{ "key": "SampleQuestionVideos" ,
+     "value": "Sample Question Videos"
+  },
+	{ "key": "Save" ,
+     "value": "Save"
+  },
+	{ "key": "SaveAsDraft" ,
+     "value": "Save as Draft"
+  },
+	{ "key": "Score" ,
+     "value": "Score"
+  },
+	{ "key": "Search" ,
+     "value": "Search"
+  },
+	{ "key": "SearchForLessons" ,
+     "value": "Search for Lessons"
+  },
+	{ "key": "SearchingResults" ,
+     "value": "Searching for Results"
+  },
+	{ "key": "SearchorForLessonsTitle" ,
+     "value": "Search for lessons here and start adding questions to your assessment."
+  },
+	{ "key": "SearchResults" ,
+     "value": "Search Results"
+  },
+	{ "key": "Select" ,
+     "value": "Select"
+  },
+	{ "key": "SelectAllSubjects" ,
+     "value": "Select all subjects"
+  },
+	{ "key": "SelectSubject" ,
+     "value": "Select the subjects you would like to include in this portal"
+  },
+	{ "key": "SelectTitles" ,
+     "value": "Select Titles"
+  },
+	{ "key": "Send" ,
+     "value": "Send"
+  },
+	{ "key": "SendAsQuiz" ,
+     "value": "Send as quiz"
+  },
+	{ "key": "SetKeywords" ,
+     "value": "Set keywords to limit the content in this portal."
+  },
+	{ "key": "ShowMore" ,
+     "value": "Show More"
+  },
+	{ "key": "SignIn" ,
+     "value": "Sign In"
+  },
+	{ "key": "SignInPasswordValidation" ,
+     "value": "Your password must be at least 6 characters long."
+  },
+	{ "key": "SignOut" ,
+     "value": "Sign Out"
+  },
+	{ "key": "Skipped" ,
+     "value": "Skipped"
+  },
+	{ "key": "SkippedPerStudent" ,
+     "value": "Skipped Questions per Student"
+  },
+	{ "key": "SolutionVideoQuestion" ,
+     "value": "Solution Videos"
+  },
+	{ "key": "SolutionVideos" ,
+     "value": "Solution Videos"
+  },
+	{ "key": "SomeThingWentWrong" ,
+     "value": "Something went wrong. Please try again"
+  },
+	{ "key": "StartDate" ,
+     "value": "Start Date"
+  },
+	{ "key": "StartDateToDueDate" ,
+     "value": "The due date or time must be greater than the start date."
+  },
+	{ "key": "StartDateToPortalTimeValidation" ,
+     "value": "The start date or time must be greater than or equal to the portal's date time."
+  },
+	{ "key": "Status" ,
+     "value": "Status"
+  },
+	{ "key": "String" ,
+     "value": "The class was deleted successfully. Everything that was linked to this class has been removed."
+  },
+	{ "key": "Student's Code" ,
+     "value": "Student's Code"
+  },
+	{ "key": "StudentAddedSuccessfullyMessage" ,
+     "value": "The student account was created successfully. It might take a few minutes for the change to take effect."
+  },
+	{ "key": "StudentAssessmentPerformanceReportEmpty" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "StudentID" ,
+     "value": "Student ID"
+  },
+	{ "key": "StudentIdIsRequired" ,
+     "value": "This field is required."
+  },
+	{ "key": "StudentIdLengthValidation" ,
+     "value": "Student ID should be between 1 to 20 characters."
+  },
+	{ "key": "StudentIdsAlreadyExist" ,
+     "value": "This student ID already exists."
+  },
+	{ "key": "StudentIdValidation" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "StudentName" ,
+     "value": "Student’s Name"
+  },
+	{ "key": "Students" ,
+     "value": "Students"
+  },
+	{ "key": "StudentUpdatedMessage" ,
+     "value": "The student's information has been updated successfully. It might take a few minutes for the change to take effect."
+  },
+	{ "key": "Subject" ,
+     "value": "Subject"
+  },
+	{ "key": "TableOfContents" ,
+     "value": "Table Of Contents"
+  },
+	{ "key": "Teacher" ,
+     "value": "Teacher"
+  },
+	{ "key": "TemplateSheet" ,
+     "value": "template sheet"
+  },
+	{ "key": "ThereAreNoClassesYetForAdmin" ,
+     "value": "You have no classes yet. Start creating classes now!"
+  },
+	{ "key": "ThereAreNoClassesYetForEducator" ,
+     "value": "You have no classes yet. Start creating classes now!"
+  },
+	{ "key": "ThereAreNoLessons" ,
+     "value": "There are no lessons available."
+  },
+	{ "key": "ThereAreNoStudents" ,
+     "value": "You have no students yet. Start adding students now!"
+  },
+	{ "key": "ThereAreNovideos" ,
+     "value": "There are no videos available yet."
+  },
+	{ "key": "ThereAreNoWorksheets" ,
+     "value": "There are no worksheets available yet."
+  },
+	{ "key": "ThereAreNoYears" ,
+     "value": "There are no years yet. Start creating years now!"
+  },
+	{ "key": "ThereAreNoYearsYetForAdmin" ,
+     "value": "You need to create years first before creating a class."
+  },
+	{ "key": "ThereAreNoYearsYetForEducator" ,
+     "value": "There are no years yet. Contact your portal admin to create years first before creating a class."
+  },
+	{ "key": "ThereIsNoAllCourseswithoneCourseperLineReports" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoAssessmentsReports" ,
+     "value": "You don’t have any assessment reports."
+  },
+	{ "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoCoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoCoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Class_Per_Line" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Lesson_Per_Line" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoCoursesPerformance_Specific_Course_One_Student_Per_Line" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoCoursesPerformance_Specific_Course_Student_One_Lesson_Per_Line" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "ThereIsNoExams" ,
+     "value": "This portal is not subscribed to any exam bundles."
+  },
+	{ "key": "ThereIsNoExplainers" ,
+     "value": "There are no explainers available yet."
+  },
+	{ "key": "ThereIsNoWorksheetsReports" ,
+     "value": "You don’t have any worksheet reports."
+  },
+	{ "key": "TherIsNoAssessments" ,
+     "value": "You have no assessments yet. Create one now!"
+  },
+	{ "key": "Time" ,
+     "value": "Time"
+  },
+	{ "key": "TimeDuration" ,
+     "value": "Duration in minutes"
+  },
+	{ "key": "Timezone" ,
+     "value": "Timezone"
+  },
+	{ "key": "Title" ,
+     "value": "Title"
+  },
+	{ "key": "TotalQuestions" ,
+     "value": "Total Questions"
+  },
+	{ "key": "Transcript" ,
+     "value": "Transcript"
+  },
+	{ "key": "Upload" ,
+     "value": "Upload"
+  },
+	{ "key": "UploadEmptyFile" ,
+     "value": "The file is empty. Please fill the template and re-upload the file."
+  },
+	{ "key": "UploadEmptyRowsInTheFile" ,
+     "value": "Some rows are missing. Please fill the empty rows and re-upload the file."
+  },
+	{ "key": "ExcelFile" ,
+     "value": "Excel File"
+  },
+	{ "key": "UserEmailAddress" ,
+     "value": "Email Address"
+  },
+	{ "key": "Username" ,
+     "value": "Username"
+  },
+	{ "key": "Users" ,
+     "value": "Users"
+  },
+  { "key": "Staff" ,
+    "value":  "Staff"
+  },
+  { "key": "role" ,
+    "value":  "Roles"
+  }, 
+  { "key": "CreateNewStaffMember" ,
+    "value":  "Create New Staff Member"
+  },
+  { "key": "CreateStudents" ,
+    "value":  "Create Students"
+  },
+
+	{ "key": "Video" ,
+     "value": "Video"
+  },
+	{ "key": "Videos" ,
+     "value": "Videos"
+  },
+	{ "key": "UserGuide" ,
+     "value": "User Guide"
+  },
+	{ "key": "UserGuideSubTitle" ,
+     "value": "Get the most out of your Nagwa Portal!"
+  },
+	{ "key": "Admins" ,
+     "value": "Admins"
+  },
+	{ "key": "MetaDescription" ,
+     "value": "Watch these videos to help you understand how to make the best use of our product."
+  },
+	{ "key": "NoVideos" ,
+     "value": "There are no available videos."
+  },
+	{ "key": "View" ,
+     "value": "View"
+  },
+	{ "key": "ViewClasses" ,
+     "value": "View Classes"
+  },
+	{ "key": "ViewLessons" ,
+     "value": "View Lessons"
+  },
+	{ "key": "ViewReport" ,
+     "value": "View Report"
+  },
+	{ "key": "ViewReports" ,
+     "value": "View Reports"
+  },
+	{ "key": "ViewStudents" ,
+     "value": "View Students"
+  },
+	{ "key": "VisitNagwacom" ,
+     "value": "www.nagwa.com"
+  },
+	{ "key": "Worksheet" ,
+     "value": "Worksheet"
+  },
+	{ "key": "Worksheets" ,
+     "value": "Worksheets"
+  },
+	{ "key": "WorksheetsReports" ,
+     "value": "Worksheet Reports"
+  },
+	{ "key": "WorksheetTitle" ,
+     "value": "Title"
+  },
+	{ "key": "Year" ,
+     "value": "Year"
+  },
+	{ "key": "YearCode" ,
+     "value": "Code"
+  },
+	{ "key": "YearCodeIsRequired" ,
+     "value": "The year code is missing."
+  },
+	{ "key": "YearCodeLengthValidation" ,
+     "value": "The year code should be between 2 to 20 characters."
+  },
+	{ "key": "YearCodeValidation" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "YearName" ,
+     "value": "Title"
+  },
+	{ "key": "Years" ,
+     "value": "Years"
+  },
+	{ "key": "YouNeedAccountMessage" ,
+     "value": "You need an account to access this page. Sign up now!"
+  },
+	{ "key": "ThereAreNoContent" ,
+     "value": "Your portal has no content to be displayed in this page"
+  },
+	{ "key": "CoursesPerformance_Class" ,
+     "value": "Class"
+  },
+	{ "key": "CoursesPerformance_Course" ,
+     "value": "Course"
+  },
+	{ "key": "CoursesPerformance_Lesson" ,
+     "value": "Lesson"
+  },
+	{ "key": "CoursesPerformance_No_of_Classes" ,
+     "value": "No. of classes"
+  },
+	{ "key": "CoursesPerformance_No_of_Lessons" ,
+     "value": "No. of Lessons"
+  },
+	{ "key": "CoursesPerformance_No_of_students" ,
+     "value": "No. of students"
+  },
+	{ "key": "CoursesPerformance_No_of_students_In_Class" ,
+     "value": "No. of students in class"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Desc" ,
+     "value": "This report shows the performance of each lesson in the course specified below, based on the questions students received in assessments (Students are filtered by only those who are assigned to the specified class). It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Title" ,
+     "value": "Report: Course » Class » One Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_desc" ,
+     "value": "This report shows the performance of each student in the course specified below, based on the questions students received in assessments. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Title" ,
+     "value": "Report: Course » Class » One Student per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Desc" ,
+     "value": "This report shows the performance of a specific student per each lesson in the course specified below, based on the questions this student received in assessments. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Title" ,
+     "value": "Report: Lesson » One Student per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_desc" ,
+     "value": "This report shows the performance of each class based on the questions students received in assessments related to lessons within the course specified below. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+
+	{ "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_Title" ,
+     "value": "Report: Course » One Student per Line"
+  },
+	{ "key": "CoursesPerformance_Student" ,
+     "value": "Student"
+  },
+	{ "key": "All_Courses_One_Course_per_Line_desc" ,
+     "value": "This report shows the performance of each course based on the questions students received in assessments related to lessons within each course. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+
+	{ "key": "All_Courses_One_Course_per_Line_Title" ,
+     "value": "Report: All Courses » One Course per Line"
+  },
+	{ "key": "MustUseAdminEmail" ,
+     "value": "Must use admin email"
+  },
+	{ "key": "MustUseEducatorEmail" ,
+     "value": "Must use educator email"
+  },
+	{ "key": "YourAreNotInTheWhiteList" ,
+     "value": "Your are not in the white list"
+  },
+	{ "key": "InvalidEmailOrPassword" ,
+     "value": "The email or password is incorrect. Please try again."
+  },
+	{ "key": "AssessmentPerformance" ,
+     "value": "Assessment Performance"
+  },
+	{ "key": "AssessmentPerformanceReports" ,
+     "value": "Assessment Performance Reports"
+  },
+	{ "key": "ClassAlignmentAssessmentPerformanceReport" ,
+     "value": "Class-Alignment Assessment Performance Report"
+  },
+	{ "key": "ClassAlignmentAssessmentPerformanceReports" ,
+     "value": "Class-Alignment Assessment Performance Reports"
+  },
+	{ "key": "CoursesPerformance_Classes" ,
+     "value": "Classes"
+  },
+	{ "key": "CoursesPerformance_Courses" ,
+     "value": "Courses"
+  },
+	{ "key": "CoursesPerformance_Grade" ,
+     "value": "Year"
+  },
+	{ "key": "CoursesPerformance_Grades" ,
+     "value": "Years"
+  },
+	{ "key": "CoursesPerformance_Lessons" ,
+     "value": "Lessons"
+  },
+	{ "key": "CoursesPerformance_Students" ,
+     "value": "Students"
+  },
+	{ "key": "CoursesPerformance_Total" ,
+     "value": "Total"
+  },
+	{ "key": "StudentAssessmentPerformanceReport" ,
+     "value": "All Students with One Student per Line"
+  },
+	{ "key": "StudentAssessmentPerformanceReport_desc" ,
+     "value": "This report shows the performance of each student based on the questions they received in assessments. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "StudentCode" ,
+     "value": "Student Code"
+  },
+	{ "key": "UnansweredPerStudent" ,
+     "value": "Unanswered per Student"
+  },
+	{ "key": "CannotRemovetheSubject" ,
+     "value": "Cannot Remove the Subject"
+  },
+	{ "key": "unlinktheeducatorslinkedtothisclassfirst" ,
+     "value": "You have to unlink the educators linked to this class first"
+  },
+	{ "key": "ThereAreNoSubjectYetForEducator" ,
+     "value": "You can’t create a class, there’s no subject assigned to you. contact your portal admin to assign to a subject first"
+  },
+	{ "key": "UnlinkClassTeacherConfirmationMsg" ,
+     "value": "as a teacher from this class?"
+  },
+	{ "key": "Yes" ,
+     "value": "Yes"
+  },
+	{ "key": "NoEducatorMatchClassSubject" ,
+     "value": "There are no educators who match this class's subject yet."
+  },
+	{ "key": "UnlinkClassCoTeacherConfirmationMsg" ,
+     "value": " as a co-teacher from this class?"
+  },
+	{ "key": "UnLinkConfirmationMsg" ,
+     "value": "Are you sure you want to remove"
+  },
+	{ "key": "NumberofCorrectAnswers" ,
+     "value": "Correct"
+  },
+	{ "key": "NumberofIncorrectAnswers" ,
+     "value": "Incorrect"
+  },
+	{ "key": "NumberofQuestionsinallassessments" ,
+     "value": "Questions"
+  },
+	{ "key": "NumberofSkipped" ,
+     "value": "Unanswered"
+  },
+	{ "key": "CreatedBy" ,
+     "value": "Created By"
+  },
+	{ "key": "ClassIdNotExist" ,
+     "value": "This class code doesn't exist."
+  },
+	{ "key": "GradeIdNotExist" ,
+     "value": "This grade code doesn't exist."
+  },
+	{ "key": "StudentsValidationMessage" ,
+     "value": "You can't create an assessment without assigning either class(es) or student(s) first."
+  },
+	{ "key": "Unanswered" ,
+     "value": "Unanswered"
+  },
+	{ "key": "EducatorNotAllowToCreateAssessment" ,
+     "value": "You need to create a class first before creating an assessment."
+  },
+	{ "key": "Assessment" ,
+     "value": "Assessment"
+  },
+	{ "key": "Closed" ,
+     "value": "Closed"
+  },
+	{ "key": "Draft" ,
+     "value": "Draft"
+  },
+	{ "key": "InProgress" ,
+     "value": "In Progress"
+  },
+	{ "key": "Opened" ,
+     "value": "Open"
+  },
+	{ "key": "Quiz" ,
+     "value": "Quiz"
+  },
+	{ "key": "Type" ,
+     "value": "Type"
+  },
+	{ "key": "LanguageTitle" ,
+     "value": "English"
+  },
+	{ "key": "Grade" ,
+     "value": "Year"
+  },
+	{ "key": "ChooseTeacherPlaceholder" ,
+     "value": "Select Teacher"
+  },
+	{ "key": "TeacherLinkMsg" ,
+     "value": "You can only link 1 teacher"
+  },
+	{ "key": "ChooseCoTeachersPlaceholder" ,
+     "value": "Select Co-Teachers"
+  },
+	{ "key": "ChooseStudentsPlaceholder" ,
+     "value": "Select Students"
+  },
+	{ "key": "ChooseCoursesPlaceholder" ,
+     "value": "Choose Courses ..."
+  },
+	{ "key": "UnlinkAlignmentConfirmationMsg" ,
+     "value": "Are you sure you want to remove this ?"
+  },
+	{ "key": "ChooseClassesPlaceholder" ,
+     "value": "Select Classes"
+  },
+	{ "key": "ChooseSubjectPlaceholder" ,
+     "value": "Select Subject"
+  },
+	{ "key": "CreateAssessmentTitleForEducator" ,
+     "value": "Create Assessment"
+  },
+	{ "key": "MaximumSubjectMsg" ,
+     "value": "You can only select 1 subject"
+  },
+	{ "key": "Done" ,
+     "value": "Done"
+  },
+	{ "key": "Subjects" ,
+     "value": "Subjects"
+  },
+	{ "key": "Questions2" ,
+     "value": "Question"
+  },
+	{ "key": "ClassAlignmentAssessmentPerformanceReportsEmpty" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "OK" ,
+     "value": "OK"
+  },
+	{ "key": "SearchLessonsPlaceHolder" ,
+     "value": "Search Lessons"
+  },
+	{ "key": "AssessmentDeletedMessage" ,
+     "value": "Assessment has been Deleted."
+  },
+	{ "key": "Removed" ,
+     "value": "Removed"
+  },
+	{ "key": "NagwaLogoName" ,
+     "value": "logo.svg"
+  },
+	{ "key": "FileExtensionValidationMessage" ,
+     "value": "Invalid file format, Please insert jpg, png, jpeg and svg only"
+  },
+	{ "key": "April" ,
+     "value": "April"
+  },
+	{ "key": "August" ,
+     "value": "August"
+  },
+	{ "key": "December" ,
+     "value": "December"
+  },
+	{ "key": "February" ,
+     "value": "February"
+  },
+	{ "key": "January" ,
+     "value": "January"
+  },
+	{ "key": "July" ,
+     "value": "July"
+  },
+	{ "key": "June" ,
+     "value": "June"
+  },
+	{ "key": "March" ,
+     "value": "March"
+  },
+	{ "key": "May" ,
+     "value": "May"
+  },
+	{ "key": "November" ,
+     "value": "November"
+  },
+	{ "key": "October" ,
+     "value": "October"
+  },
+	{ "key": "September" ,
+     "value": "September"
+  },
+	{ "key": "Close" ,
+     "value": "Close"
+  },
+	{ "key": "UnableToEditEducatorSubjectMsg" ,
+     "value": "You can’t uncheck this subject without unlinking any classes, assignments, and assessments that are linked to this educator first."
+  },
+	{ "key": "UnableToEditClassSubject" ,
+     "value": "You can’t change the subject of this class. Please unlink any courses, students, teachers, and co-teachers linked to this class first."
+  },
+	{ "key": "UnableToEditGradeofClass" ,
+     "value": "You can’t change the Year of this class."
+  },
+	{ "key": "UnlinkConfirmationMessage" ,
+     "value": "Are you sure you want to remove this ?"
+  },
+	{ "key": "Open" ,
+     "value": "Not Started"
+  },
+	{ "key": "Assessment_Report_All_Courses_One_Course_per_Line_" ,
+     "value": "Assessment_Report_All_Courses_One_Course_per_Line_"
+  },
+	{ "key": "Assessment_Report_Course_Class_One_Lesson_per_Line_" ,
+     "value": "Assessment_Report_Course_Class_One_Lesson_per_Line_"
+  },
+	{ "key": "Assessment_Report_Course_Class_One_Student_per_Line_" ,
+     "value": "Assessment_Report_Course_Class_One_Student_per_Line_"
+  },
+	{ "key": "Assessment_Report_Course_One_Class_per_Line_" ,
+     "value": "Assessment_Report_Course_One_Class_per_Line_"
+  },
+	{ "key": "Assessment_Report_Course_One_Student_per_Line_" ,
+     "value": "Assessment_Report_Course_One_Student_per_Line_"
+  },
+	{ "key": "Assessment_Report_Course_Student_One_Lesson_per_Line_" ,
+     "value": "Assessment_Report_Course_Student_One_Lesson_per_Line_"
+  },
+	{ "key": "Assessment_Report_Lesson_One_Student_per_Line_" ,
+     "value": "Assessment_Report_Lesson_One_Student_per_Line_"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Report" ,
+     "value": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_"
+  },
+	{ "key": "StudentAssessmentPerformanceReport_" ,
+     "value": "StudentAssessmentPerformanceReport_"
+  },
+	{ "key": "CSV" ,
+     "value": "CSV"
+  },
+	{ "key": "All_Courses_One_Course_per_Line_desc_worksheet" ,
+     "value": "This report shows students' performance of each Course based on the questions students received in related worksheets from this course."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Desc_worksheet" ,
+     "value": "This report shows the performance of a specific student per each lesson in the course specified below, based on the questions this student received in related worksheets."
+  },
+
+	{ "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_desc_worksheet" ,
+     "value": "This report shows the performance of each class based on the questions students received in worksheets related to lessons within the course specified below."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_desc_worksheet" ,
+     "value": "This report shows the performance of each lesson in the course specified below, based on the questions students received in related worksheets."
+  },
+
+	{ "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_desc_worksheet" ,
+     "value": "This report shows the performance of each student in the course specified below, based on the questions students received in related worksheets."
+  },
+	
+	{ "key": "All_Courses_One_Course_per_Line_Title_worksheet" ,
+     "value": "Report: All Courses with One Course per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Title_worksheet" ,
+     "value": "Report: Course » Class » One Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Student_Per_Line_Title_worksheet" ,
+     "value": "Report: Course » Class » One Student per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_Student_One_Lesson_Per_Line_Title_worksheet" ,
+     "value": "Report: Course » Student » One Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Lesson_One_Student_Per_Line_Title_worksheet" ,
+     "value": "Report: Course » Lesson » One Student per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Class_Per_Line_Title_worksheet" ,
+     "value": "Report: Course » One Class per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Lesson_Per_Line_Title_worksheet" ,
+     "value": "Report: Course » One Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_One_Student_Per_Line_Title_worksheet" ,
+     "value": "Report: Course » One Student per Line"
+  },
+	{ "key": "EssayQuestionHint" ,
+     "value": "This question should be marked by the educator."
+  },
+	{ "key": "All_Assessments_One_Assessment_per_Line_desc" ,
+     "value": "This report shows the performance of all assessments, based on the questions students received in these assessments."
+  },
+	{ "key": "All_Assessments_One_Assessment_per_Line_Title" ,
+     "value": "Report: All Assessments » One Assessment per Line"
+  },
+	{ "key": "All_Assessments_One_Student_per_Line_desc" ,
+     "value": "This report shows the performance of each student, based on the questions students received in all assessments."
+  },
+
+	{ "key": "All_Assessments_Specific_Student_One_Assessment_Per_Line_Title" ,
+     "value": "Report: Student » One Assessment per Line"
+  },
+	{ "key": "All_Assessments_with_One_Assessment_per_Line_Title" ,
+     "value": "All Assessments with One Assessment per Line"
+  },
+	{ "key": "All_Assessments_with_One_Student_per_Line_Title" ,
+     "value": "All Assessments with One Student per Line"
+  },
+	{ "key": "Reports_AssessmentTitle" ,
+     "value": "Assessment Title"
+  },
+	{ "key": "Reports_AssessmentType_Assessment" ,
+     "value": "Assessment"
+  },
+	{ "key": "Reports_AssessmentType_Quiz" ,
+     "value": "Quiz"
+  },
+	{ "key": "Reports_StudentName" ,
+     "value": "Student Name"
+  },
+	{ "key": "Reports_AssessmentStatus_closed" ,
+     "value": "Closed"
+  },
+	{ "key": "Reports_AssessmentStatus_draft" ,
+     "value": "Draft"
+  },
+	{ "key": "Reports_AssessmentStatus_future" ,
+     "value": "Pending"
+  },
+	{ "key": "Reports_AssessmentStatus_opened" ,
+     "value": "In progress"
+  },
+	{ "key": "All_Assessments_One_Assessment_per_Line_Download" ,
+     "value": "Assessment_Report_All_Assessments_One_Assessment_per_Line"
+  },
+	{ "key": "All_Assessments_One_Student_per_Line_Download" ,
+     "value": "Assessment_Report_All_Assessments_One_Student_per_Line"
+  },
+	{ "key": "All_Assessments_Specific_Assessment_One_Student_Per_Line_Download" ,
+     "value": "Assessment_Report_Assessment_One_Student_per_Line"
+  },
+	{ "key": "All_Assessments_Specific_Student_One_Assessment_Per_Line_Download" ,
+     "value": "Assessment_Report_Student_One_Assessment_per_Line"
+  },
+	{ "key": "MarkingQuestion" ,
+     "value": "Marking Short Answer Questions • Step 1 of 2: Preview Questions"
+  },
+	{ "key": "AssessmentId" ,
+     "value": "Assessment ID"
+  },
+	{ "key": "PendingMarking" ,
+     "value": "Pending Marking"
+  },
+	{ "key": "Mark" ,
+     "value": "Mark"
+  },
+	{ "key": "BackToQuestions" ,
+     "value": "Back To Questions"
+  },
+	{ "key": "MarkStep2Title" ,
+     "value": "Marking Short Answer Questions • Step 2 of 2: Marking Question"
+  },
+	{ "key": "PossibleAnswer" ,
+     "value": "Possible Answer"
+  },
+	{ "key": "ExamAssignments" ,
+     "value": "Exam Assignments"
+  },
+	{ "key": "NewExamAssignment" ,
+     "value": "New Exam Assignment"
+  },
+	{ "key": "EducatorNotAllowToCreateExamAssignment" ,
+     "value": "You have to create a class before creating an exam assignment."
+  },
+	{ "key": "Bundle" ,
+     "value": "Bundle"
+  },
+	{ "key": "ExamAssignmentTitle" ,
+     "value": "Exam title"
+  },
+	{ "key": "ExamPaper" ,
+     "value": "Exam paper"
+  },
+	{ "key": "ModelAnswers" ,
+     "value": "Model Answer"
+  },
+	{ "key": "ChooseBundle" ,
+     "value": "Select Bundle"
+  },
+	{ "key": "ChoosePack" ,
+     "value": "Select Pack"
+  },
+	{ "key": "ChoosePaper" ,
+     "value": "Select Paper"
+  },
+	{ "key": "Pack" ,
+     "value": "Pack"
+  },
+	{ "key": "Paper" ,
+     "value": "Paper"
+  },
+	{ "key": "ViewExamAssignment" ,
+     "value": "VIEW EXAM ASSIGNMENTS"
+  },
+	{ "key": "AssignPaper" ,
+     "value": "ASSIGN PAPER"
+  },
+	{ "key": "NoAnswer" ,
+     "value": "(No Answer)"
+  },
+	{ "key": "CreateAssignment" ,
+     "value": "New Exam Assignment"
+  },
+	{ "key": "EditExamAssignment" ,
+     "value": "Edit Exam Assignment"
+  },
+	{ "key": "ExamAssignmentDeletedMessage" ,
+     "value": "Exam Assignment has been Deleted."
+  },
+	{ "key": "AssignmentDeletedMessage" ,
+     "value": "This exam assignment has been deleted."
+  },
+	{ "key": "TherIsNoExamAssignments" ,
+     "value": "You don't have any exam assignment."
+  },
+	{ "key": "YouCanOnlySelectBundle" ,
+     "value": "You can only select 1 bundle"
+  },
+	{ "key": "YouCanOnlySelectPack" ,
+     "value": "You can only select 1 pack"
+  },
+	{ "key": "YouCanOnlySelectPaper" ,
+     "value": "You can only select 1 paper"
+  },
+	{ "key": "YouMustSelectStudentOrClass" ,
+     "value": "You can't create an assignment without assigning either class(es) or student(s) first."
+  },
+	{ "key": "ThereIsNoDataAvailableReports" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_" ,
+     "value": "A Specific Course_Student with one Lesson per Line"
+  },
+	{ "key": "CoursesPerformance_Specific_Course_Class_One_Lesson_Per_Line_Report_" ,
+     "value": "Worksheet Report: Course_Class_One Lesson per Line"
+  },
+	{ "key": "Worksheet_Report_All_Courses_One_Course_per_Line_" ,
+     "value": "Worksheet Report_All Courses with One Course per Line"
+  },
+	{ "key": "Worksheet_Report_Course_Class_One_Lesson_per_Line_" ,
+     "value": "Worksheet Report: Course_Class_One Lesson per Line"
+  },
+	{ "key": "Worksheet_Report_Course_Class_One_Student_per_Line_" ,
+     "value": "Worksheet Report_Course_Class_One Student per Line"
+  },
+	{ "key": "Worksheet_Report_Course_One_Class_per_Line_" ,
+     "value": "Worksheet Report_Course_One Class per Line"
+  },
+	{ "key": "Worksheet_Report_Course_One_Student_per_Line_" ,
+     "value": "Worksheet Report: Course_One Student per Line"
+  },
+	{ "key": "Worksheet_Report_Course_Student_One_Lesson_per_Line_" ,
+     "value": "Worksheet Report_Course_Student_One Lesson per Line"
+  },
+	{ "key": "Worksheet_Report_Lesson_One_Student_per_Line_" ,
+     "value": "Worksheet Report_Course_Lesson_One Student per Line"
+  },
+	{ "key": "AccessDeniedMessage" ,
+     "value": "You are not authorized to view this page."
+  },
+	{ "key": "XLS" ,
+     "value": "XLS"
+  },
+	{ "key": "VideoOverview" ,
+     "value": "Video Overview"
+  },
+	{ "key": "ReportsAssessmentTitle" ,
+     "value": "Assessment Title"
+  },
+	{ "key": "ReportsChartsFormat" ,
+     "value": "Charts"
+  },
+	{ "key": "ReportsTableFormat" ,
+     "value": "Table"
+  },
+	{ "key": "Question1" ,
+     "value": "One Question"
+  },
+	{ "key": "Question2" ,
+     "value": "2 Questions"
+  },
+	{ "key": "Question3" ,
+     "value": "Questions"
+  },
+	{ "key": "Question4" ,
+     "value": "Questions"
+  },
+	{ "key": "video1" ,
+     "value": "One Solution Video"
+  },
+	{ "key": "video2" ,
+     "value": "2 Solution Videos"
+  },
+	{ "key": "video3" ,
+     "value": "Solution Videos"
+  },
+	{ "key": "video4" ,
+     "value": "Solution Videos"
+  },
+	{ "key": "NoDataForItem" ,
+     "value": "No data for this item."
+  },
+	{ "key": "PerStudent" ,
+     "value": "per Student"
+  },
+	{ "key": "paper1" ,
+     "value": "One Paper"
+  },
+	{ "key": "paper2" ,
+     "value": "2 Papers"
+  },
+	{ "key": "paper3" ,
+     "value": "Papers"
+  },
+	{ "key": "paper4" ,
+     "value": "Papers"
+  },
+	{ "key": "Analytics" ,
+     "value": "Analytics"
+  },
+	{ "key": "LessonsUsed" ,
+     "value": "Lessons Used"
+  },
+	{ "key": "UsernameValidation" ,
+     "value": "Please enter a valid username with at least 6 characters and no spaces."
+  },
+	{ "key": "StudentUserNameAlreadyExists" ,
+     "value": "This username already exists, Please use another one"
+  },
+	{ "key": "NewFile" ,
+     "value": "New File"
+  },
+	{ "key": "Browse" ,
+     "value": "Browse"
+  },
+	{ "key": "Date" ,
+     "value": "Date"
+  },
+	{ "key": "DeleteFile" ,
+     "value": "Delete File"
+  },
+	{ "key": "DroporBrowse" ,
+     "value": "Drop files or browse"
+  },
+	{ "key": "EnterNameMsg" ,
+     "value": "Enter a name for the file."
+  },
+	{ "key": "FileIsSharedMsg" ,
+     "value": "This file might be shared with other classes. Are you sure you want to delete this?"
+  },
+	{ "key": "FileLengthMsg" ,
+     "value": "File is too large it shouldn’t exceed {0} GB."
+  },
+	{ "key": "FileNameLengthMsg" ,
+     "value": "The file name should not exceed {0} characters."
+  },
+	{ "key": "Name" ,
+     "value": "Name"
+  },
+	{ "key": "NameExistMsg" ,
+     "value": "A file with the same name already exists."
+  },
+	{ "key": "Owner" ,
+     "value": "Owner"
+  },
+	{ "key": "Rename" ,
+     "value": "Rename"
+  },
+	{ "key": "Size" ,
+     "value": "Size"
+  },
+	{ "key": "UnAuthorizeToRenameMSg" ,
+     "value": "You’re not authorised to rename the file"
+  },
+	{ "key": "Uploadedby" ,
+     "value": "Uploaded by"
+  },
+	{ "key": "UploadedbyMe" ,
+     "value": "Uploaded by Me"
+  },
+	{ "key": "UploadEmptyFileMsg" ,
+     "value": "The file is empty."
+  },
+	{ "key": "UploadFiles" ,
+     "value": "Upload Files"
+  },
+	{ "key": "UploadOneTimeMsg" ,
+     "value": "You can’t upload more than one attachment at a time."
+  },
+	{ "key": "DeleteStudentMg" ,
+     "value": "The student has been deleted."
+  },
+	{ "key": "StudentFailedToDeleteMessage" ,
+     "value": "Failed To delete student's information. Please try again."
+  },
+	{ "key": "Action" ,
+     "value": "Action"
+  },
+	{ "key": "Files" ,
+     "value": "Files"
+  },
+	{ "key": "Messages" ,
+     "value": "Posts"
+  },
+	{ "key": "MYCLASSES" ,
+     "value": "My Classes"
+  },
+	{ "key": "Post" ,
+     "value": "Post"
+  },
+	{ "key": "SharedBy" ,
+     "value": "Shared By"
+  },
+	{ "key": "SharedIn" ,
+     "value": "Shared In"
+  },
+	{ "key": "Unshare" ,
+     "value": "Unshare"
+  },
+	{ "key": "SharewithClass" ,
+     "value": "Share with Class"
+  },
+	{ "key": "AllStudents" ,
+     "value": "All Students"
+  },
+	{ "key": "ClassWithNoStudentsMsg" ,
+     "value": "This class doesn't have students."
+  },
+	{ "key": "MaximumClassMsg" ,
+     "value": "You can only select 1 class"
+  },
+	{ "key": "YouSelectAllStudents" ,
+     "value": "You have selected all students"
+  },
+	{ "key": "File" ,
+     "value": "File"
+  },
+	{ "key": "LibraryHeader" ,
+     "value": "[{0}&amp;#8211;{1} of {2}]"
+  },
+	{ "key": "Share" ,
+     "value": "Share"
+  },
+	{ "key": "ShareMessage" ,
+     "value": "Share Message with Class"
+  },
+	{ "key": "Shares" ,
+     "value": "Shares"
+  },
+	{ "key": "AnsweredAssessments" ,
+     "value": "Answered Assessments"
+  },
+	{ "key": "AnsweredWorksheets" ,
+     "value": "Answered Worksheets"
+  },
+	{ "key": "Statistics" ,
+     "value": "Statistics"
+  },
+	{ "key": "WatchedVideos" ,
+     "value": "Watched Videos"
+  },
+	{ "key": "AddCourses" ,
+     "value": "Add Courses"
+  },
+	{ "key": "AddStudents" ,
+     "value": "Add Students"
+  },
+	{ "key": "KB" ,
+     "value": "KB"
+  },
+	{ "key": "MB" ,
+     "value": "MB"
+  },
+	{ "key": "Student" ,
+     "value": "Student"
+  },
+	{ "key": "Students1" ,
+     "value": "Students"
+  },
+	{ "key": "MyLibrary" ,
+     "value": "My Library"
+  },
+	{ "key": "AddFiles" ,
+     "value": "Add Files"
+  },
+	{ "key": "ChooseFromLibrary" ,
+     "value": "Choose From Library"
+  },
+	{ "key": "SelectClasses" ,
+     "value": "Select Classes"
+  },
+	{ "key": "DeleteStudent" ,
+     "value": "Delete"
+  },
+	{ "key": "ClassCoTeachers" ,
+     "value": "Co-Teachers"
+  },
+	{ "key": "SelectCoTeachers" ,
+     "value": "Select Co-Teachers"
+  },
+	{ "key": "WorksheetsQuestions" ,
+     "value": "Worksheets Questions"
+  },
+	{ "key": "NoFilesMsg" ,
+     "value": "No files found."
+  },
+	{ "key": "YouDontHaveFile" ,
+     "value": "No files have been uploaded yet."
+  },
+	{ "key": "GB" ,
+     "value": "GB"
+  },
+	{ "key": "AddToLibrary" ,
+     "value": "Add to Library"
+  },
+	{ "key": "AllFiles" ,
+     "value": "All Files"
+  },
+	{ "key": "MyFiles" ,
+     "value": "My Files"
+  },
+	{ "key": "StudioVideos" ,
+     "value": "Studio Videos"
+  },
+	{ "key": "NoPostsMsg" ,
+     "value": "There are no posts yet in this class."
+  },
+	{ "key": "usedStorage" ,
+     "value": "{0} MB used out of {1} GB"
+  },
+	
+	{ "key": "StudioVideoHeader" ,
+     "value": "[{0}&amp;#8211;{1} of {2}]"
+  },
+	{ "key": "AssessmentsQuestions" ,
+     "value": "Assessments Questions"
+  },
+	{ "key": "DeletePostMsg" ,
+     "value": "Are you sure you want to delete this post?"
+  },
+	{ "key": "Deletepost" ,
+     "value": "Delete Post"
+  },
+	{ "key": "Assignments" ,
+     "value": "Assignments"
+  },
+	{ "key": "ViewQuestions" ,
+     "value": "VIEW QUESTIONS"
+  },
+	{ "key": "All_Exams_One_Exams_per_Line_desc" ,
+     "value": "This report shows the performance of all exams, based on the questions students received in these exams."
+  },
+	
+	{ "key": "All_Exams_One_Exam_per_Line_Title" ,
+     "value": "Report: All Exams » One Exams per Line"
+  },
+	{ "key": "Reports_ExamTitle" ,
+     "value": "Exam Title"
+  },
+	{ "key": "Reports_ExamType_ExamAssignment" ,
+     "value": "ExamAssignment"
+  },
+	{ "key": "Reports_ExamType_InteractiveExam" ,
+     "value": "Interactive Exam"
+  },
+	{ "key": "All_Exams_Specific_Exam_One_Student_Per_Line_Title" ,
+     "value": "Report: Exam» One Student per Line"
+  },
+	{ "key": "All_Exams_Specific_Student_One_Exam_Per_Line_desc" ,
+     "value": "This report shows the performance of the specified student for each assigned Exam."
+  },
+	{ "key": "All_Exams_Specific_Student_One_Exam_Per_Line_Download" ,
+     "value": "Exam_Report_Student_One_Exam_per_Line"
+  },
+	
+	{ "key": "Duration" ,
+     "value": "Duration"
+  },
+	{ "key": "MinExamDurationValidation" ,
+     "value": "Exam Duration shouldn't be empty or 0"
+  },
+	{ "key": "PDFPaper" ,
+     "value": "This paper is PDF paper"
+  },
+	{ "key": "QuestionPaper" ,
+     "value": "This paper is questions paper"
+  },
+	{ "key": "All_Exams_with_One_Exam_per_Line_Title" ,
+     "value": "All Exams with One Exam per Line"
+  },
+	{ "key": "ExamAssignmentValidationMessage" ,
+     "value": "You can't create an exam assignment without assigning either class(es) or student(s) first."
+  },
+	{ "key": "ExamDurationTimeValidation" ,
+     "value": "The duration should not exceed the exam assignment's total time (The difference between due date and start date)"
+  },
+	{ "key": "ExamPortalTimeDuration" ,
+     "value": "The duration should not exceed the exam assignment's total time (The difference between due date and portal date)"
+  },
+	{ "key": "MinDurationValidation1" ,
+     "value": "The duration of the quiz shouldn't be less than 1 minute."
+  },
+	{ "key": "AllStudentsHaveSameExamAssignmentMsg" ,
+     "value": "The exam assignment cannot be created because all selected classes or students have received the selected paper before."
+  },
+	{ "key": "MaxAssignmentDurationValidation" ,
+     "value": "The duration of the exam assignment  is exceedingly long."
+  },
+	{ "key": "Deletevideo" ,
+     "value": "Delete Video"
+  },
+	{ "key": "DeleteVideoMsg" ,
+     "value": "Are you sure you want to delete this video? Once deleted, you will not be able to recover it."
+  },
+	{ "key": "MinAssignmentDurationValidation" ,
+     "value": "The duration of the exam assignment shouldn't be less than 1 minute."
+  },
+	{ "key": "Exam" ,
+     "value": "Exam"
+  },
+	{ "key": "Reports_ExamStatus_closed" ,
+     "value": "Closed"
+  },
+	{ "key": "Reports_ExamStatus_draft" ,
+     "value": "Draft"
+  },
+	{ "key": "Reports_ExamStatus_future" ,
+     "value": "Pending"
+  },
+	{ "key": "Reports_ExamStatus_opened" ,
+     "value": "In progress"
+  },
+	{ "key": "LastUpdated" ,
+     "value": "Last modified:"
+  },
+	{ "key": "PrivacyMetadata" ,
+     "value": "View Nagwa’s Privacy Policy."
+  },
+	{ "key": "TermsMetadata" ,
+     "value": "View Nagwa’s Terms and Conditions."
+  },
+	{ "key": "AboutUsTitle" ,
+     "value": "About Us"
+  },
+	{ "key": "Company" ,
+     "value": "Company"
+  },
+	{ "key": "PrivacyPolicyPageTitle" ,
+     "value": "Privacy Policy"
+  },
+	{ "key": "TermsAndConditionsPageTitle" ,
+     "value": "Terms and Conditions"
+  },
+	{ "key": "nav_apps" ,
+     "value": "Apps"
+  },
+	{ "key": "AmazingApps" ,
+     "value": "Nagwa Apps"
+  },
+	{ "key": "StudyAppDesc" ,
+     "value": "Students can use the Nagwa Study app to answer auto-marked questions, complete assessments, and watch videos to support their understanding of key topics. Nagwa Study is used in collaboration with Nagwa Portals."
+  },
+	{ "key": "StudyAppHeader" ,
+     "value": "Nagwa Study"
+  },
+	{ "key": "NagwaStudio" ,
+     "value": "Nagwa Studio"
+  },
+	{ "key": "NagwaStudioAppBody" ,
+     "value": "Educators can use the Nagwa Studio app to create their own tutorial videos using our digital whiteboard and share them with their students. Nagwa Studio is used in collaboration with Nagwa Portals."
+  },
+	{ "key": "Clear" ,
+     "value": "Clear"
+  },
+	{ "key": "AssessmentSearchPlaceholder" ,
+     "value": "Type assessment's title."
+  },
+	{ "key": "ClassSearchPlaceholder" ,
+     "value": "Type class code or title."
+  },
+	{ "key": "EducatorSearchPlaceholder" ,
+     "value": "Type educator's first or last name."
+  },
+	{ "key": "ExamSearchPlaceholder" ,
+     "value": "Type bundle's title."
+  },
+	{ "key": "GradeSearchPlaceholder" ,
+     "value": "Type Grade code or name."
+  },
+	{ "key": "StudentSearchPlaceholder" ,
+     "value": "Type student's code or first or last name."
+  },
+	{ "key": "ClassReport_All_Classses_One_Class_Per_Line" ,
+     "value": "Report: All Classes » One Class per Line"
+  },
+	{ "key": "ClassReport_All_Classses_One_Class_Per_Line_desc" ,
+     "value": "This report shows the performance of each class based on the questions students received in assessments. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "ClassReport_All_Classses_One_Class_Per_Line_Download" ,
+     "value": "All_Classses_One_Class_Per_Line"
+  },
+
+	{ "key": "ClassReport_AverageScore" ,
+     "value": "Average Score"
+  },
+	{ "key": "ClassReport_Class" ,
+     "value": "Class"
+  },
+	{ "key": "ClassReport_ClassCode" ,
+     "value": "Class Code"
+  },
+	{ "key": "ClassReport_Classes" ,
+     "value": "Classes"
+  },
+	{ "key": "ClassReport_ClassTitle" ,
+     "value": "Class Title"
+  },
+	{ "key": "ClassReport_Class_Lesson_With_One_Student_Per_Line" ,
+     "value": "Report: Class » Lesson » One Student per Line"
+  },
+	{ "key": "ClassReport_Class_Lesson_With_One_Student_Per_Line_desc" ,
+     "value": "This report shows the performance of students in specific lessons that include the questions students received in assessments.It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	
+	{ "key": "ClassReport_Class_student_With_One_Lesson_Per_Line" ,
+     "value": "Report: Class » Student » One Lesson per Line"
+  },
+	{ "key": "ClassReport_Class_student_With_One_Lesson_Per_Line_desc" ,
+     "value": "This report shows the performance of a specific student in all the lessons that include the questions received in assessments.It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+
+	{ "key": "ClassReport_Class_With_One_Lesson_Per_Line" ,
+     "value": "Class Report: Class » One Lesson per Line"
+  },
+	{ "key": "ClassReport_Class_With_One_Lesson_Per_Line_desc" ,
+     "value": "This report shows the performance of a specific class in all the lessons that include the questions students received in assessments.It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "ClassReport_Class_With_One_Lesson_Per_Line_Download" ,
+     "value": "Class_With_One_Lesson_Per_Li"
+  },
+	{ "key": "ClassReport_Class_With_One_Student_Per_Line" ,
+     "value": "Report: Class » One Student per Line"
+  },
+	{ "key": "ClassReport_Class_With_One_Student_Per_Line_desc" ,
+     "value": "This report shows the performance of  students in a specific class.It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	
+	{ "key": "ClassReport_Correct" ,
+     "value": "Correct"
+  },
+	{ "key": "ClassReport_CorrectPerStudent" ,
+     "value": "Correct per Student"
+  },
+	{ "key": "ClassReport_FirstName" ,
+     "value": "First Name"
+  },
+	{ "key": "ClassReport_Grade" ,
+     "value": "Grade"
+  },
+	{ "key": "ClassReport_Grades" ,
+     "value": "Grades"
+  },
+	{ "key": "ClassReport_Incorrect" ,
+     "value": "Incorrect"
+  },
+	{ "key": "ClassReport_IncorrectPerStudent" ,
+     "value": "Incorrect per Student"
+  },
+	{ "key": "ClassReport_LastName" ,
+     "value": "Last Name"
+  },
+	{ "key": "ClassReport_Lessons" ,
+     "value": "Lessons"
+  },
+	{ "key": "ClassReport_LessonTitle" ,
+     "value": "Lesson Title"
+  },
+	{ "key": "ClassReport_Questions" ,
+     "value": "Questions"
+  },
+	{ "key": "ClassReport_QuestionsPerStudent" ,
+     "value": "Questions per Student"
+  },
+	{ "key": "ClassReport_StudentCode" ,
+     "value": "Student Code"
+  },
+	{ "key": "ClassReport_Students" ,
+     "value": "Students"
+  },
+	{ "key": "ClassReport_Subject" ,
+     "value": "Subject"
+  },
+	{ "key": "ClassReport_Total" ,
+     "value": "Total"
+  },
+	{ "key": "ClassReport_Unanswered" ,
+     "value": "Unanswered"
+  },
+	{ "key": "ClassReport_UnansweredPerStudent" ,
+     "value": "Unanswered per Student"
+  },
+	{ "key": "ClassReport_Unmarked" ,
+     "value": "Unmarked"
+  },
+	{ "key": "ClassReport_ViewLessons" ,
+     "value": "Lessons"
+  },
+	{ "key": "ClassReport_ViewStudents" ,
+     "value": "Students"
+  },
+	{ "key": "ClassReport_Class_Lesson_One_Student_Per_Line_Download" ,
+     "value": "ClassReport_Class_Lesson_With_One_Student_Per_Line"
+  },
+	{ "key": "ClassReport_Class_Student_With_One_Lesson_Per_Line_Download" ,
+     "value": "ClassReport_Class_student_With_One_Lesson_Per_Line"
+  },
+	{ "key": "ClassReport_Class_With_One_Student_Per_Line_Download" ,
+     "value": "ClassReport_Class_With_One_Student_Per_Line"
+  },
+	{ "key": "ClassReport_Lesson" ,
+     "value": "Lesson"
+  },
+	{ "key": "ClassReport_Student" ,
+     "value": "Student"
+  },
+	{ "key": "DeletedFileMsg" ,
+     "value": "This file has been removed."
+  },
+	{ "key": "NoSearchResult" ,
+     "value": "No results found."
+  },
+	{ "key": "InvalidFileExtensionMsg" ,
+     "value": "Upload failed. This file format is not supported."
+  },
+	{ "key": "ClassReport_All_Classses_One_Class_Per_Line_Title" ,
+     "value": "All Classes with One Class per Line"
+  },
+	{ "key": "Deactivate" ,
+     "value": "Deactivate"
+  },
+	{ "key": "DeactivateEducatorError" ,
+     "value": "Failed to deactivate this user."
+  },
+	{ "key": "DeactivateEducatorSuccess" ,
+     "value": "The educator was deactivated successfully. It might take a few minutes for the change to take effect."
+  },
+	{ "key": "CannotDeactivateAdminMessage" ,
+     "value": "You can't deactivate the admin's account."
+  },
+	{ "key": "DeactivatedEducatorLoginMessage" ,
+     "value": "This user's account is deactivated."
+  },
+	{ "key": "DeactivateEducator" ,
+     "value": "Deactivate Educator"
+  },
+	{ "key": "DeactivateEducatorConfirmQuestion" ,
+     "value": "Are you sure you want to deactivate this educator?"
+  },
+	{ "key": "Deactivated" ,
+     "value": "deactivated"
+  },
+	{ "key": "ViewWall" ,
+     "value": "View Wall"
+  },
+	{ "key": "NewTutoringSession" ,
+     "value": "New Session"
+  },
+	{ "key": "TutoringSessions" ,
+     "value": "Sessions"
+  },
+	{ "key": "TherIsNoTutoringSessions" ,
+     "value": "You don't have any sessions."
+  },
+	{ "key": "TutoringSessionCreated" ,
+     "value": "Session was created successfully."
+  },
+	{ "key": "TutoringSessionDuration" ,
+     "value": "Duration in Minutes"
+  },
+	{ "key": "CreateTutoringSession" ,
+     "value": "Create Session"
+  },
+	{ "key": "EditTutoringSession" ,
+     "value": "Edit Session"
+  },
+	{ "key": "TutoringSessionDeletedMessage" ,
+     "value": "Session has been Deleted."
+  },
+	{ "key": "SessionStudentsValidationMessage" ,
+     "value": "You can't create a session without assigning either class(es) or student(s) first."
+  },
+	{ "key": "ContactUSTitle" ,
+     "value": "Contact Us"
+  },
+	{ "key": "Contact_AttachFile" ,
+     "value": "Attach File"
+  },
+	{ "key": "Contact_Attachment" ,
+     "value": "Attachment"
+  },
+	{ "key": "Contact_ContactInformation" ,
+     "value": "Contact Information"
+  },
+	{ "key": "Contact_CustomerServices" ,
+     "value": "Customer Services"
+  },
+	{ "key": "Contact_CustomerServicesNumber" ,
+     "value": "+44 (0) 1753 832226"
+  },
+	{ "key": "Contact_GeneralEnquiries" ,
+     "value": "General Enquiries"
+  },
+	{ "key": "Contact_GeneralEnquiriesNumber" ,
+     "value": "+44 (0) 1753 832522"
+  },
+	{ "key": "Contact_Message" ,
+     "value": "Message"
+  },
+	{ "key": "Contact_Sales" ,
+     "value": "Sales"
+  },
+	{ "key": "Contact_SalesNumber" ,
+     "value": "+44 (0) 1753 874445"
+  },
+	{ "key": "Contact_SendAMessage" ,
+     "value": "Send a Message"
+  },
+	{ "key": "ContactUsFileSize" ,
+     "value": "Attachment should be less than 10MB"
+  },
+	{ "key": "ContactUsMaximumLengthMessage" ,
+     "value": "Message should be less than 2000 characters."
+  },
+	{ "key": "ContactUsSucessMessage" ,
+     "value": "Your message has been sent successfully."
+  },
+	{ "key": "FailedToContactMessage" ,
+     "value": "Failed to send your message. Please try again"
+  },
+	{ "key": "FileExtensionFormatMessage" ,
+     "value": "Invalid File Extension"
+  },
+	{ "key": "Profile" ,
+     "value": "Profile"
+  },
+	{ "key": "TutoringSessionsIndefinite" ,
+     "value": "Sessions"
+  },
+	{ "key": "TutoringYear" ,
+     "value": "Year"
+  },
+	{ "key": "ClassGrade" ,
+     "value": "Class Year"
+  },
+	{ "key": "PracticedWorksheets" ,
+     "value": "Practiced Worksheets"
+  },
+	{ "key": "ContactUs_InvalidFileFormat" ,
+     "value": "Invalid File Format."
+  },
+	{ "key": "Activate" ,
+     "value": "Activate"
+  },
+	{ "key": "DeactivateConfirmMessage" ,
+     "value": "Deactivate Grade"
+  },
+	{ "key": "DeactivateWarningMessage" ,
+     "value": "Are you sure you want to deactivate this grade ?"
+  },
+	{ "key": "TheGradeIsActivatedSuccessfully" ,
+     "value": "Grade was activated successfully."
+  },
+	{ "key": "TheGradeIsDeactivatedSuccessfully" ,
+     "value": "Grade was deactivated successfully."
+  },
+	{ "key": "YouCanNotDeactivateGrade" ,
+     "value": "You can't deactivate this grade. You have to unlink any classes, students, or assessments linked to this grade first."
+  },
+	{ "key": "NewQuestion" ,
+     "value": "New Question"
+  },
+	{ "key": "AddQuestion" ,
+     "value": "Add Question"
+  },
+	{ "key": "AddMCQ_SelectSubject" ,
+     "value": "Select Subject"
+  },
+	{ "key": "Distractor" ,
+     "value": "Distractor"
+  },
+	{ "key": "Key" ,
+     "value": "Key"
+  },
+	{ "key": "Stem" ,
+     "value": "Stem"
+  },
+	{ "key": "AddingPortalQuestionMessage" ,
+     "value": "Question submitted successfully. It is currently processing."
+  },
+	{ "key": "FillRequiredData" ,
+     "value": "Please fill in the missing fields."
+  },
+	{ "key": "Answers" ,
+     "value": "Answers"
+  },
+	{ "key": "EnterAValidAnswer" ,
+     "value": "Enter Correct Answer."
+  },
+	{ "key": "InvalidQuestionFormat" ,
+     "value": "Invalid question format. Please try again."
+  },
+	{ "key": "MinimumAnswersSelection" ,
+     "value": "Provide a minimum of two answers."
+  },
+	{ "key": "YouMustSelectAkey" ,
+     "value": "Provide a valid answer."
+  },
+	{ "key": "EnterAtleast2Answers" ,
+     "value": "Please Enter at least 2 Answers"
+  },
+	{ "key": "DuplicateDistractors" ,
+     "value": "You can not enter the same value twice."
+  },
+	{ "key": "InvalidAnswerFormat" ,
+     "value": "Invalid answer format. Please try again."
+  },
+	{ "key": "DefaultVideosSubtitles" ,
+     "value": "Default Video Subtitles"
+  },
+	{ "key": "SelectDefaultSubtitles" ,
+     "value": "Select Default Subtitles"
+  },
+	{ "key": "ChooselessonPlaceholder" ,
+     "value": "Select Lesson"
+  },
+	{ "key": "inputTooShortForLesson" ,
+     "value": "Please enter 3 or more characters."
+  },
+	{ "key": "MaximumSelectedlessons" ,
+     "value": "You can only select 1 lesson"
+  },
+	{ "key": "NoQuestionsMsg" ,
+     "value": "You have no questions."
+  },
+	{ "key": "searching" ,
+     "value": "Searching..."
+  },
+	{ "key": "TheLesson" ,
+     "value": "Lesson"
+  },
+	{ "key": "LoadingMoreResults" ,
+     "value": "Loading more results ..."
+  },
+	{ "key": "ar" ,
+     "value": "Arabic"
+  },
+	{ "key": "en" ,
+     "value": "English"
+  },
+	{ "key": "es" ,
+     "value": "Spanish"
+  },
+	{ "key": "fr" ,
+     "value": "French"
+  },
+	{ "key": "No" ,
+     "value": "None"
+  },
+	{ "key": "pt" ,
+     "value": "Spanish"
+  },
+	{ "key": "Nodefaultsubtitles" ,
+     "value": "No default subtitles"
+  },
+	{ "key": "ChooseSubjectsPlaceholder" ,
+     "value": "Select Subjects"
+  },
+	{ "key": "Create" ,
+     "value": "Create"
+  },
+	{ "key": "CreateStudents" ,
+     "value": "Create Students"
+  },
+	{ "key": "StudentsAddedSuccessfullyMessage" ,
+     "value": "The student accounts were created successfully. It might take a few minutes for the change to take effect."
+  },
+	{ "key": "MaxGradeMessage" ,
+     "value": "You can only select 1 grade"
+  },
+	{ "key": "SelectGradePlaceholder" ,
+     "value": "Select Year"
+  },
+	{ "key": "ChooseClassPlaceholder" ,
+     "value": "Select Class"
+  },
+	{ "key": "SelectStudentsPlaceholder" ,
+     "value": "Select Students"
+  },
+	{ "key": "Image" ,
+     "value": "image"
+  },
+	{ "key": "Images" ,
+     "value": "Images"
+  },
+	{ "key": "NoImageMsg" ,
+     "value": "You don't have any materials."
+  },
+	{ "key": "AddMaterials" ,
+     "value": "Add Materials"
+  },
+	{ "key": "Materials" ,
+     "value": "Materials"
+  },
+	{ "key": "SessionImageDeletionMsg" ,
+     "value": "Are you sure you want to delete this?"
+  },
+	{ "key": "Finish" ,
+     "value": "Finish"
+  },
+	{ "key": "SelectImages" ,
+     "value": "Select Images"
+  },
+	{ "key": "UploadImages" ,
+     "value": "Upload Images"
+  },
+	{ "key": "IncludeOneLetterValidationMessage" ,
+     "value": "Must contain at least one letter."
+  },
+	{ "key": "NoSpacesValidationMessage" ,
+     "value": "No spaces"
+  },
+	{ "key": "SpecialCharactersValidationMessage" ,
+     "value": "Special characters are permitted except at the beginning and at the end."
+  },
+	{ "key": "EditPortal_Add" ,
+     "value": "Add"
+  },
+	{ "key": "EditPortal_AddSubject" ,
+     "value": "Add Subject"
+  },
+	{ "key": "EditPortal_Cancel" ,
+     "value": "Cancel"
+  },
+	{ "key": "EditPortal_CanNotRemoveMsg" ,
+     "value": "You can't remove this subject. You have to unlink any classes, educators, or assessments linked to this subject first."
+  },
+	{ "key": "EditPortal_EditSubject" ,
+     "value": "Edit Subject"
+  },
+	{ "key": "EditPortal_Save" ,
+     "value": "Save"
+  },
+	{ "key": "EditPortal_SelectDefaultSubtitles" ,
+     "value": "Select Default Subtitles"
+  },
+	{ "key": "EditPortal_SubjectName" ,
+     "value": "Subject Name"
+  },
+	{ "key": "EditPortal_Subjects" ,
+     "value": "Subjects"
+  },
+	{ "key": "Edit_Portal_Ok" ,
+     "value": "OK"
+  },
+	{ "key": "ImagesUploaded" ,
+     "value": "Images Uploaded"
+  },
+	{ "key": "EditPortal_Ok" ,
+     "value": "Ok"
+  },
+	{ "key": "EditPortal_RemoveSubject" ,
+     "value": "Remove Subject"
+  },
+	{ "key": "EditPortal_SelectAtLeasrOneSubject" ,
+     "value": "You have to select one subject or more."
+  },
+	{ "key": "EditPortal_TheSubjectAlreadyExists" ,
+     "value": "The subject already exists."
+  },
+	{ "key": "EditPortal_ThisFieldIsRequired" ,
+     "value": "This field is required."
+  },
+	{ "key": "ExamQuestionVideoMarkScheme" ,
+     "value": "Mark Scheme"
+  },
+	{ "key": "ExamQuestionVideoModelAnswer" ,
+     "value": "Model Answer"
+  },
+	{ "key": "ExamQuestionVideoStudentPen" ,
+     "value": "Student Pen"
+  },
+	{ "key": "ExamQuestionVideoTeacherComments" ,
+     "value": "Teacher Comments"
+  },
+	{ "key": "SaveAndAssign" ,
+     "value": "Save And Assign"
+  },
+	{ "key": "ChooseGradePlaceholder" ,
+     "value": "Choose Grade..."
+  },
+	{ "key": "MaximumGradeMsg" ,
+     "value": "You can only select 1 grade"
+  },
+	{ "key": "ViewAssignments" ,
+     "value": "View Assignments"
+  },
+	{ "key": "ReportsExamTitle" ,
+     "value": "Exam Title"
+  },
+	{ "key": "AddLesson" ,
+     "value": "Add Lesson"
+  },
+	{ "key": "EnterTitleErrorMessage" ,
+     "value": "You need to enter a title for the lesson."
+  },
+	{ "key": "InvalidModelAnswerFormat" ,
+     "value": "Invalid answer format. Please try again."
+  },
+	{ "key": "LessonCreatedFailureMessage" ,
+     "value": "Failed to create lesson. Please try again."
+  },
+	{ "key": "LessonCreatedSuccessMessage" ,
+     "value": "Lesson was created successfully."
+  },
+	{ "key": "LessonDuplicateTitleFailureMessage" ,
+     "value": "This title already exists. Please enter another one."
+  },
+	{ "key": "LessonGradesErrorMessage" ,
+     "value": "You can't create lessons unless you create grades first."
+  },
+	{ "key": "LessonSubjectErrorMessage" ,
+     "value": "Select the subject first."
+  },
+	{ "key": "LessonTitleLengthErrorMessage" ,
+     "value": "The title shouldn't exceed 255 characters."
+  },
+	{ "key": "LessonTitlePlaceHolder" ,
+     "value": "Lesson Title"
+  },
+	{ "key": "ModelAnswer" ,
+     "value": "Model Answer"
+  },
+	{ "key": "MultipleChoice" ,
+     "value": "Multiple Choice"
+  },
+	{ "key": "QuestionType" ,
+     "value": "Question Type"
+  },
+	{ "key": "QuestionTypePlaceHolder" ,
+     "value": "Select Question Type"
+  },
+	{ "key": "SelectGradeErrorMessage" ,
+     "value": "You need to select a grade."
+  },
+	{ "key": "ShortAnswer" ,
+     "value": "Short Answer"
+  },
+	{ "key": "All" ,
+     "value": "All"
+  },
+	{ "key": "Failed_QuestionStatus" ,
+     "value": "Failed"
+  },
+	{ "key": "Succeeded" ,
+     "value": "Succeeded"
+  },
+	{ "key": "EditAssignment" ,
+     "value": "Edit"
+  },
+	{ "key": "SendAssignment" ,
+     "value": "Send"
+  },
+	{ "key": "AllStudentsHaveSameAssignmentMsg" ,
+     "value": "The assessment can't be sent because all selected classes or students have received this assessment before."
+  },
+	{ "key": "AssignAssessment" ,
+     "value": "Assign Assessment"
+  },
+	{ "key": "EditAssignAssessment" ,
+     "value": "Edit Assign Assessment"
+  },
+	{ "key": "AssessmentAssignmentDeletedMessage" ,
+     "value": "The selected class(es) and/or student(s) are no longer assigned to this assessment."
+  },
+	{ "key": "CantDeleteAssignment" ,
+     "value": "You can't remove this assignment because it has already started."
+  },
+	{ "key": "TherIsNoAssignments" ,
+     "value": "You haven't assigned this assessment to any students yet."
+  },
+	{ "key": "AssignmentDurationInMinutes" ,
+     "value": "Duration in Minutes"
+  },
+	{ "key": "Assign" ,
+     "value": "Assign"
+  },
+	{ "key": "AssessmentCreatedMessage" ,
+     "value": "The assessment was created successfully."
+  },
+	{ "key": "AssessmentDeletedMessage2" ,
+     "value": "The assessment was deleted successfully. Everything that was linked to this assessment has been removed."
+  },
+	{ "key": "AssessmentUpdatedMessage" ,
+     "value": "The assessment was updated successfully."
+  },
+	{ "key": "AssignmentCreatedMessage" ,
+     "value": "You have assigned the assessment to the selected student(s) successfully."
+  },
+	{ "key": "AssignmentUpdatedMessage" ,
+     "value": "The assignment was updated successfully."
+  },
+	{ "key": "ClassSubject" ,
+     "value": "Class Subject"
+  },
+	{ "key": "ClassAssessmentOneStudentPerLine_Class_Assessment_One_Student_Per_Line_Download" ,
+     "value": "Class_Assessment_One_Student_Per_Line"
+  },
+	{ "key": "ClassAssessmentReassigningReport_AssessmentTitle" ,
+     "value": "Assessment Title"
+  },
+	{ "key": "ClassAssessmentReassigningReport_AverageScore" ,
+     "value": "Average Score"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class" ,
+     "value": "Class"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line" ,
+     "value": "Report: Class » Assessments » Lesson » One Student per Line"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line_desc" ,
+     "value": "This report shows the performance of students in specific lessons that include the questions students received in assessments. It includes data only from assignments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_Assessment_Lesson_With_One_Student_Per_Line_Download" ,
+     "value": "Class_Assessment_Lesson_With_One_Student_Per_Line"
+  },
+
+	{ "key": "ClassAssessmentReassigningReport_Class_assessment_student_With_One_Lesson_Per_Line" ,
+     "value": "Report: Class» Assessments » Students » One Lesson per Line"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_assessment_student_With_One_Lesson_Per_Line_desc" ,
+     "value": "This report shows the performance of a specific student in all the lessons that include the questions received in assessment (i.e., closed)."
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_Assessment_Student_With_One_Lesson_Per_Line_Download" ,
+     "value": "Class_Assessment_Student_With_One_Lesson_Per_Line"
+  },
+
+	{ "key": "ClassAssessmentReassigningReport_Class_assessment_With_One_Lesson_Per_Line" ,
+     "value": "Report: Class » Assessments » One Lesson per Line"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_assessment_With_One_Lesson_Per_Line_desc" ,
+     "value": "This report shows the performance of a specific class in all the lessons that include the questions students received in assessments. It includes data only from assessments that passed their deadlines (i.e., closed)."
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Lesson_Per_Line_Download" ,
+     "value": "Class_Assessment_With_One_Lesson_Per_Line"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_Assessment_With_One_Student_Per_Line" ,
+     "value": "Report: Class » Assessments » One Student per Line"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Class_With_One_Assessment_Per_Line" ,
+     "value": "Report: Class » One Assessment per Line"
+  },
+
+	{ "key": "ClassAssessmentReassigningReport_Class_With_One_Assessment_Per_Line_Download" ,
+     "value": "Class_With_One_Assessment_Per_Line"
+  },
+ 
+	{ "key": "ClassAssessmentReassigningReport_Correct" ,
+     "value": "Correct"
+  },
+	{ "key": "ClassAssessmentReassigningReport_correctperstudent" ,
+     "value": "Correct per Student"
+  },
+	{ "key": "ClassAssessmentReassigningReport_FirstName" ,
+     "value": "First Name"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Grade" ,
+     "value": "Grade"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Incorrect" ,
+     "value": "Incorrect"
+  },
+	{ "key": "ClassAssessmentReassigningReport_incorrectperstudent" ,
+     "value": "Incorrect per Student"
+  },
+	{ "key": "ClassAssessmentReassigningReport_LastName" ,
+     "value": "Last Name"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Lessons" ,
+     "value": "Lessons"
+  },
+	{ "key": "ClassAssessmentReassigningReport_LessonTitle" ,
+     "value": "Lesson Title"
+  },
+	{ "key": "ClassAssessmentReassigningReport_qsperstudent" ,
+     "value": "Questions per Student"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Questions" ,
+     "value": "Questions"
+  },
+	{ "key": "ClassAssessmentReassigningReport_StudentCode" ,
+     "value": "Student Code"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Students" ,
+     "value": "Students"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Subject" ,
+     "value": "Subject"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Total" ,
+     "value": "Total"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Unanswered" ,
+     "value": "Unanswered"
+  },
+	{ "key": "ClassAssessmentReassigningReport_unansweredperstudent" ,
+     "value": "Unanswered per Student"
+  },
+	{ "key": "ClassAssessmentReassigningReport_Unmarked" ,
+     "value": "Unmarked"
+  },
+	{ "key": "ClassReport_ViewAssessments" ,
+     "value": "Assessments"
+  },
+	{ "key": "CreateAndAssign" ,
+     "value": "CREATE AND ASSIGN"
+  },
+	{ "key": "footerExplainers" ,
+     "value": "Explainers"
+  },
+	{ "key": "SessionDuration" ,
+     "value": "Duration"
+  },
+	{ "key": "LessonPlan" ,
+     "value": "Lesson Plan"
+  },
+	{ "key": "LessonPlans" ,
+     "value": "Lesson Plans"
+  },
+	{ "key": "Plans" ,
+     "value": "Plans"
+  },
+	{ "key": "ThereAreNoLessonPlansContent" ,
+     "value": "You don't have any lesson plans yet."
+  },
+	{ "key": "droporbrowseImage" ,
+     "value": "Drop Image or Browse"
+  },
+	{ "key": "InvalidImageFormat" ,
+     "value": "Invalid file format. Please insert JPEG, PNG, JPG, SVG only."
+  },
+	{ "key": "InvalidImageSize" ,
+     "value": "Maximum file size is 2 MB."
+  },
+	{ "key": "UploadImage" ,
+     "value": "Upload Image"
+  },
+	{ "key": "UploadImageFailMessage" ,
+     "value": "Failed to upload image. Please try again."
+  },
+	{ "key": "NoFailedQuestions" ,
+     "value": "You have no questions that have failed processing."
+  },
+	{ "key": "NoSucceededQuestions" ,
+     "value": "You have no questions that have successfully been processed."
+  },
+	{ "key": "Change" ,
+     "value": "Change"
+  },
+	{ "key": "NoClassDetails" ,
+     "value": "You don’t have any students or educators added to this class yet."
+  },
+	{ "key": "NoCourseMessage" ,
+     "value": "You don’t have any courses added to this class yet."
+  },
+	{ "key": "NoEducatorMessage" ,
+     "value": "You don’t have any educators added to this class yet."
+  },
+	{ "key": "NoStudentMessage" ,
+     "value": "You don’t have any students added to this class yet."
+  },
+	{ "key": "TypeCourseName" ,
+     "value": "Type Course Name."
+  },
+	{ "key": "TypeEducatorName" ,
+     "value": "Type Educator Name."
+  },
+	{ "key": "TypeStudentCodeorName" ,
+     "value": "Type Student Code or Name."
+  },
+	{ "key": "ViewDetails" ,
+     "value": "View Details"
+  },
+	{ "key": "AdminStudentSearchPlaceholder" ,
+     "value": "Type the student's code, name, username, or class title."
+  },
+	{ "key": "Role" ,
+     "value": "Role"
+  },
+	{ "key": "Coteacher" ,
+     "value": "Coteacher"
+  },
+	{ "key": "AddQuestions_AddNewLesson" ,
+     "value": "Add New Lesson"
+  },
+	{ "key": "AddQuestions_AllLessons" ,
+     "value": "All Lessons"
+  },
+	{ "key": "AddQuestions_MyLessons" ,
+     "value": "Portal Lessons"
+  },
+	{ "key": "AddQuestions_SaveAndFinish" ,
+     "value": "ADD AND FINISH"
+  },
+	{ "key": "AddQuestions_SelectLesson" ,
+     "value": "Select Lesson"
+  },
+	{ "key": "CreateAssessment_BrowseLesson" ,
+     "value": "Browse Lessons"
+  },
+	{ "key": "ActivateEducatorError" ,
+     "value": "Failed to activate this user."
+  },
+	{ "key": "ActivateEducatorSuccess" ,
+     "value": "The educator was activated successfully. It might take a few minutes for the change to take effect."
+  },
+	{ "key": "CannotActivateAdminMessage" ,
+     "value": "You can't activate the admin's account."
+  },
+	{ "key": "DeletePortalQuestionSuccessMessage" ,
+     "value": "Question was deleted successfully."
+  },
+	{ "key": "DeleteQuestion" ,
+     "value": "Delete Question"
+  },
+	{ "key": "DeleteQuestionConfirmMsg" ,
+     "value": "Are you sure you want to delete this question?"
+  },
+	{ "key": "deleteQuestionWentWrong" ,
+     "value": "Failed to delete this question. Please try again."
+  },
+	{ "key": "EditQuestionWentWrong" ,
+     "value": "Failed to edit this question. Please try again."
+  },
+	{ "key": "FailDeleteQuestionsMsg" ,
+     "value": "You can’t delete this question because it has been used in previous assessments."
+  },
+	{ "key": "FailEditQuestionsMsg" ,
+     "value": "You can’t edit this question because it has been used in previous assessments."
+  },
+	{ "key": "EditQuestion" ,
+     "value": "Edit Question"
+  },
+	{ "key": "EditingPortalQuestionMessage" ,
+     "value": "Question editted successfully."
+  },
+	{ "key": "SaveAndFinish" ,
+     "value": "SAVE AND FINISH"
+  },
+	{ "key": "AllClasses" ,
+     "value": "All Classes"
+  },
+	{ "key": "Plan" ,
+     "value": "Plan"
+  },
+	{ "key": "Lessons_small" ,
+     "value": "lessons"
+  },
+	{ "key": "Questions_small" ,
+     "value": "questions"
+  },
+	{ "key": "Worksheets_small" ,
+     "value": "worksheets"
+  },
+	{ "key": "assessments_small" ,
+     "value": "assessments"
+  },
+	{ "key": "assignments_small" ,
+     "value": "assignments"
+  },
+	{ "key": "classes_small" ,
+     "value": "classes"
+  },
+	{ "key": "courses_small" ,
+     "value": "courses"
+  },
+	{ "key": "educators_small" ,
+     "value": "educators"
+  },
+	{ "key": "examassignments_small" ,
+     "value": "exam assignments"
+  },
+	{ "key": "explainers_small" ,
+     "value": "explainers"
+  },
+	{ "key": "files_small" ,
+     "value": "files"
+  },
+	{ "key": "LessonPlans_small" ,
+     "value": "lesson plans"
+  },
+	{ "key": "sessions" ,
+     "value": "sessions"
+  },
+	{ "key": "students_small" ,
+     "value": "students"
+  },
+	{ "key": "AllQuestions" ,
+     "value": "All Questions"
+  },
+	{ "key": "videos_small" ,
+     "value": "videos"
+  },
+	{ "key": "video_small" ,
+     "value": "video"
+  },
+	{ "key": "MyQuestions" ,
+     "value": "My Questions"
+  },
+	{ "key": "file_small" ,
+     "value": "file"
+  },
+	{ "key": "AssignedBy" ,
+     "value": "Assigned by"
+  },
+	{ "key": "AllAssignments" ,
+     "value": "All Assignments"
+  },
+	{ "key": "MyAssignments" ,
+     "value": "My Assignments"
+  },
+	{ "key": "AllAssessments" ,
+     "value": "All Assessments"
+  },
+	{ "key": "question_small" ,
+     "value": "question"
+  },
+	{ "key": "MyAssessments" ,
+     "value": "My Assessments"
+  },
+	{ "key": "LessonPlaylist" ,
+     "value": "Lesson Playlist"
+  },
+	{ "key": "ChooseGradesPlaceholder" ,
+     "value": "Select Year"
+  },
+	{ "key": "LessonPresentation" ,
+     "value": "Lesson Presentation"
+  },
+	{ "key": "SubjectGradePairMessage" ,
+     "value": "Please select subject and grade"
+  },
+	{ "key": "LessonExplainer" ,
+     "value": "Lesson Explainer"
+  },
+	{ "key": "NoGradeAssignedToEducator" ,
+     "value": "No grades assigned to educator"
+  },
+	{ "key": "LessonVideo" ,
+     "value": "Lesson Video"
+  },
+	{ "key": "NoSubjectAssignedToEducator" ,
+     "value": "No subjects assigned to educator"
+  },
+	{ "key": "LessonWorksheet" ,
+     "value": "Lesson Worksheet"
+  },
+	{ "key": "AddToMyLibrary" ,
+     "value": "Add to my library"
+  },
+	{ "key": "PaperNotPublishedErrorMsg" ,
+     "value": "This exam is not available anymore"
+  },
+	{ "key": "CanNotDeleteSubjectGrade" ,
+     "value": "You can't remove this subject and grade. You have to unlink any classes, educators, or assessments linked to this subject and grade first."
+  },
+	{ "key": "SubjectGrades" ,
+     "value": "Subject/Grades"
+  },
+	{ "key": "LibrarySelectGrade" ,
+     "value": "Select Grade"
+  },
+	{ "key": "LibrarySelectSubject" ,
+     "value": "Select Subject"
+  },
+	{ "key": "Question_QuestionsList" ,
+     "value": "Question"
+  },
+	{ "key": "Extend" ,
+     "value": "Extend"
+  },
+	{ "key": "AssessmentExtendedFailed" ,
+     "value": "Failed to extend the assessment. Please try again"
+  },
+	{ "key": "AssessmentExtendedSuccessfully" ,
+     "value": "The due date for ({0}) students from Class {1} has been extended successfully."
+  },
+	{ "key": "ExtendAssessmentDueDate" ,
+     "value": "Extend Assessment Due Date"
+  },
+	{ "key": "ExtendDueDateSelectedStudents" ,
+     "value": "Select the students you want to extend the due date for from the following columns."
+  },
+	{ "key": "MustSelectStudentsFirst" ,
+     "value": "You must select students first."
+  },
+	{ "key": "UserNameValidationMessage" ,
+     "value": "The Username: - Must be 1 to 50 characters long - Must contain at least one letter - Only use latin characters, numbers, dashes, underscores, periods except at the beginning and at the end - No spaces and should include the portal code at the end."
+  },
+	{ "key": "DuplicateUserName" ,
+     "value": "This Username already exists. Please enter another one."
+  },
+	{ "key": "UserNameIsRequired" ,
+     "value": "This field is required."
+  },
+	{ "key": "UsernameShouldHaveSuffix" ,
+     "value": "The username should include the portal suffix ({0}) at the end."
+  },
+	{ "key": "UserNameValidation1" ,
+     "value": "You can only use letters, numbers, dashes, underscores, and periods."
+  },
+	{ "key": "DueDateLessthanOldDueDate" ,
+     "value": "The due date or time must be greater than the old one."
+  },
+	{ "key": "ClickHerePreview" ,
+     "value": "View Assignments"
+  },
+	{ "key": "ShowAll" ,
+     "value": "Show All"
+  },
+	{ "key": "students_classList" ,
+     "value": "students"
+  },
+	{ "key": "PortalIsDeactivatedMsg" ,
+     "value": "Portal Is Deactivated"
+  },
+	{ "key": "UserIsDeactivatedMsg" ,
+     "value": "User Is Deactivated"
+  },
+	{ "key": "ResetEducatorPasswordMessage" ,
+     "value": "Now, the educator will be able to set a new password the next time they sign in."
+  },
+	{ "key": "ResetPasswordConfirmMessage_Educator" ,
+     "value": "Are you sure you want to reset this educator's password?"
+  },
+	{ "key": "ResetEducatorPasswordFail" ,
+     "value": "Failed to reset educator password, try again later."
+  },
+	{ "key": "DuplicateClassForSameStudent" ,
+     "value": "The class has been entered twice for the same student."
+  },
+	{ "key": "Playlist" ,
+     "value": "Playlists"
+  },
+	{ "key": "Presentations" ,
+     "value": "Presentations"
+  },
+	{ "key": "Playlists_small" ,
+     "value": "playlists"
+  },
+	{ "key": "Presentations_small" ,
+     "value": "presentations"
+  },
+	{ "key": "NoArabicValidationMessage" ,
+     "value": "This field can not be in Arabic."
+  },
+	{ "key": "LessonMenu" ,
+     "value": "Lesson Menu"
+  },
+	{ "key": "CustomSpecialCharacterValidation" ,
+     "value": "Must be written in Latin characters and only dashes, underscores, and periods are allowed."
+  },
+	{ "key": "SubjectGradeValidation" ,
+     "value": "Please select subject and grade."
+  },
+	{ "key": "MaxSubjectValidationMessage" ,
+     "value": "You have a limit of {0} Subjects. To add more, please upgrade to a higher tier."
+  },
+	{ "key": "MaxEducatorValidationMessage" ,
+     "value": "You have a limit of {0} educators. To add more, please upgrade to a higher tier."
+  },
+	{ "key": "AllPeriodStudentsActivity" ,
+     "value": "Active Students During Each Calendar Month"
+  },
+	{ "key": "OnePeriodStudentsActivity" ,
+     "value": "Active Students During"
+  },
+	{ "key": "ThereIsNoActivitiesReports" ,
+     "value": "There are no activity reports yet."
+  },
+	{ "key": "DownloadSheetWithErrors" ,
+     "value": "We have detected some errors. Please &lt;a href={0}&gt;download the sheet&lt;/a&gt; to fix the errors and try uploading it again."
+  },
+	{ "key": "LoginPageSettings" ,
+     "value": "Website Settings"
+  },
+	{ "key": "LoginSettingSuccessMsg" ,
+     "value": "Portal's information has been updated successfully."
+  },
+	{ "key": "URLNotValid" ,
+     "value": "URL is not valid."
+  },
+	{ "key": "EditStudents" ,
+     "value": "Edit Students"
+  },
+	{ "key": "GeneralVideo" ,
+     "value": "Video"
+  },
+	{ "key": "LessonVideos" ,
+     "value": "Lesson Video"
+  },
+	{ "key": "PopVideo" ,
+     "value": "Pop Video"
+  },
+	{ "key": "QuestionVideo" ,
+     "value": "Question Video"
+  },
+	{ "key": "CreatedQuestions" ,
+     "value": "Created Questions"
+  },
+	{ "key": "Educatorname" ,
+     "value": "Educator's Name"
+  },
+	{ "key": "EducatorsUsageReports" ,
+     "value": "Educator's Usage Report"
+  },
+	{ "key": "Posts" ,
+     "value": "Posts"
+  },
+	{ "key": "SubjectGradePairs" ,
+     "value": "Subject Grade Pairs"
+  },
+	{ "key": "ThereIsNoEducators" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "UploadedLibraryfiles" ,
+     "value": "Uploaded Library Files"
+  },
+	{ "key": "UploadedLibraryvideos" ,
+     "value": "Uploaded Library Videos"
+  },
+	{ "key": "UploadedStudiovideos" ,
+     "value": "Uploaded Studio Videos"
+  },
+	{ "key": "Usedquestions" ,
+     "value": "Used Questions"
+  },
+	{ "key": "DescriptionLengthValidation" ,
+     "value": "Description length should be between {0} to {1} characters"
+  },
+	{ "key": "LibraryVideos" ,
+     "value": "Videos"
+  },
+	{ "key": "ImageAttachmentsCount" ,
+     "value": "Image Attachment Count"
+  },
+	{ "key": "School" ,
+     "value": "School"
+  },
+	{ "key": "SessionsCount" ,
+     "value": "Session Count"
+  },
+	{ "key": "SessionsUsageReports" ,
+     "value": "Session Usage Report"
+  },
+	{ "key": "StudentsCount" ,
+     "value": "Students' Count"
+  },
+	{ "key": "ThereIsNoSessions" ,
+     "value": "There's no available data right now."
+  },
+	{ "key": "TotalActualDuration" ,
+     "value": "Total Actual Duration for all Sessions"
+  },
+	{ "key": "TotalPresetDuration" ,
+     "value": "Total Pre-Set Duration for all Sessions"
+  },
+	{ "key": "JoinedStudentsCount" ,
+     "value": "Joined Students' Count"
+  },
+	{ "key": "ServiceProvider" ,
+     "value": "Service Provider"
+  },
+	{ "key": "SessionActualTotalDuration" ,
+     "value": "Actual Total Duration of Sessions"
+  },
+	{ "key": "SessionDurationPreset" ,
+     "value": "Session Duration Pre-Set"
+  },
+	{ "key": "SessionID" ,
+     "value": "Session ID"
+  },
+	{ "key": "SessionStartTime" ,
+     "value": "Session Start Time"
+  },
+	{ "key": "SessionsUsageDetailsReports" ,
+     "value": "Details of Session Usage per User"
+  },
+	{ "key": "SessionTitle" ,
+     "value": "Session Title"
+  },
+	{ "key": "StudentsCount1" ,
+     "value": "Students count"
+  },
+	{ "key": "ViewAttendance" ,
+     "value": "View Attendance"
+  },
+	{ "key": "ActualSessionDuration" ,
+     "value": "Actual Session Duration"
+  },
+	{ "key": "DurationPercentageSpentbyStudentFromTheSession" ,
+     "value": "Duration % Spent by Students from the Session"
+  },
+	{ "key": "EducatorID" ,
+     "value": "Educator ID"
+  },
+	{ "key": "PresetSessionDuration" ,
+     "value": "Pre-Set Session Duration per Student"
+  },
+	{ "key": "StudentFirstName" ,
+     "value": "Student's First Name"
+  },
+	{ "key": "StudentLastName" ,
+     "value": "Student's Last Name"
+  },
+	{ "key": "StudentSessionJoinDateTime" ,
+     "value": "Date/Time of Joined Students in Sessions"
+  },
+	{ "key": "StudentUsername" ,
+     "value": "Student's Username"
+  },
+	{ "key": "TotalDurationSpentbyStudentInSession" ,
+     "value": "Total Duration Spent by Students in the Session"
+  },
+	{ "key": "SessionsAttendanceReports" ,
+     "value": "Session Attendance Report"
+  },
+	{ "key": "StudentsCountinSessions" ,
+     "value": "Students' Count in Sessions"
+  },
+	{ "key": "sessionsSection" ,
+     "value": "Sessions"
+  },
+	{ "key": "ActivitiesCount" ,
+     "value": "Active student count"
+  },
+	{ "key": "EndMonth" ,
+     "value": "End Month"
+  },
+	{ "key": "StartMonth" ,
+     "value": "Start Month"
+  },
+	{ "key": "EndOfPeriod" ,
+     "value": "End of Period"
+  },
+	{ "key": "StartOfPeriod" ,
+     "value": "Start of Period"
+  },
+	{ "key": "AssessmentQuestion" ,
+     "value": "Assessment Question"
+  },
+	{ "key": "AssessmentVariation" ,
+     "value": "Assessment Variation"
+  },
+	{ "key": "PortalQuestion" ,
+     "value": "Portal Question"
+  },
+	{ "key": "PracticeQuestion" ,
+     "value": "Practice Question"
+  },
+	{ "key": "DisplayColumns" ,
+     "value": "Display Columns"
+  },
+	{ "key": "Deletecomment" ,
+     "value": "Delete Comment"
+  },
+	{ "key": "DeleteCommentMsg" ,
+     "value": "Are you sure you want to delete this comment?"
+  },
+	{ "key": "DeleteCommentErrorMsg" ,
+     "value": "This comment has been deleted."
+  },
+	{ "key": "Comments" ,
+     "value": "Comments"
+  },
+	{ "key": "PressEscTo" ,
+     "value": "Press Esc to"
+  },
+	{ "key": "ToCancel" ,
+     "value": "cancel"
+  },
+	{ "key": "ViewMoreComments" ,
+     "value": "View more comments"
+  },
+	{ "key": "WriteComment" ,
+     "value": "Write a comment."
+  },
+	{ "key": "WriteYourComment" ,
+     "value": "Write your comment."
+  },
+	{ "key": "WriteYourCommentHere" ,
+     "value": "Write your comment here."
+  },
+	{ "key": "DeleteLessonConfirmation" ,
+     "value": "Are you sure you want to delete this lesson?"
+  },
+	{ "key": "DeleteLessonValidation" ,
+     "value": "You have to remove the questions first before deleting the lesson."
+  },
+	{ "key": "EditLesson" ,
+     "value": "Edit Lesson"
+  },
+	{ "key": "LessonName" ,
+     "value": "Lesson Name"
+  },
+	{ "key": "RemoveLesson" ,
+     "value": "Remove Lesson"
+  },
+	{ "key": "MyLessons" ,
+     "value": "My Lessons"
+  },
+	{ "key": "EditLessonTitleSuccess" ,
+     "value": "The lesson title was edited successfully."
+  },
+	{ "key": "LessonDuplicationValidation" ,
+     "value": "A lesson with the same title already exists. Please enter another one."
+  },
+	{ "key": "EditLessonSuccessMessage" ,
+     "value": "The lesson title was edited successfully."
+  },
+	{ "key": "EditLessonWentWrong" ,
+     "value": "Something went wrong during editing the lesson"
+  },
+	{ "key": "DeleteLessonSuccessMessage" ,
+     "value": "This lesson was deleted successfully."
+  },
+	{ "key": "CourseMenu" ,
+     "value": "Course Menu"
+  },
+	{ "key": "AllPeriodStudentsActivity_description" ,
+     "value": "This report shows the number of active students during each calendar month."
+  },
+	{ "key": "AlertMessageInPortalExpired" ,
+     "value": "Your subscription will expire in {0} days."
+  },
+	{ "key": "AlertMessageInGracePeriod" ,
+     "value": "Subscription has expired. Portal will be deactivated in {0} days."
+  },
+	{ "key": "AlertMessageInExceededGracePeriod" ,
+     "value": "The portal has been deactivated because subscription has expired. Please contact your portal admin."
+  },
+	{ "key": "and" ,
+     "value": "and"
+  },
+	{ "key": "OnePeriodStudentsActivity_description" ,
+     "value": "This report shows the details of the active students during"
+  },
+	{ "key": "LastActiveDate" ,
+     "value": "Last Active Date"
+  },
+	{ "key": "PendingMarkingPerStudent" ,
+     "value": "Unmarked Per Student"
+  },
+	{ "key": "GetYourPortalNow" ,
+     "value": "Get Your Portal Now"
+  },
+	{ "key": "AdditionalQuestionsAndVariationsCount" ,
+     "value": "This lesson includes {0} additional questions and {1} additional question variations for subscribers."
+  },
+	{ "key": "AdditionalQuestionsCount" ,
+     "value": "This lesson includes {0} additional questions for subscribers."
+  },
+	{ "key": "AlertMessageAdminExceedGracePeriod" ,
+     "value": "To continue using the portal and apps, please renew your subscription here."
+  },
+	{ "key": "AdditionalQuestionVariationsCount" ,
+     "value": "This lesson includes {0} additional question variations for subscribers."
+  },
+	{ "key": "AllGrades" ,
+     "value": "All Grades"
+  },
+	{ "key": "AllSubjects" ,
+     "value": "All Subjects"
+  },
+	{ "key": "usedStorageInGB" ,
+     "value": "{0} GB used out of {1} GB"
+  },
+	{ "key": "ConnectVideos" ,
+     "value": "Connect Videos"
+  },
+	
+	{ "key": "AlertMessageEducatorExceedGracePeriod" ,
+     "value": "The portal has been deactivated. Please contact your portal admin."
+  },
+	{ "key": "AlertMessageInLastDayPortalExpired" ,
+     "value": "Your subscription will expire today."
+  },
+	{ "key": "AlertMessageLastDayInGracePeriod" ,
+     "value": "Subscription has expired. Portal will be deactivated today."
+  },
+	{ "key": "AllLessons" ,
+     "value": "All Lessons"
+  },
+	{ "key": "ClearFilter" ,
+     "value": "Clear Filter"
+  },
+	{ "key": "LessonPlans_Footer" ,
+     "value": "Plans"
+  },
+	{ "key": "AlertRenewal" ,
+     "value": "Click here to renew your subscription."
+  },
+	{ "key": "SuccessTitle" ,
+     "value": "Success!"
+  },
+	{ "key": "Question5" ,
+     "value": "Questions"
+  },
+	{ "key": "Lesson1" ,
+     "value": "lesson"
+  },
+	{ "key": "LessonPlan1" ,
+     "value": "lesson plan"
+  },
+	{ "key": "LessonPlaylist1" ,
+     "value": "playlist"
+  },
+	{ "key": "LessonPlayLists" ,
+     "value": "playlists"
+  },
+	{ "key": "LessonWorksheet1" ,
+     "value": "worksheet"
+  },
+	{ "key": "LessonExplainer1" ,
+     "value": "explainer"
+  },
+	{ "key": "LessonPresentation1" ,
+     "value": "presentation"
+  },
+	{ "key": "LessonVideo1" ,
+     "value": "video"
+  },
+	{ "key": "LessonCourse1" ,
+     "value": "course"
+  },
+	{ "key": "LessonCourses_small" ,
+     "value": "courses"
+  },
+	{ "key": "LessonExplainers_small" ,
+     "value": "explainers"
+  },
+	{ "key": "LessonPlaylists_small" ,
+     "value": "playlists"
+  },
+	{ "key": "LessonPresentations_small" ,
+     "value": "presentations"
+  },
+	{ "key": "LessonVideos_small" ,
+     "value": "videos"
+  },
+	{ "key": "LessonWorksheets_small" ,
+     "value": "worksheets"
+  },
+	{ "key": "PostNotFound" ,
+     "value": "This post has been deleted or no longer exists."
+  },
+	{ "key": "Marks" ,
+     "value": "Marks"
+  },
+	{ "key": "TotalMarks" ,
+     "value": "Total Marks"
+  },
+	{ "key": "MaxDigits" ,
+     "value": "You can't add more than two digits."
+  },
+	{ "key": "SignedUpStudents" ,
+     "value": "Signed-Up Students"
+  },
+	{ "key": "Mobile" ,
+     "value": "Mobile Number"
+  },
+	{ "key": "GroupsClasses" ,
+     "value": "Groups/Classes"
+  },
+	{ "key": "Signed_Up_Students_" ,
+     "value": "Signed_Up_Students_"
+  },
+	{ "key": "SignedUpDate" ,
+     "value": "signup Date"
+  },
+	{ "key": "ThereAreNoSignedUpStudents" ,
+     "value": "You have no signed-up students yet."
+  },
+	{ "key": "SocialAccountUrlNotValid" ,
+     "value": "Social Account URL is not valid."
+  },
+	{ "key": "EditMarks" ,
+     "value": "Edit Marks"
+  },
+	{ "key": "ErrorMsg_MarkGraterThanFullMark" ,
+     "value": "This exceeds the maximum score."
+  },
+	{ "key": "GreaterThanZero" ,
+     "value": "The mark of the question must be greater than zero."
+  },
+	{ "key": "AlertMessageInIDayGracePeriod" ,
+     "value": "Subscription has expired. Portal will be deactivated in {0} day."
+  },
+	{ "key": "StudentFailedToUpdateMessage" ,
+     "value": "Failed To update student's information. Please try again."
+  },
+	{ "key": "UnRegisteredUserMsg" ,
+     "value": "You are not subscribed to this service. To subscribe, please contact us on Success@nagwa.com."
+  },
+	{ "key": "EditAssessmentStep3" ,
+     "value": "Edit Assessment • Step 3 of 3: Preview and Send Assessment"
+  },
+	{ "key": "ErrorMsg_NegativeNumbersAndLetters" ,
+     "value": "Invalid format. Please try again."
+  },
+	{ "key": "MustBeNumber" ,
+     "value": "The mark must be integer"
+  },
+	{ "key": "assessment1" ,
+     "value": "assessment"
+  },
+	{ "key": "file1" ,
+     "value": "file"
+  },
+	{ "key": "file11" ,
+     "value": "file"
+  },
+	{ "key": "session1" ,
+     "value": "session"
+  },
+	{ "key": "sessions_small" ,
+     "value": "sessions"
+  },
+	{ "key": "student1" ,
+     "value": "student"
+  },
+	{ "key": "class1" ,
+     "value": "class"
+  },
+	{ "key": "classs_small" ,
+     "value": "classes"
+  },
+	{ "key": "educator1" ,
+     "value": "educator"
+  },
+	{ "key": "SignedUpStudent1" ,
+     "value": "Signed-Up Student"
+  },
+	{ "key": "SignedUpStudents_small" ,
+     "value": "Signed-Up Students"
+  },
+	{ "key": "SignedUpStudent_small" ,
+     "value": "Signed-Up Student"
+  },
+	{ "key": "PickThisFrame" ,
+     "value": "Pick this frame"
+  },
+	{ "key": "SelectFrameThumbnail" ,
+     "value": "Select a frame to add it as your video’s thumbnail."
+  },
+	{ "key": "SelectThumbnail" ,
+     "value": "Select Thumbnail"
+  },
+	{ "key": "Thumbnail" ,
+     "value": "Thumbnail"
+  },
+	{ "key": "MustChooseThumbnail" ,
+     "value": "Please select a thumbnail for your video."
+  },
+	{ "key": "EditThumbnail" ,
+     "value": "Edit Thumbnail"
+  },
+	{ "key": "ExceedLimit" ,
+     "value": "The mark mustn't exceed 99.99."
+  },
+	{ "key": "IntegerOnly" ,
+     "value": "The total marks must be integer."
+  },
+	{ "key": "TwoDecimalsMax" ,
+     "value": "The entered number mustn't exceed two decimals."
+  },
+	{ "key": "AverageMark" ,
+     "value": "Average Mark"
+  },
+	{ "key": "StudentMark" ,
+     "value": "Student's mark"
+  },
+	{ "key": "TotalMark" ,
+     "value": "Total Marks"
+  },
+	{ "key": "ExtendConfirmationMessage" ,
+     "value": "Extending the time of the assessment beyond the previously selected due date will result in resetting the student assessment report."
+  },
+	{ "key": "Confirm" ,
+     "value": "Confirm"
+  },
+	{ "key": "MessageLimitQuestion" ,
+     "value": "You have a limit of questions.To add more, please contact your portal admin to upgrade to a higher tier.​"
+  },
+	{ "key": "MessageLimitQuestion1" ,
+     "value": "You have a limit of  {0} questions"
+  },
+	{ "key": "MessageLimitQuestion2" ,
+     "value": "To add more, please contact your portal admin to upgrade to a higher tier."
+  },
+	{ "key": "Notice" ,
+     "value": "Notice"
+  },
+	{ "key": "questionMarkValidation" ,
+     "value": "Check this question: "
+  },
+	{ "key": "questionsMarksValidation" ,
+     "value": "Check these questions: "
+  },
+	{ "key": "AssessmentReport_Unmarked" ,
+     "value": "Unmarked"
+  },
+	{ "key": "NoFilesFound" ,
+     "value": "No files found."
+  },
+	{ "key": "AssessmentTotalMark" ,
+     "value": "Assessment total mark"
+  },
+	{ "key": "StudentListReport" ,
+     "value": "Student List"
+  },
+	{ "key": "FileDeletedMsg" ,
+     "value": "This file has been deleted by the owner."
+  },
+	{ "key": "Flashcards" ,
+     "value": "Flashcards"
+  },
+	{ "key": "flashcard1" ,
+     "value": "flashcard set"
+  },
+	{ "key": "flashcards_small" ,
+     "value": "flashcard sets"
+  },
+	{ "key": "StudentScore" ,
+     "value": "Student's Score"
+  },
+	{ "key": "TotalAssessments" ,
+     "value": "Total Assessments Mark"
+  },
+	{ "key": "remainingInstance1" ,
+     "value": "additional question variation"
+  },
+	{ "key": "remainingInstances_small" ,
+     "value": "additional question variations"
+  },
+	{ "key": "remainingQuestion1" ,
+     "value": "additional question"
+  },
+	{ "key": "remainingQuestions_small" ,
+     "value": "additional questions"
+  },
+	{ "key": "RemainingQuestionsInstancesMessage" ,
+     "value": "This lesson includes {0} and {1} for subscribers."
+  },
+	{ "key": "RemainingInstancesMessage" ,
+     "value": "This lesson includes {0} for subscribers."
+  },
+	{ "key": "RemainingQuestionsMessage" ,
+     "value": "This lesson includes {0} for subscribers."
+  },
+	{ "key": "StudentsList_FirstNameDescription" ,
+     "value": "Personal name of each student"
+  },
+	{ "key": "StudentsList_GradeDescription" ,
+     "value": "The grade in which each student is enrolled in"
+  },
+	{ "key": "StudentsList_LastActiveDateDescription" ,
+     "value": "The last date that a student was active"
+  },
+	{ "key": "StudentsList_LastNameDescription" ,
+     "value": "Family name of each student"
+  },
+	{ "key": "StudentsList_StudentCodeDescription" ,
+     "value": "Generated codes given to each student"
+  },
+	{ "key": "StudentsList_UserNameDescription" ,
+     "value": "Usernames given to students by their teacher"
+  },
+	{ "key": "ExamsFreeTierSubsctiptionMsg" ,
+     "value": "You can only access one pack of exams. There are additional {0} packs for subscribers. Please contact your admin to upgrade to a higher tier."
+  },
+	{ "key": "StudentListReportDescription" ,
+     "value": "This report shows detailed information on each student."
+  },
+	{ "key": "AddQuestions_SelectPortalLesson" ,
+     "value": "Select Portal Lessons"
+  },
+	{ "key": "BrowseNagwaLesson" ,
+     "value": "Browse Nagwa Lessons"
+  },
+	{ "key": "BrowsePortalLesson" ,
+     "value": "Browse Portal Lessons"
+  },
+	{ "key": "SearchForNagwaLessons" ,
+     "value": "Search for Nagwa Lessons"
+  },
+	{ "key": "CalendarMonth" ,
+     "value": "Calendar Month"
+  },
+	{ "key": "PaymentStatus" ,
+     "value": "Payment Status"
+  },
+	{ "key": "Wallet" ,
+     "value": "Wallet"
+  },
+	{ "key": "Amount" ,
+     "value": "Amount"
+  },
+	{ "key": "Description" ,
+     "value": "Description"
+  },
+	{ "key": "Fawry" ,
+     "value": "Fawry"
+  },
+	{ "key": "FawryLocations" ,
+     "value": "Fawry locations may charge a service fee. Payments with Fawry are non-refundable."
+  },
+	{ "key": "GenerateFawryCode" ,
+     "value": "Generate Fawry Code"
+  },
+	{ "key": "MyWallet" ,
+     "value": "My Wallet"
+  },
+	{ "key": "PayAtFawry" ,
+     "value": "Pay {0} at Fawry location."
+  },
+	{ "key": "PaymentIsProcessing" ,
+     "value": "Payment is processing. Please do not refresh the page."
+  },
+	{ "key": "ReceiveSMS" ,
+     "value": "You will receive an SMS with your reference number and service code."
+  },
+	{ "key": "ReferenceNumber" ,
+     "value": "Reference number:"
+  },
+	{ "key": "ServiceCode" ,
+     "value": "Service code:"
+  },
+	{ "key": "ThereAreNoTransactions" ,
+     "value": "No transactions have been made yet."
+  },
+	{ "key": "TopUp" ,
+     "value": "Top Up"
+  },
+	{ "key": "TotalBalance" ,
+     "value": "Total Balance"
+  },
+	{ "key": "TransactionAmount" ,
+     "value": "Transaction Amount"
+  },
+	{ "key": "TransactionDate" ,
+     "value": "Transaction Date"
+  },
+	{ "key": "WalletTransactions" ,
+     "value": "Wallet Transactions"
+  },
+	{ "key": "AtFawryLocation" ,
+     "value": "at Fawry location."
+  },
+	{ "key": "Pay" ,
+     "value": "Pay"
+  },
+	{ "key": "Transaction" ,
+     "value": "Transaction"
+  },
+	{ "key": "Transactions" ,
+     "value": "Transactions"
+  },
+	{ "key": "Transactions_small" ,
+     "value": "transactions"
+  },
+	{ "key": "YouMadeDeposit" ,
+     "value": "You made a deposit of {0} {1}"
+  },
+	{ "key": "FawryFailureMsg" ,
+     "value": "Your transaction ID generation failed, please try again later."
+  },
+	{ "key": "PlusThreePound" ,
+     "value": "+ fawry fees"
+  },
+	{ "key": "EGP" ,
+     "value": "EGP"
+  },
+	{ "key": "NextTransaction" ,
+     "value": "Next"
+  },
+	{ "key": "NextTransaction1" ,
+     "value": "transaction"
+  },
+	{ "key": "NextTransaction2" ,
+     "value": "transaction"
+  },
+	{ "key": "PreviousTransaction" ,
+     "value": "Previous"
+  },
+	{ "key": "PreviousTransaction1" ,
+     "value": "transaction"
+  },
+	{ "key": "PreviousTransaction2" ,
+     "value": "transaction"
+  },
+	{ "key": "Transaction1" ,
+     "value": "transaction"
+  },
+	{ "key": "BackToWallet" ,
+     "value": "Back to Wallet"
+  },
+	{ "key": "CardNumber" ,
+     "value": "Card Number"
+  },
+	{ "key": "CardVerificationCode" ,
+     "value": "Card Verification Code"
+  },
+	{ "key": "CreditCard" ,
+     "value": "Credit Card"
+  },
+	{ "key": "CreditFailureMsg" ,
+     "value": "Your transaction ID generation failed, please try again later."
+  },
+	{ "key": "ExpiryDate" ,
+     "value": "Expiry Date"
+  },
+	{ "key": "ExpiryMonth" ,
+     "value": "Month"
+  },
+	{ "key": "ExpiryYear" ,
+     "value": "Year"
+  },
+	{ "key": "Recharge" ,
+     "value": "Recharge"
+  },
+	{ "key": "RechargeSuccessMessage" ,
+     "value": "Your wallet has been recharged successfully. It might take a while to come into effect"
+  },
+	{ "key": "PaymentWasUnsuccessful" ,
+     "value": "Payment was unsuccessful and your card wasn't charged."
+  },
+	{ "key": "NoSubjectMessage" ,
+     "value": "There’s no subject assigned to you yet. Contact your portal admin to be assigned a subject first."
+  },
+	{ "key": "CheckoutErrorMessage" ,
+     "value": "Something went wrong, please try again"
+  },
+	{ "key": "ActivateAll" ,
+     "value": "Activate All"
+  },
+	{ "key": "DeactivateAll" ,
+     "value": "Deactivate All"
+  },
+	{ "key": "NoGradesActiveMsg" ,
+     "value": "There are no active grades yet. Start activating grades now!"
+  },
+	{ "key": "NoSubjectsActiveMsg" ,
+     "value": "There are no subjects yet. Start adding subjects now!"
+  },
+	{ "key": "NoGradesAndSubjectsActiveMsg" ,
+     "value": "There are no active grades or subjects yet. Start activating grades and create subjects now!"
+  },
+	{ "key": "Configuration" ,
+     "value": "Configuration"
+  },
+	{ "key": "Code" ,
+     "value": "Code"
+  },
+	{ "key": "MyInfo" ,
+     "value": "My Info"
+  },
+	{ "key": "MyPortal" ,
+     "value": "My Portal"
+  },
+	{ "key": "MyWebsite" ,
+     "value": "My Website"
+  },
+	{ "key": "ChooseLogo" ,
+     "value": "Choose Logo"
+  },
+	{ "key": "String2" ,
+     "value": "ChooseLogo"
+  },
+	{ "key": "TimezoneSpace" ,
+     "value": "Time Zone"
+  },
+	{ "key": "ActivateAllWaningMessage" ,
+     "value": "Are you sure you want to activate all the accounts?"
+  },
+	{ "key": "DeactivateAllWaningMessage" ,
+     "value": "Are you sure you want to deactivate all the accounts?"
+  },
+	{ "key": "ActivateDeactivateAllSuccessMessage" ,
+     "value": "Done! Wait a moment before refreshing the page."
+  },
+	{ "key": "ActivateDeactivateAllErrorMessage" ,
+     "value": "Failed to do this action. Please try again."
+  },
+	{ "key": "ActivateAllWaningTitle" ,
+     "value": "Activate Accounts"
+  },
+	{ "key": "DeactivateAllWaningTitle" ,
+     "value": "Deactivate Accounts"
+  },
+	{ "key": "AddNew" ,
+     "value": "Create New Subject"
+  },
+	{ "key": "CanNotDeleteSubject" ,
+     "value": "CanNotDeleteSubject"
+  },
+	{ "key": "SubjectCreatedMessage" ,
+     "value": "Your subject was created successfully."
+  },
+	{ "key": "SubjectDeletedMessage" ,
+     "value": "Your subject was deleted successfully."
+  },
+	{ "key": "SubjectUpdatedMessage" ,
+     "value": "Your subject was edited successfully."
+  },
+	{ "key": "PhoneNumber" ,
+     "value": "Phone Number"
+  },
+	{ "key": "PhoneNumberPlaceHolder" ,
+     "value": "Enter Your Phone Number"
+  },
+	{ "key": "EditAccountFailedMessage" ,
+     "value": "Failed to update portal's information. Please try again."
+  },
+	{ "key": "NoSpecialOrAlphabeticCharacters" ,
+     "value": "Please enter a valid phone number."
+  },
+	{ "key": "AdminFundedPortal" ,
+     "value": "Admin Funded Portal"
+  },
+	{ "key": "AdminFundedPortalMsg" ,
+     "value": "Top up the wallet before students sign in for the first time,  {0} per student."
+  },
+	{ "key": "PortalPaymentType" ,
+     "value": "Portal Payment Type"
+  },
+	{ "key": "StudentFundedPortal" ,
+     "value": "Student Funded Portal"
+  },
+	{ "key": "StudentFundedPortalMsg" ,
+     "value": "Allow students to pay individually for their access to the portal, which is {0} per student."
+  },
+	{ "key": "SwitchTypeMessage" ,
+     "value": "Your change in payment plan will take affect next month, and your currently active plan is {0}."
+  },
+	{ "key": "SwitchTypeWarringMessage" ,
+     "value": "Are you sure you want to switch the payment type?"
+  },
+	{ "key": "EUR" ,
+     "value": "EUR"
+  },
+	{ "key": "GBP" ,
+     "value": "GBP"
+  },
+	{ "key": "INR" ,
+     "value": "INR"
+  },
+	{ "key": "USD" ,
+     "value": "USD"
+  },
+	{ "key": "YouCanFollowUp" ,
+     "value": "You can follow up on all deposit or debit operations from your wallet."
+  },
+	{ "key": "ClassRoom_AddNewClassroom" ,
+     "value": "Create New Student Group"
+  },
+	{ "key": "ClassRoom_ClassroomCode" ,
+     "value": "Code"
+  },
+	{ "key": "attendance_supervisor_role" ,
+     "value": "Attendance Supervisor"
+  },
+  { "key": "ClassRoom_ClassroomCoordinator" ,
+    "value": "Attendance Supervisor"
+ },
+	{ "key": "ClassRoom_ClassroomTitle" ,
+     "value": "Name"
+  },
+	{ "key": "ClassRoom_CreateTheClassRoomWithinEachGrade" ,
+     "value": "Student Groups"
+  },
+	{ "key": "ClassRoom_NewClassroom" ,
+     "value": "New Student Group"
+  },
+	{ "key": "ClassRoom_NoClassRoomFound" ,
+     "value": "There are no student groups yet."
+  },
+	{ "key": "ClassRoom_EditClassroom" ,
+     "value": "Edit Student Group"
+  },
+	{ "key": "Classrooms" ,
+     "value": "Student Groups"
+  },
+	{ "key": "ClassRoomLinkWithSubjectTitle" ,
+     "value": "Link Subjects with Student Groups"
+  },
+	{ "key": "LinkSubjectGradeNoGrades" ,
+     "value": "You need to create a student group and add a subject first before proceeding."
+  },
+
+	{ "key": "Classroom_AssignEducator" ,
+     "value": "Assign Teachers"
+  },
+	{ "key": "ClassRoom_CanNotRemoveMsg" ,
+     "value": "You have to remove the students first before deleting the student group."
+  },
+	{ "key": "Classroom_Classes" ,
+     "value": "Classes"
+  },
+	{ "key": "Classroom_ClassesEmpty" ,
+     "value": "You have no classes yet."
+  },
+	{ "key": "Classroom_ClassSearchPlaceHolder" ,
+     "value": "Type class name."
+  },
+	{ "key": "ClassRoom_CreatedMessage" ,
+     "value": "The student group was created successfully."
+  },
+	{ "key": "ClassRoom_DeletedMessage" ,
+     "value": "The student group was deleted successfully. Everything that was linked to this student group has been removed."
+  },
+	{ "key": "Classroom_Students" ,
+     "value": "Students"
+  },
+	{ "key": "Classroom_StudentSearchPlaceHolder" ,
+     "value": "Type student's code or name."
+  },
+	{ "key": "Classroom_StudentsEmpty" ,
+     "value": "You have no students here yet. Start adding students now!"
+  },
+	{ "key": "ClassRoom_UpdatedMessage" ,
+     "value": "The student group was updated successfully."
+  },
+	{ "key": "ClassRoom_ChooseCoordinatorPlaceholder" ,
+     "value": "Attendance Supervisor"
+  },
+	{ "key": "ClassRoom_ClassroomFieldsRequired" ,
+     "value": "The following fields are required."
+  },
+  { "key": "ClassRoom_ClassroomTitleLength" ,
+    "value":  "The name must be between 2 to 22 characters."
+},
+  	{ "key": "ClassRoom_ClassroomUdClassroomIdLength" ,
+    "value":  "The code should be between 1 to 20 characters."
+},
+	{ "key": "ClassRoom_NoGradesAreActivated" ,
+     "value": "You need to activate a grade first before proceeding."
+  },
+	{ "key": "Classroom" ,
+     "value": "Student Group"
+  },
+	{ "key": "SelectClassroom" ,
+     "value": "Select Student Group"
+  },
+	{ "key": "LinkSubjectswithGrades" ,
+     "value": "Link Subjects with Grades"
+  },
+	{ "key": "NoActiveGradeSubjectMsg" ,
+     "value": "You need to activate a grade and add a subject first before proceeding."
+  },
+	{ "key": "LinkSubjectWithGrades" ,
+     "value": "Subjects linked with grades successfully"
+  },
+	{ "key": "AllClassrooms" ,
+     "value": "All Student Groups"
+  },
+	{ "key": "CannotDeleteSubjectLinkedToGrade" ,
+     "value": "You can't remove this subject. You have to unlink any classes, educators, or assessments linked to this subject first."
+  },
+	{ "key": "LinkSubjectSuccessMessage" ,
+     "value": "Your changes were saved successfully."
+  },
+	{ "key": "GradesSubject" ,
+     "value": "Grades/Subjects"
+  },
+	{ "key": "CannotDeleteSubjectAttachectoClass" ,
+     "value": "You can't remove this subject. You have to unlink any educators, or students linked to this subject first."
+  },
+	{ "key": "ClassRoomLinkWithSubjectSuccess" ,
+     "value": "Your changes were saved successfully."
+  },
+	{ "key": "Classroom_AddStudents" ,
+     "value": "Add Students"
+  },
+	{ "key": "Classroom_ClassroomStudentCode" ,
+     "value": "Student Code"
+  },
+	{ "key": "ClassRoom_FieldLength" ,
+     "value": "The code and name must be unique and within 20 characters."
+  },
+	{ "key": "Classroom_TransferStudent" ,
+     "value": "Transfer"
+  },
+	{ "key": "AddNewGroup" ,
+     "value": "Add New Group"
+  },
+	{ "key": "EditGroup" ,
+     "value": "Edit Group"
+  },
+	{ "key": "GroupCreatedMessage" ,
+     "value": "Your changes were saved successfully."
+  },
+	{ "key": "GroupDeletedMessage" ,
+     "value": "Your changes were saved successfully."
+  },
+	{ "key": "GroupName" ,
+     "value": "Group Name"
+  },
+	{ "key": "GroupShouldbeUniqueError" ,
+     "value": "A subject or subject group with the same name already exists."
+  },
+	{ "key": "GroupUpdatedMessage" ,
+     "value": "Your changes were saved successfully."
+  },
+	{ "key": "NewGroup" ,
+     "value": "New Group"
+  },
+	{ "key": "SelectSubjects" ,
+     "value": "Select Subjects"
+  },
+	{ "key": "SubjectGroups" ,
+     "value": "Subject Groups"
+  },
+	{ "key": "SubjectsContainClassesError" ,
+     "value": "You can't remove this subject group. You have to unlink any educators, or students linked to these subjects first."
+  },
+	{ "key": "ClassRoom_InvalidTitleOrCode" ,
+     "value": "The code and name must be unique"
+  },
+	{ "key": "Classroom_ChooseCoTeachersPlaceholder" ,
+     "value": "Assign Co-Teacher"
+  },
+	{ "key": "Classroom_ChooseTeacherPlaceholder" ,
+     "value": "Assign Teacher"
+  },
+	{ "key": "SubjectsContainGradesError" ,
+     "value": "You can't delete this subject because it is linked to a grade."
+  },
+	{ "key": "SubjectGroupAddSubjectsValidation" ,
+     "value": "You need to add at least two subjects first."
+  },
+	{ "key": "AcademicYear" ,
+     "value": "Academic Year"
+  },
+	{ "key": "Attendance" ,
+     "value": "Attendance"
+  },
+	{ "key": "Gradebook" ,
+     "value": "Gradebook"
+  },
+	{ "key": "StudentsMarksReport" ,
+     "value": "Students’ Marks Report"
+  },
+	{ "key": "EditMark" ,
+     "value": "Edit Mark"
+  },
+	{ "key": "SelectSubjectText" ,
+     "value": "Select Subject"
+  },
+	{ "key": "BulkStudentsClassroom" ,
+     "value": "To upload multiple students, download our &lt;a href={0}&gt;template sheet&lt;/a&gt; and add your students' first and last names, the code for their year groups (as set in 'Years'), student group code (as set in 'Student Group'), and unique student IDs. "
+  },
+	{ "key": "ClassroomCode" ,
+     "value": "Student Group Code"
+  },
+	{ "key": "Admission" ,
+     "value": "Admission"
+  }
+  ]
+}
